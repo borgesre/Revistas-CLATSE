@@ -1,0 +1,1539 @@
+We present a probabilistic approach to block sizes in random maps,
+which yields straightforward and singularity analysis-free proofs of some results of
+Bender et al. (1995); Banderier et al. (2001); Gao and Wormald (1999). The proof
+also yields joint convergence in distribution of the rescaled size of the k'th largest
+2-connected block in a large random map, for any fixed k  2, to a vector of Frechet-
+type extreme order statistics. This seems to be a new result even when k = 2.
+
+It is shown that every adapted Brownian bridge on a geodesically complete
+connected Riemannian manifold is a semimartingale including its terminal
+time, without any further assumptions on the geometry. In particular, it follows
+that every such process can be horizontally lifted to a smooth principal fiber bundle
+with connection, including its terminal time. The proof is based on a localized
+Hamilton-type gradient estimate.
+
+Our model consists of a Brownian particle X moving in R, where a
+Poissonian field of moving traps is present. Each trap is a ball with constant
+radius, centered at a trap point, and each trap point moves under a Brownian
+motion independently of others and of the motion of X. Here, we investigate the
+`speed' of X on the time interval [0; t] and on `microscopic' time scales given that
+X avoids the trap field up to time t. Firstly, following the earlier work of Athreya
+et al. (2017), we obtain bounds on the maximal displacement of X from the origin.
+Our upper bound is an improvement of the corresponding bound therein. Then, we
+prove a result showing how the speed on microscopic time scales aect the overall
+macroscopic subdiusivity on [0; t]. Finally, we show that X moves subdiusively
+even on certain microscopic time scales, in the bulk of [0; t]. The results are stated
+so that each gives an `optimal survival strategy' for the system. We conclude by
+giving several related open problems.
+
+This paper is a further investigation of the problem studied in Xue
+(2015). We are concerned with the contact process with random vertex weights on
+the oriented lattice. Our main result gives the asymptotic behavior of the survival
+probability of the process conditioned on only one vertex being infected at t = 0 as
+the dimension grows to infinity. A SIR model and a branching process with random
+vertex weights are the main auxiliary tools for the proof of the main result.
+
+We consider sequences of random variables living in a finite sum of
+Wiener chaoses. We find necessary and sucient conditions for convergence in law
+to a target variable living in the sum of the first two Wiener chaoses. Our conditions
+hold notably for sequences of multiple Wiener integrals. Malliavin calculus
+and in particular the -operators are used. Our results extend previous findings
+by Azmoodeh et al. (2015) and are applied to central and non-central convergence
+situations. Our methods are applied to investigate stable convergence and we exclude
+certain classes of random variables as target variables for sequences living in
+a fixed Wiener chaos.
+
+Let r = r(n) be a sequence of integers such that r  n and let
+X1; : : : ;Xr+1 be independent random points distributed according to the Gaussian,
+the Beta or the spherical distribution on Rn. Limit theorems for the log-volume
+and the volume of the random convex hull of X1; : : : ;Xr+1 are established in high
+dimensions, that is, as r and n tend to infinity simultaneously. This includes Berry-
+Esseen-type central limit theorems, log-normal limit theorems, and moderate and
+large deviations. Also dierent types of mod- convergence are derived. The results
+heavily depend on the asymptotic growth of r relative to n. For example, we
+prove that the 
+uctuations of the volume of the simplex are normal (respectively,
+log-normal) if r = o(n) (respectively, r n for some 0 < < 1).
+
+We introduce a family of real random variables (fi; ) arising from the
+supersymmetric nonlinear sigma model H2j2 and containing the family fi introduced
+by Sabot, Tarres, and Zeng (Sabot et al., 2017) in the context of the vertexreinforced
+jump process. Using this family we construct an exponential martingale
+generalizing the ones considered in Sabot and Zeng (2018+) and Disertori et al.
+(2017). Moreover, using the full supersymmetric nonlinear sigma model we also
+construct a generalization of the exponential martingale involving Grassmann variables.
+
+We investigate a probabilistic model for routeing of messages in relayaugmented
+multihop ad-hoc networks, where each transmitter sends one message
+to the origin. Given the (random) transmitter locations, we weight the family of
+random, uniformly distributed message trajectories by an exponential probability
+weight, favouring trajectories with low interference (measured in terms of signal-tointerference
+ratio) and trajectory families with little congestion (measured in terms
+of the number of pairs of hops using the same relay). Under the resulting Gibbs
+measure, the system targets the best compromise between entropy, interference
+and congestion for a common welfare, instead of an optimization of the individual
+trajectories.
+In the limit of high spatial density of users, we describe the totality of all the
+message trajectories in terms of empirical measures. Employing large deviations
+arguments, we derive a characteristic variational formula for the limiting free energy
+and analyse the minimizer(s) of the formula, which describe the most likely shapes
+of the trajectory 
+ow. The empirical measures of the message trajectories well
+describe the interference, but not the congestion; the latter requires introducing
+an additional empirical measure. Our results remain valid under replacing the two
+penalization terms by more general functionals of these two empirical measures.
+
+The purpose of this paper is to present Bernstein and Hoeding type inequalities
+for regenerative Markov chains. Furthermore, we generalize these results
+and establish exponential bounds for suprema of empirical processes over a class of
+functions F which size is controlled by its uniform entropy number. All constants
+involved in the bounds of the considered inequalities are given in an explicit form
+which can be advantageous for practical considerations. We present the theory for
+regenerative Markov chains, however the inequalities are also valid in the Harris
+recurrent case.
+
+We consider connectivity properties of the Branching Interlacements
+model in Zd; d  5, recently introduced by Angel, Rath and Zhu (Angel et al.,
+2019). Using stochastic dimension techniques we show that every two vertices
+visited by the branching interlacements are connected via at most dd=4e conditioned
+critical branching random walks from the underlying Poisson process, and that
+this upper bound is sharp. In particular every such two branching random walks
+intersect if and only if 5  d  8. The stochastic dimension of branching random
+walk result is of independent interest. We additionally obtain heat kernel bounds
+for branching random walks conditioned on survival.
+
+Lévy-type perpetuities being the a.s. limits of particular generalized
+Ornstein-Uhlenbeck processes are a natural continuous-time generalization of discrete-
+time perpetuities. These are random variables of the form S :=
+R
+[0;1) eXsdZs,
+where (X;Z) is a two-dimensional Lévy process, and Z is a drift-free Lévy process
+of bounded variation. We prove an ultimate criterion for the finiteness of power
+moments of S. This result and the previously known assertion due to Erickson
+and Maller (2005) concerning the a.s. finiteness of S are then used to derive ultimate
+necessary and sufficient conditions for the Lp-convergence for p > 1 and
+p = 1, respectively, of Biggins’ martingales associated to branching Lévy processes.
+In particular, we provide final versions of results obtained recently in Bertoin and
+Mallein (2018).
+
+We study random unrooted plane trees with n vertices sampled according
+to the weights corresponding to the vertex-degrees. Our main result shows that
+if the generating series of the weights has positive radius of convergence, then this
+model of random trees may be approximated geometrically by a Galton{Watson
+tree conditioned on having a large random size. This implies that a variety of
+results for the well-studied planted case also hold for unrooted trees, including
+Gromov{Hausdor{Prokhorov scaling limits, tail-bounds for the diameter, distributional
+graph limits, and limits for the maximum degree. Our work complements
+results by Wang (2016), who studied random unrooted plane trees whose diameter
+tends to infinity.
+
+We consider a gas of independent Brownian particles on a bounded interval
+in contact with two particle reservoirs at the endpoints. Due to the Brownian
+nature of the particles, infinitely many particles enter and leave the system in each
+time interval. Nonetheless, the dynamics can be constructed as a Markov process
+with continuous paths on a suitable state space. If 0 and 1 are the chemical
+potentials of the boundary reservoirs, the stationary distribution (reversible if and
+only if 0 = 1) is a Poisson point process with intensity given by the linear interpolation
+between 0 and 1. We then analyze the empirical 
+ow that it is defined
+by counting, in a time interval [0; t], the net number of particles crossing a given
+point x. In the stationary regime we identify its statistics and show that it is given,
+apart an x dependent correction that is bounded for large t, by the dierence of
+two independent Poisson processes with parameters 0 and 1.
+
+The present paper is devoted to the study of a McKean-Vlasov diu-
+sion oftype self-stabilizing. We obtain this model by taking the hydrodynamical
+limit of a mean-field system of particles. The main question that we study is the
+exit-time. We take a confining potential with two wells : a < 0 and b > 0. We
+start with a deterministic condition x0 > 0 and we show that the first time that
+this diusion leaves an interval of the form (d;+1) (d verifying some assumptions)
+satisfies a Kramers'type law. In other words, this time is exponentially equivalent
+to exp
+ 2
+2H
+	
+as the diusion coecient  goes to 0, H being the exit cost. Inci-
+dentally, we also prove that the solution of the granular media equation is trapped
+(for the 2-Wasserstein distance) in a ball centered around b during a time at least
+exponentially equivalent to exp
+ 2
+2H
+	
+.
+
+This paper studies a variant of the multi-type contact process as a
+model for the competition between cooperators and defectors. Regardless of their
+type, individuals die at rate one. Defectors give birth at a fixed rate whereas cooperators
+give birth at a rate that increases linearly with the number of nearby cooperators.
+In particular, it is assumed that only cooperators benefit from cooperators,
+which is referred to as kin-recognition in the ecological literature. To understand
+how the inclusion of space in the form of local interactions affects the dynamics,
+the results for the interacting particle system are compared with their counterpart
+for the non-spatial mean-field model. Due to some monotonicity with respect to
+the parameters, both the spatial and non-spatial models exhibit a unique phase
+transition. Our analysis shows however a major difference: In the spatial model,
+when cooperation is strong enough, the cooperators out-compete the defectors even
+when starting at arbitrarily low density. In contrast, regardless of the strength of
+cooperation, when the initial density of cooperators is too low, the defectors outcompete
+the cooperators in the non-spatial model. In particular, when cooperation
+is sufficiently strong, the cooperators can invade the defectors in their equilibrium in
+the spatial model but not in the non-spatial model, showing that space in the form
+of local interactions promotes cooperation. This result is consistent with previous
+results in the literature of interacting particle systems, but our work also shows
+an interesting novel aspect: in contrast with the inclusion of local interactions, the
+inclusion of spontaneous deaths promotes defection.
+
+Suppose that on the square lattice the edge with midpoint x becomes
+open at rate kxk
+1 . Let (x; t) be the probability that the corresponding edge
+is open at time t and let n(p; t) be the distance at which edges are open with
+probability p at time t. We show that with probability tending to 1 as t ! 1:
+(i) the open cluster containing the origin C0(t) is contained in the square of radius
+n(pc; t), and (ii) the cluster fills the square of radius n(pc+; t) with the density
+of points near x being close to ((x; t)) where (p) is the percolation probability
+when bonds are open with probability p on Z2. Results of Nolin suggest that if
+N = n(pc; t) then the boundary 
+uctuations of C0(t) are of size N4=7.
+
+It is well-known that the transition function of the Ornstein-Uhlenbeck
+process solves the Fokker-Planck equation. This standard setting has been recently
+generalized in different directions, for example, by considering the so-called
+-stable driven Ornstein-Uhlenbeck, or by time-changing the original process with
+an inverse stable subordinator. In both cases, the corresponding partial differential
+equations involve fractional derivatives (of Riesz and Riemann-Liouville types, respectively)
+and the solution is not Gaussian. We consider here a new model, which
+cannot be expressed by a random time-change of the original process: we start by
+a Fokker-Planck equation (in Fourier space) with the time-derivative replaced by
+a new fractional differential operator. The resulting process is Gaussian and, in
+the stationary case, exhibits long-range dependence. Moreover, we consider further
+extensions, by means of the so-called convolution-type derivative.
+
+We consider random graphs with uniformly bounded edges on a Poisson
+point process conditioned to contain the origin. In particular we focus on the
+random connection model, the Boolean model and the Miller{Abrahams random
+resistor network with lower{bounded conductances. The latter is relevant for the
+analysis of conductivity by Mott variable range hopping in strongly disordered
+systems. By using the method of randomized algorithms developed by Duminil{
+Copin et al. we prove that in the subcritical phase the probability that the origin
+is connected to some point at distance n decays exponentially in n, while in the
+supercritical phase the probability that the origin is connected to infinity is strictly
+positive and bounded from below by a term proportional to (  c),  being the
+density of the Poisson point process and c being the critical density.
+
+We prove a Berry–Esseen type inequality for approximating expectations
+of sufficiently smooth functions f, like f = j  j3, with respect to standardized
+convolutions of laws P1; : : : ; Pn on the real line by corresponding expectations based
+on symmetric two-point laws Q1; : : : ;Qn isoscedastic to the Pi. Equality is attained
+for every possible constellation of the Lipschitz constant kf00kL and the variances
+and the third centred absolute moments of the Pi. The error bound is strictly
+smaller than 1
+6 times the Lyapunov ratio times kf00kL, and tends to zero also if n
+is fixed and the third standardized absolute moments of the Pi tend to one.
+In the homoscedastic case of equal variances of the Pi, and hence in particular
+in the i.i.d. case, the approximating law is a standardized symmetric binomial one.
+The inequality is strong enough to yield for some constellations, in particular in
+the i.i.d. case with n large enough given the standardized third absolute moment
+of P1, an improvement of a more classical and already optimal Berry–Esseen type
+inequality of Tyurin (2009).
+Auxiliary results presented include some inequalities either purely analytical or
+concerning Zolotarev’s -metrics, and some binomial moment calculations.
+
+Using probabilistic methods we study the existence of viscosity solutions
+to non-linear integro-dierential equations
+with initial condition u(0; x) = '(x); here (b(x);Q(x); (x; dy)),  2 I, x 2 Rd,
+is a family of Levy triplets and h is some truncation function. The solutions, which
+we construct, are of the form u(t; x) = Tt'(x) for a sublinear Markov semigroup
+(Tt)t0 with representation
+Tt'(x) = Ex'(Xt) := sup
+P2Px
+Z
+
+
+'(Xt) dP
+where (Xt)t0 is a stochastic process and Px, x 2 Rd, are families of probability
+measures. The key idea is to exploit the connection between sublinear Markov
+semigroups and the associated Kolmogorov backward equation. In particular, we
+obtain new existence and uniqueness results for viscosity solutions to Kolmogorov
+backward equations associated with Levy(-type) processes for sublinear expectations
+and Feller processes on classical probability spaces.
+
+Tree-structured data naturally appear in various fields, particularly in
+biology where plants and blood vessels may be described by trees, but also in
+computer science because XML documents form a tree structure. This paper is
+devoted to the estimation of the relative scale parameter of conditioned Galton-
+Watson trees. New estimators are introduced and their consistency is stated. A
+comparison is made with an existing approach of the literature. A simulation study
+shows the good behavior of our procedure on finite-sample sizes and from missing
+or noisy data. An application to the analysis of revisions of Wikipedia articles is
+also considered through real data.
+
+We introduce a two-dimensional, distribution-valued field, which we
+call the quadratic field, associated with the one-dimensional Ornstein-Uhlenbeck
+process and we prove that the stationary quadratic fluctuations of the simple exclusion
+process, in the diffusive scaling, converge to this quadratic field. Moreover,
+we prove that this quadratic field evaluated at the diagonal corresponds to the
+Wick-renormalized square of the Ornstein-Uhlenbeck process, and we use this new
+representation in order to prove some small and large-time properties of it.
+
+We study rates of convergence in central limit theorems for the partial
+sum of squares of general Gaussian sequences, using tools from analysis on Wiener
+space. No assumption of stationarity, asymptotically or otherwise, is made. The
+main theoretical tool is the so-called Optimal Fourth Moment Theorem (Nourdin
+and Peccati, 2015), which provides a sharp quantitative estimate of the total variation
+distance on Wiener chaos to the normal law. The only assumptions made
+on the sequence are the existence of an asymptotic variance, that a least-squarestype
+estimator for this variance parameter has a bias and a variance which can be
+controlled, and that the sequence’s auto-correlation function, which may exhibit
+long memory, has a no-worse memory than that of fractional Brownian motion
+with Hurst parameter H < 3=4. Our main result is explicit, exhibiting the tradeoff
+between bias, variance, and memory. We apply our result to study drift parameter
+estimation problems for subfractional Ornstein-Uhlenbeck and bifractional
+Ornstein-Uhlenbeck processes with fixed-time-step observations. These are processes
+which fail to be stationary or self-similar, but for which detailed calculations
+result in explicit formulas for the estimators’ asymptotic normality.
+
+This article studies the dynamics of a nonlinear dissipative reactiondiffusion
+equation with well-separated stable states which is perturbed by infinitedimensional
+multiplicative Lévy noise with a regularly varying component at intensity
+ > 0. The main results establish the precise asymptotics of the first exit times
+and locus of the solution X from the domain of attraction of a deterministic stable
+state, in the limit as  ! 0. In contrast to the exponential growth for respective
+Gaussian perturbations the exit times grow essentially as a power function of the
+noise intensity as  ! 0 with the exponent given as the tail index ,  > 0;
+of the Lévy measure, analogously to the case of additive noise in Debussche et al.
+(2013). In this article we substantially improve their quadratic estimate of the small
+jump dynamics and derive a new exponential estimate of the stochastic convolution
+for stochastic Lévy integrals with bounded jumps based on the recent pathwise
+Burkholder-Davis-Gundy inequality by Siorpaes (2018). This allows to cover perturbations
+with general tail index  > 0, multiplicative noise and perturbations of
+the linear heat equation. In addition, our convergence results are probabilistically
+strongest possible. Finally, we infer the metastable convergence of the process on
+the common time scale t= to a Markov chain switching between the stable states
+of the deterministic dynamical system.
+
+This paper aims at comparing theoretical approximations of the tail
+of the maximum of stochastic processes and the corresponding numerical evaluations.
+More particularly, we focus on the Pickands or double sum method, the Rice
+method, the Euler Characteristic method and a new one called the Poisson method.
+The numerical evaluation, performed using mainly Quasi Monte-Carlo integration
+and adaptations of the programs of Genz, show the domains of validity of each
+method.
+
+We study functional convergence of sums of moving averages with random
+coefficients and heavy-tailed innovations. Under some standard moment conditions
+and the assumption that all partial sums of the series of coefficients are
+a.s. bounded between zero and the sum of the series we obtain functional convergence
+of the corresponding partial sum stochastic process in the space D[0; 1] of
+càdlàg functions with the Skorohod M2 topology.
+
+We study random typical minimal factorizations of the n-cycle, which
+are factorizations of (1; : : : ; n) as a product of n1 transpositions, chosen uniformly
+at random. Our main result is, roughly speaking, a local convergence theorem
+for the trajectories of finitely many points in the factorization. The main tool
+is an encoding of the factorization by an edge and vertex-labelled tree, which is
+shown to converge to Kesten’s infinite Bienaymé-Galton-Watson tree with Poisson
+offspring distribution, uniform i.i.d. edge labels and vertex labels obtained by a
+local exploration algorithm.
+
+We provide a process on the space of collections of coalescing cadlag
+stable paths and show convergence in an appropriate topology for coalescing stable
+random walks on the integer lattice.
+
+We present an elementary approach to the order of fluctuations for the
+free energy in the Sherrington-Kirkpatrick mean field spin glass model at and near
+the critical temperature. It is proved that at the critical temperature the variance
+of the free energy is of O((logN)2): In addition, we show that if one approaches
+the critical temperature from the low temperature regime at the rate O(N) for
+some  > 0; then the variance is of O((logN)2 + N1):
+
+We prove local limit theorems for mod-ϕ convergent sequences of ran-
+dom variables, ϕ being a stable distribution. In particular, we give two new proofs
+of the local limit theorem stated in Delbaen et al. (2015): one proof based on the
+notion of zone of control introduced in Féray et al. (2019+a), and one proof based
+on the notion of mod-ϕ convergence in L1(iR). These new approaches allow us
+to identify the infinitesimal scales at which the stable approximation is valid. We
+complete our analysis with a large variety of examples to which our results ap-
+ply, and which stem from random matrix theory, number theory, combinatorics or
+statistical mechanics.
+
+Herein, we describe multidimensional Brownian motions for d = 2; 3
+with drifts whose order is the same as that of the mean displacement of a Brownian
+motion. We consider the probabilities that the processes remain in specific cones for
+a considerable amount of time. We obtain exponents expressing the probabilities,
+which are different from that of the ordinary Brownian motion. Finally, we suggest
+an open problem concerning the exact values.
+
+We study the asymptotic edge statistics of the Gaussian fi-ensemble,
+a collection of n particles, as the inverse temperature fi tends to zero as n tends
+to infinity. In a certain decay regime of fi, the associated extreme point process is
+proved to converge in distribution to a Poisson point process as n ! +1. We also
+extend a well known result on Poisson limit for Gaussian extremes by showing the
+existence of an edge regime that we did not find in the literature
+
+In this paper, we initiate the study of “Generalized Divide and Color
+Models”. A very interesting special case of this is the “Divide and Color Model”
+(which motivates the name we use) introduced and studied by Olle Häggström.
+In this generalized model, one starts with a finite or countable set V , a random
+partition of V and a parameter p 2 [0; 1]. The corresponding Generalized Divide
+and Color Model is the f0; 1g-valued process indexed by V obtained by independently,
+for each partition element in the random partition chosen, with probability
+p, assigning all the elements of the partition element the value 1, and with probability
+1  p, assigning all the elements of the partition element the value 0.
+Some of the questions which we study here are the following. Under what situations
+can different random partitions give rise to the same color process? What
+can one say concerning exchangeable random partitions? What is the set of product
+measures that a color process stochastically dominates? For random partitions
+which are translation invariant, what ergodic properties do the resulting color processes
+have?
+The motivation for studying these processes is twofold; on the one hand, we
+believe that this is a very natural and interesting class of processes that deserves
+investigation and on the other hand, a number of quite varied well-studied processes
+actually fall into this class such as (1) the Ising model, (2) the fuzzy Potts model,
+(3) the stationary distributions for the Voter Model, (4) random walk in random
+scenery and of course (5) the original Divide and Color Model.
+
+We consider the Kawasaki dynamics of two types of particles under
+a killing effect on a d-dimensional square lattice. Particles move with possibly
+different jump rates depending on their types. The killing effect acts when particles
+of different types meet at the same site. We show the existence of a limit under
+the diffusive space-time scaling and suitably growing killing rate: segregation of
+distinct types of particles does occur, and the evolution of the interface between
+the two distinct species is governed by the two-phase Stefan problem. We apply
+the relative entropy method and combine it with some PDE techniques.
+
+The concept of a Lévy subordinator is generalized to a family of nondecreasing
+stochastic processes, which are parameterized in terms of two Bernstein
+functions. Whereas the independent increments property is only maintained in the
+Lévy subordinator special case, the considered family is always strongly infinitely
+divisible with respect to time, meaning that a path can be represented in distribution
+as a finite sum with arbitrarily many summands of independent and identically
+distributed paths of another process. Besides distributional properties of the process,
+we present two applications to the design of accurate and efficient simulation
+algorithms. First, each member of the considered family corresponds uniquely to
+an exchangeable max-stable sequence of random variables, and we demonstrate
+how the associated extreme-value copula can be simulated exactly and efficiently
+from its Pickands dependence measure. Second, we show how one obtains different
+series and integral representations for infinitely divisible probability laws by
+varying the parameterizing pair of Bernstein functions, without changing the law
+of one-dimensional margins of the process. As a particular example, we present an
+exact simulation algorithm for compound Poisson distributions from the Bondesson
+class, for which the generalized inverse of the distribution function of the associated
+Stieltjes measure can be evaluated accurately.
+
+We consider the Brownian interlacements model in Euclidean space,
+introduced by Sznitman (2013). We give estimates for the asymptotics of the visibility
+in the vacant set. We also consider visibility inside the vacant set of the
+Brownian excursion process in the unit disc and show that it undergoes a phase
+transition regarding visibility to infinity as in Benjamini et al. (2009). Additionally,
+we determine the critical value and that there is no visibility to infinity at the
+critical intensity.
+
+We consider the backbone of the infinite cluster generated by supercritical
+oriented site percolation in dimension 1  1. A directed random walk on
+this backbone can be seen as an “ancestral lineage” of an individual sampled in
+the stationary discrete-time contact process. Such ancestral lineages were investigated
+in Birkner et al. (2013) where a central limit theorem for a single walker was
+proved. Here, we consider infinitely many coalescing walkers on the same backbone
+starting at each space-time point. We show that, after diffusive rescaling, the collection
+of paths converges in distribution (under the averaged law) to the Brownian
+web. Hence, we prove convergence to the Brownian web for a particular system of
+coalescing random walks in a dynamical random environment. An important tool
+in the proof is a tail bound on the meeting time of two walkers on the backbone,
+started at the same time. Our result can be interpreted as an averaging statement
+about the percolation cluster: apart from a change of variance, it behaves as the
+full lattice, i.e. the effect of the “holes” in the cluster vanishes on a large scale.
+
+Probability measures and stochastic dynamics on matrices and on partitions
+are related by standard, albeit technical, discrete to continuous scaling limits.
+In this paper we provide exact relations, that go in both directions, between the
+eigenvalues of the Laguerre process and certain distinguished dynamics on partitions.
+This is done by generalizing to the multidimensional setting recent results of
+Miclo and Patie on linear one-dimensional diffusions and birth and death chains.
+As a corollary, we obtain an exact relation between the Laguerre and Meixner ensembles.
+Finally, we explain the deep connections with the Young bouquet and the
+z-measures on partitions.
+
+We consider a version of ballistic annihilation with particles placed at
+the integer points on the real line. Each is independently assigned either speed-
+0 with probability p, or speed-1 symmetrically with the remaining probability.
+All particles simultaneously begin moving at their assigned speeds and mutually
+annihilate upon colliding. A renewal property lets us equate survival of a particle
+to the survival of a Galton-Watson process. An immediate application of our result
+is an upper bound for the critical probability when particles have unit spacings.
+This comes from a rigorous, computer-assisted approximation of the Galton-Watson
+process offspring distribution.
+
+We analyze the metastable behavior near criticality for bootstrap
+percolation on Galton-Watson trees. We find that, depending on the exact choice
+of the offspring distribution, it is possible to have several distinct metastable states,
+with varying scaling of their duration while approaching criticality.
+
+We present a Gaussian process that arises from the iteration of p fractional
+Ornstein–Uhlenbeck processes generated by the same fractional Brownian
+motion. When the values of the parameters defining the iteration are pairwise
+distinct, this iteration results in a particular linear combination of those processes.
+Although for H > 1=2 each term of the iteration is a long memory process, we prove
+that when p  2 the process obtained has short memory. We prove that the local
+Hölder index of the process is H, and obtain an explicit formula for the spectral
+density. We present a way to estimate the parameters and prove that the estimators
+are consistent and the results are asymptotically Gaussian. These processes can be
+used to model time series of long or short memory.
+
+Herein, we present a study on frequently visited sets in a simple random
+walk in Z2. We estimate the expectation of numbers of j-tuples of favorite points
+and obtain an exact exponent.
+
+We consider a variant of the continuous and discrete Ulam-Hammersley
+problems: we study the maximal number of points of an increasing path through a
+Poisson point process (or a Bernoulli point process) with the restriction that there
+must be minimal gaps between abscissae and ordinates of successive points of the
+path.
+For both cases (continuous and discrete) our approach rely on couplings with
+well-studied models: respectively the classical Ulam-Hammersley problem and last-
+passage percolation with geometric weights. Thanks to these couplings we obtain
+explicit limiting shapes in both settings. We also establish that, as in the classical
+Ulam-Hammersley problem, the fluctuations around the mean are given by the
+Tracy-Widom distribution.
+
+In this paper we deal with the classical problem of random cover times.
+We investigate the distribution of the time it takes for a Poisson process of cylinders
+to cover a set A  Rd: This Poisson process of cylinders is invariant under rotations,
+reflections and translations, and in addition we add a time component so that
+cylinders are “raining from the sky" at unit rate. Our main results concerns the
+asymptotic of this cover time as the set A grows. If the set A is discrete and well
+separated, we show convergence of the cover time to a Gumbel distribution. If
+instead A has positive box dimension (and satisfies a weak additional assumption),
+we find the correct rate of convergence.
+
+In Salminen et al. (2015), Salminen, Yen and Yor have proven several
+equalities of sigma-finite measures involving the law of one-dimensional recurrent
+diffusions and some of its h-transforms. In the present article, we show that similar
+equalities hold in the setting of irreducible and recurrent discrete Markov chains.
+
+We study the asymptotic properties of nearest-neighbor random walks
+in 1d random environment under the influence of an external field of intensity
+ 2 R. For ergodic shift-invariant environments, we show that the limiting velocity
+v() is always increasing and that it is everywhere analytic except at most in two
+points  and +. When  and + are distinct, v() might fail to be continuous.
+We refine the assumptions in Zeitouni (2004) for having a recentered CLT with
+diffusivity 2() and give explicit conditions for 2() to be analytic. For the
+random conductance model we show that, in contrast with the deterministic case,
+2() is not monotone on the positive (resp. negative) half-line and that it is not
+differentiable at  = 0. For this model we also prove the Einstein Relation, both in
+discrete and continuous time, extending the result of Lam and Depauw (2016).
+
+In this paper, we prove convergence in distribution of Langevin processes
+in the overdamped asymptotics. The proof relies on the classical perturbed
+test function (or corrector) method, which is used both to show tightness in path
+space, and to identify the extracted limit with a martingale problem. The result
+holds assuming the continuity of the gradient of the potential energy, and a mild
+control of the initial kinetic energy.
+
+We investigate the problem of constructing a dynamics on edge–spin
+configurations which realizes a coupling between a Glauber dynamics of the Ising
+model and a dynamical evolution of the percolation configurations. We dreamed of
+constructing a Markov process on edge–spin configurations which is reversible with
+respect to the Ising–FK coupling measure, and such that the marginal on the spins
+is a Glauber dynamics, while the marginal on the edges is a Markovian evolution.
+We present two local dynamics, one which fulfills only the first condition and one
+which fulfills the first two conditions. We show next that our dream process is not
+feasible in general. We present a third dynamics, which is non local and fulfills the
+first and the third conditions. We finally present a localized version of this third
+dynamics, which can be seen as a contraction of the first dynamics.
+
+We study the spatial Gibbs random graphs introduced in Mourrat and
+Valesin (2018) from the point of view of local convergence. These are random
+graphs embedded in an ambient space consisting of a line segment, defined through
+a probability measure that favors graphs of small (graph-theoretic) diameter but
+penalizes the presence of edges whose extremities are distant in the geometry of the
+ambient space. In Mourrat and Valesin (2018) these graphs were shown to exhibit
+threshold behavior with respect to the various parameters that define them; this
+behavior was related to the formation of hierarchical structures of edges organized
+so as to produce a small diameter. Here we prove that, for certain values of the
+underlying parameters, the spatial Gibbs graphs may or may not converge locally,
+in a manner that is compatible with the aforementioned hierarchical structures.
+
+We consider random permutation matrices following a one-parameter
+family of deformations of the uniform distribution, called Ewens’ measures, and
+modifications of these matrices where the entries equal to one are replaced by i.i.d
+uniform random variables on the unit circle. For each of these two ensembles of
+matrices, rescaling properly the eigenangles provides a limiting point process as
+the size of the matrices goes to infinity. If J is an interval of R, we show that, as
+the length of J tends to infinity, the number of points lying in J of the limiting
+point process related to modified permutation matrices is asymptotically normal.
+Moreover, for permutation matrices without modification, if a and a + b denote
+the endpoints of J, we still have an asymptotic normality for the number of points
+lying in J, in the two following cases: [a fixed and b ! 1] and [a; b ! 1 with b
+proportional to a].
+
+Nourdin and Peccati (2009a) established a neat characterization of
+Gamma approximation on a fixed Wiener chaos in terms of convergence of only
+the third and fourth cumulants. In this paper, we provide an optimal rate of
+convergence in the d2-distance in terms of the maximum of the third and fourth
+cumulants analogous to the result for normal approximation in Nourdin and Peccati
+(2015). In order to achieve our goal, we introduce a novel operator theory approach
+to Stein’s method. The recent development in Stein’s method for the Gamma distribution
+of Döbler and Peccati (2018) plays a pivotal role in our analysis. Several
+examples in the context of quadratic forms are considered to illustrate our optimal
+bound.
+
+In a companion article we have introduced a notion of multiscale functional
+inequalities for functions X(A) of an ergodic stationary random field A on
+the ambient space Rd. These inequalities are multiscale weighted versions of standard
+Poincaré, covariance, and logarithmic Sobolev inequalities. They hold for all
+the examples of fields A arising in the modelling of heterogeneous materials in the
+applied sciences whereas their standard versions are much more restrictive. In this
+contribution we first investigate the link between multiscale functional inequalities
+and more standard decorrelation or mixing properties of random fields. Next,
+we show that multiscale functional inequalities imply fine concentration properties
+for nonlinear functions X(A). This constitutes the main stochastic ingredient to
+the quenched large-scale regularity theory for random elliptic operators by the second
+author, Neukamm, and Otto, and to the corresponding quantitative stochastic
+homogenization results.
+
+The key to our investigation is an improved (and in a sense sharp)
+understanding of the survival time of the contact process on star graphs. Using these
+results, we show that for the contact process on Galton-Watson trees, when the
+offspring distribution (i) is subexponential the critical value for local survival 2 = 0
+and (ii) when it is geometric(p) we have 2  Cp, where the Cp are much smaller
+than previous estimates. We also study the critical value c(n) for “prolonged
+persistence” on graphs with n vertices generated by the configuration model. In the
+case of power law and stretched exponential distributions where it is known c(n) !
+0 we give estimates on the rate of convergence. Physicists tell us that c(n) 
+1=(n) where (n) is the maximum eigenvalue of the adjacency matrix. Our results
+show that this is accurate for graphs with power-law degree distributions, but not
+for stretched exponentials.
+
+We introduce a definition of delayed and rushed processes in terms
+of lifetimes of base processes and time-changed base processes. Then, we consider
+time changes given by subordinators and their inverse processes. Our analysis shows
+that, quite surprisingly, time-changing with inverse subordinators does not necessarily
+imply delay of the base process. Moreover, time-changing with subordinators
+does not necessarily imply rushed base process.
+
+Let d  2. We consider an i.i.d. supercritical bond percolation on Zd,
+every edge is open with a probability p > pc(d), where pc(d) denotes the critical
+point. We condition on the event that 0 belongs to the infinite cluster C1 and we
+consider connected subgraphs of C1 having at most nd vertices and containing 0.
+Among these subgraphs, we are interested in the ones that minimize the open
+edge boundary size to volume ratio. These minimizers properly rescaled converge
+towards a translate of a deterministic shape and their open edge boundary size to
+volume ratio properly rescaled converges towards a deterministic constant.
+
+Following recently discovered connections between Boolean cumulants
+and freeness, we use them to derive explicit formulas for a family of conditional expectations
+in free variables. Further, we show how the approach through Boolean
+cumulants together with subordination simplifies some Lukacs–type regression characterizations
+in free probability. Finally, we explain how the free dual Lukacs property
+can be used to get a pocket proof of the free version of the direct Lukacs
+property.
+
+We study the signal-to-interference ratio (SINR) percolation model for
+a stationary Cox point process in two or higher dimensions, in case of a bounded and
+integrable path-loss function. We show that if this function has compact support
+or if the stationary intensity measure evaluated at a unit box has some exponential
+moments, then the SINR graph has an infinite connected component in case the
+spatial density of points is large enough and the interferences are sufficiently reduced
+(without vanishing). This holds under suitable stabilization and connectivity
+assumptions on the intensity measure. We also provide estimates on the critical
+interference cancellation factor.
+
+Given a large matrix containing independent data entries, we consider
+the problem of detecting a submatrix inside the data matrix that contains largerthan-
+usual values. Different from previous literature, we do not have exact information
+about the dimension of the potential elevated submatrix. We propose a
+Bonferroni type testing procedure based on permutation tests, and show that our
+proposed test loses no first-order asymptotic power compared to tests with full
+knowledge of potential elevated submatrix. In order to speed up the calculation
+during the test, an approximation net is constructed and we show that Bonferroni
+type permutation test on the approximation net loses no power on the first order
+asymptotically.
+
+Let d be an integer greater or equal to 2 and let k be a d-dimensional
+random vector. We call Gaussian wave model with random wavevector k any
+stationary Gaussian random field defined on Rd with covariance function t 7!
+E[cos(k:t)]. Any stationary Gaussian random field on Rd can be studied as a
+random wave. The purpose of the present paper is to link properties of the random
+wave with the distribution of the random wavevector, with a focus on geometric
+properties. We mainly concentrate on the study of the level sets measure, giving
+for instance a local estimate of its variance. In the planar case, we prove that the
+expected length of the nodal lines is decreasing as the anisotropy of the wavevector
+is increasing, and we study the direction that maximizes the expected length of
+the crest lines. We illustrate our results on two specific models: a generalization of
+Berry’s monochromatic planar waves and a spatiotemporal sea wave model whose
+random wavevector is supported by the Airy surface in R3. According to a general
+theorem, these two Gaussian fields are anisotropic almost sure solutions of partial
+differential equations that involve the Laplacian operator: f + 2f = 0 (where
+ = kkk) for the former, f + @4
+t f = 0 for the latter.
+
+In this paper, we first show that for a countable family of random
+elements taking values in a partially ordered Polish space with a closed partial order
+(POP space), association (both positive and negative) of all finite dimensional
+marginals implies that of the infinite sequence. Our proof proceeds via Strassen’s
+theorem for stochastic domination and thus avoids the assumption of normally ordered
+on the product space as needed for positive association in Lindqvist (1988).
+We use these results to show on POP spaces that finite dimensional negative association
+implies negative association of the random measure and negative association
+is preserved under weak convergence of random measures. The former provides a
+simpler proof in the most general setting of Polish spaces complementing the recent
+proofs in Poinas et al. (2019) and Lyons (2014) which restrict to point processes in
+Rd and locally compact Polish spaces respectively. We also provide some examples
+of associated random measures which shall illustrate our results as well.
+
+We introduce a continuous-time Markov chain describing dynamic allelic
+partitions which extends the branching process construction of the Pitman
+sampling formula in Pitman (2006) and the classical birth-and-death process with
+immigration of Karlin and McGregor (1967), in turn related to the celebrated Ewens
+sampling formula. A biological basis for the scheme is provided in terms of a population
+of individuals grouped into families, that evolves according to a sequence of
+births, deaths and immigrations. We investigate the asymptotic behaviour of the
+chain and show that, as opposed to the birth-and-death process with immigration,
+this construction maintains in the temporal limit the mutual dependence among the
+multiplicities. When the death rate exceeds the birth rate the system is shown to
+have a reversible distribution, identified as a mixture of Pitman sampling formulae,
+with negative binomial mixing distribution on the population size. The population
+therefore converges to a stationary random configuration, characterised by a finite
+number of families and individuals.
+
+Let (T;X) be independent identically distributed pairs of random variables
+and denote f (tjx) the conditional density of T given X = x, we consider
+that the random variable T is subject to random censoring by another random
+variable C. In this paper, we propose and investigate an adaptive recursive kernel
+conditional density estimation under censored data, which allows us to circumvent
+the weak performances of Kaplan-Meier estimator (Kaplan and Meier, 1958) in the
+right-tail of the distribution. The first aim of this paper is to study the properties of
+the proposed adaptive recursive estimators and compare it with the non-recursive
+estimator of f (tjx). It turns out that, with an adequate selected bandwidth and
+a special stepsize, the proposed recursive estimators often provides better results
+compared to the non-recursive one in terms of estimation error and much better
+in terms of computational costs. We corroborated these theoretical results through
+some simulation study.
+
+We consider the additive model: Z = X + "; where X and " are independent.
+We construct a new estimator of the density of X from n observations
+of Z. We propose a projection method which exploits the specific properties of
+the Hermite basis. We study the quality of the resulting estimator by proving a
+bound on the integrated quadratic risk. We show also that the results can be easily
+extended to dependent variables. We then propose an adaptive estimation procedure,
+that is a method of selecting a relevant model. We check that our estimator
+reaches the classical convergence speeds of deconvolution. Numerical simulations
+are proposed and a comparison with the results of the method proposed in Comte
+and Lacour (2011) is performed.
+
+We consider non-linear evolution equations arising from mean-field limits
+of particle systems on discrete spaces. We investigate a notion of curvature bounds
+for these dynamics based on the convexity of the free energy along interpolations
+in a discrete transportation distance related to the gradient flow structure of the
+dynamics. This notion extends the one for linear Markov chain dynamics studied
+in Erbar and Maas (2012). We show that positive curvature bounds entail several
+functional inequalities controlling the convergence to equilibrium of the dynamics.
+We establish explicit curvature bounds for several examples of mean-field limits of
+various classical models from statistical mechanics.
+
+This paper concerns the long term behaviour of a growth model describing
+a random sequential allocation of particles on a finite graph. The probability of
+allocating a particle at a vertex is proportional to a log-linear function of numbers of
+existing particles in a neighbourhood of a vertex. When this function depends only
+on the number of particles in the vertex, the model becomes a special case of the
+generalised Pólya urn model. In this special case all but finitely many particles are
+allocated at a single random vertex almost surely. In our model interaction leads
+to the fact that, with probability one, all but finitely many particles are allocated
+at vertices of a maximal clique.
+
+The persistent walk is a classical model in kinetic theory, which has
+also been studied as a toy model for Markov Chain Monte Carlo questions. Its continuous
+limit, the telegraph process, has recently been extended to various velocity
+jump processes (Bouncy Particle Sampler, Zig-Zag process, etc.) in order to sample
+general target distributions on Rd. This paper studies, from a sampling point of
+view, general kinetic walks that are natural discrete-time (and possibly discretespace)
+counterparts of these continuous-space processes. The main contributions
+of the paper are the definition and study of a discrete-space Zig-Zag sampler and
+the definition and time-discretisation of hybrid jump/diffusion kinetic samplers for
+multi-scale potentials on Rd.
+
+In this paper we study anisotropic oriented percolation on Zd for d  4
+and show that the local condition for phase transition is closely related to the meanfield
+condition. More precisely, we show that if the sum of the local probabilities
+is strictly greater than one and each probability is not too large, then percolation
+occurs.
+
+In this paper, we develop the theory of nonlinear rough paths. Following
+the ideas of Lyons and Gubinelli, we define the nonlinear rough integral
+R t
+s W(dr; Yr), where W and Y are only -Hölder continuous in time with 
+Also, we study the Kunita-type equation Yt = + R t
+0 W(dr; Ys), obtaining the local
+and global existence and uniqueness of the solution under suitable sufficient conditions.
+As an application, we study transport equations with rough vector fields and
+observe that the classical solution formula for smooth and Young’s cases does not
+provide a solution to the rough equation. Indeed this formula satisfies a transport
+equation with additional compensator terms (see (1.7)).
+
+We study a particle system with the following diffusion-branchingselection
+mechanism. Particles perform independent one dimensional Brownian motions
+and on top of that, at a constant rate, a pair of particles is chosen uniformly at
+random and both particles adopt the position of the rightmost one among them. We
+show that the cumulative distribution function of the empirical measure converges
+to a solution of the Fisher-Kolmogorov-Petrovskii-Piskunov (F-KPP) equation and
+use this fact to prove that the system selects the minimal macroscopic speed as the
+number of particles goes to infinity.
+
+We prove that the speed of a -biased random walk on a supercritical
+Galton-Watson tree is differentiable for  such that the walk is ballistic and
+obeys a central limit theorem, and give an expression of the derivative using a certain
+2-dimensional Gaussian random variable. The proof heavily uses the renewal
+structure of Galton-Watson trees that was introduced in Lyons et al. (1996).
+
+We investigate the anisotropic stable JCIR process which is a multidimensional
+extension of the stable JCIR process but also a multi-dimensional analogue
+of the classical JCIR process. We prove that the heat kernel of the anisotropic
+stable JCIR process exists and it satisfies an a-priori bound in a weighted anisotropic
+Besov norm. Based on this regularity result we deduce the strong Feller property
+and prove, for the subcritical case, exponential ergodicity in total variation. Also,
+we show that in the one-dimensional case the corresponding heat kernel is smooth.
+
+We investigate the high-dimensional asymptotic distributional behavior
+of the components of the f -vector of a random Vietoris-Rips complex that is
+generated over a Poisson point process in [1
+2 ; 1
+2 ]d as the space dimension and the
+intensity tend to infinity while the radius parameter tends to zero simultaneously.
+
+We study the local mass of a dyadic branching Brownian motion Z
+evolving in Rd. By ‘local mass’, we refer to the number of particles of Z that
+fall inside a ball with fixed radius and time-dependent center, lying in the region
+where there is typically exponential growth of particles. Using the strong law of
+large numbers for the local mass of branching Brownian motion and elementary
+geometric arguments, we find large deviation results giving the asymptotic behavior
+of the probability that the local mass is atypically small on an exponential scale.
+As corollaries, we obtain an asymptotic result for the probability of absence of Z
+in a ball with fixed radius and time-dependent center, and lower tail asymptotics
+for the local mass in a fixed ball. The proofs are based on a bootstrap argument,
+which we use to find the lower tail asymptotics for the mass outside a ball with
+time-dependent radius and fixed center, as well.
+
+We establish two equivalent versions of the Darling–Erdos theorem for
+Lévy processes in the domain of attraction of a stable process at zero with index  2
+(0; 2). In the course of our proofs we obtain a number of maximal and exponential
+inequalities for general Lévy processes, which should be of separate interest.
+
+Consider the Ising model on ([1; 2N][1; 2M])\Z2 at critical temperature
+with periodic boundary condition in the horizontal direction and free boundary
+condition in the vertical direction. Let EM;N be its total energy (or Hamiltonian).
+Suppose M is a function of N satisfying M  N=(lnN) for some  2 [0; 1). In
+particular, one may take M = N. We prove that
+EM;N + 4
+p
+2MN  (4=)N lnN p
+(32=)MN lnN
+converges weakly to a standard Gaussian distribution as N ! 1.
+
+We consider a variant of the planted clique problem where we are allowed
+unbounded computational time but can only investigate a small part of the
+graph by adaptive edge queries. We determine (up to logarithmic factors) the number
+of queries necessary both for detecting the presence of a planted clique and for
+finding the planted clique.
+Specifically, let G ∼ G(n, 1/2, k) be a random graph on n vertices with a planted
+clique of size k. We show that no algorithm that makes at most q = o(n2/k2 + n)
+adaptive queries to the adjacency matrix of G is likely to find the planted clique.
+On the other hand, when k ≥ (2 + ε) log2 n there exists a simple algorithm (with
+unbounded computational power) that finds the planted clique with high probability
+by making q = O((n2/k2) log2 n + n log n) adaptive queries. For detection,
+the additive n term is not necessary: the number of queries needed to detect the
+presence of a planted clique is n2/k2 (up to logarithmic factors).
+
+The purpose of this article is to provide a simple proof of the hydrodynamic
+and hydrostatic behavior of the SSEP in contact with reservoirs which inject
+and remove particles in a finite size windows at the extremities of the bulk. More
+precisely, the reservoirs inject/remove particles at/from any point of a window of
+size K placed at each extremity of the bulk and particles are injected/removed
+to the first open/occupied position in that window. The reservoirs have slow dynamics,
+in the sense that they intervene at speed N w.r.t. the bulk dynamics.
+In the first part of this article, we treated the case  > 1 for which the entropy
+method can be adapted. We treat here the case where the boundary dynamics is
+too fast for the Entropy Method to apply. We prove using duality estimates inspired
+by previous work that the hydrodynamic limit is given by the heat equation
+with Dirichlet boundary conditions, where the density at the boundaries is fixed by
+the parameters of the model.
+
+In this paper we are concerned with the two-stage contact process introduced
+by Krone (1999) on a high-dimensional lattice. By comparing this process
+with an auxiliary model which is a linear system, we obtain two limit theorems for
+this process as the dimension of the lattice grows to infinity. The first theorem
+is about the upper invariant law of the process. The second theorem is about asymptotic
+behavior of the critical value of the process. These two theorems can be
+considered as extensions of their counterparts for the basic contact processes proved
+by Griffeath (1983) and Schonmann and Vares (1986).
+
+We study the limiting spectral distribution of sample covariance matrices
+XXT , where X are p  n random matrices with correlated entries and
+p=n ! y 2 [0;1). If y > 0, we obtain the Marcenko–Pastur distribution and
+in the case y = 0 the semicircle distribution after appropriate rescaling. The entries
+we consider are Curie–Weiss spins, which are correlated random signs, where
+the degree of the correlation is governed by an inverse temperature fi > 0. The
+model exhibits a phase transition at fi = 1. The correlation between any two entries
+is of order O((np)1) for fi 2 (0; 1), O((np)1=2) for fi = 1, and for fi > 1 the
+correlation does not vanish in the limit. In our proofs we use Stieltjes transforms
+and concentration of random quadratic forms.
+
+We are interested in the survival probability of a population modeled
+by a critical branching process in an i.i.d. random environment and in the growth
+rate of the population given its survival up to a large time n. We assume that
+the random walk associated with the branching process is oscillating and satisfies a
+Doney-Spitzer condition P(Sn > 0) ! ; n ! 1, which is a standard condition in
+fluctuation theory of random walks. Unlike the previously studied case  2 (0; 1),
+we investigate the case where the offspring distribution is in the domain of attraction
+of an asymmetric stable law with parameter 1, which implies that  = 0 or 1. We
+find the asymptotic behaviour of the survival probability of the population and
+prove a Yaglom-type conditional limit theorem for the population size in these two
+cases.
+
+For a relatively large class of well-behaved absorbing (or killed) finite
+Markov chains, we give detailed quantitative estimates regarding the behavior of the
+chain before it is absorbed (or killed). Typical examples are random walks on boxlike
+finite subsets of the square lattice Zd absorbed (or killed) at the boundary. The
+analysis is based on Poincaré, Nash, and Harnack inequalities, moderate growth,
+and on the notions of John and inner-uniform domains.
+
+We study Markov processes conditioned so that their local time must
+grow slower than a prescribed function. Building upon recent work on Brownian
+motion with constrained local time in Benjamini and Berestycki (2011); Kolb and
+Savov (2016), we study transience and recurrence for a broad class of Markov
+processes.
+In order to understand the local time, we determine the distribution of a nondecreasing
+Lévy process (the inverse local time) conditioned to remain above a
+given level which varies in time. We study a time-dependent region, in contrast to
+previous works in which a process is conditioned to remain in a fixed region (e.g.
+Denisov and Wachtel, 2015; Garbit, 2009), so we must study boundary crossing
+probabilities for a family of curves, and thus obtain uniform asymptotics for such
+a family.
+Main results include necessary and sufficient conditions for transience or recurrence
+of the conditioned Markov process. We will explicitly determine the distribution
+of the inverse local time for the conditioned process, and in the transient
+case, we explicitly determine the law of the conditioned Markov process. In the
+recurrent case, we characterise the “entropic repulsion envelope” via necessary and
+sufficient conditions.
+
+We prove under mild conditions that the Fleming-Viot process selects
+the minimal quasi-stationary distribution for Markov processes with soft killing on
+non-compact state spaces. Our results are applied to multi-dimensional birth and
+death processes, continuous time Galton-Watson processes and diffusion processes
+with soft killing.
+
+We study the limiting behavior of an interacting particle system evolving
+on the lattice Zd for d  3. The model is known as the contact process with
+rapid stirring. The process starts with a single particle at the origin. Each particle
+may die, jump to a neighboring site if it is vacant or split. In the case of splitting,
+one of the offspring takes the place of the parent while the other, the newborn
+particle, is sent to another site in Zd according to a certain distribution; if the
+newborn particle lands on an occupied site, its birth is suppressed. We study the
+asymptotic behavior of the critical branching rate as the jumping rate (also known
+as the stirring rate) approaches infinity.
+
+We present an analogue of the classical Law of Small Numbers, formulated
+for the notion of bm-independence, where the random variables are indexed
+by elements of positive symmetric cones in Euclidean spaces, including Rd
++, the
+Lorentz cone in Minkowski spacetime and positive definite real symmetric matrices.
+The geometry of the cones plays a significant role in the study as well as the
+combinatorics of bm-ordered partitions.
+
+We consider a family of Bessel Processes that depend on the starting
+point x and dimension , but are driven by the same Brownian motion. Our main
+result is that almost surely the first time a process hits 0 is jointly continuous in
+x and , provided   0. As an application, we show that the SLE() welding
+homeomorphism is continuous in  for  2 [0; 4]. Our motivation behind this is to
+study the well known problem of the continuity of SLE in . The main tool in our
+proofs is random walks with increments distributed as infinite mean Inverse-Gamma
+laws.
+
+We introduce and analyze a novel type of coalescent processes called
+cross-multiplicative coalescent that models a system with two types of particles,
+A and B. The bonds are formed only between the pairs of particles of opposite
+types with the same rate for each bond, producing connected components made
+of particles of both types. We analyze and solve the Smoluchowski coagulation
+system of equations obtained as a hydrodynamic limit of the corresponding Marcus-
+Lushnikov process. We establish that the cross-multiplicative kernel is a gelling
+kernel, and find the gelation time. As an application, we derive the limiting mean
+length of a minimal spanning tree on a complete asymmetric bipartite graph with
+independent edge weights, distributed uniformly over [0; 1].
+
+We study the hydrodynamic limit for the isothermal dynamics of an
+anharmonic chain under hyperbolic space-time scaling and with nonvanishing viscosity.
+The temperature is kept constant by a contact with a heat bath, realised
+via a stochastic momentum-preserving noise added to the dynamics. The noise is
+designed so it contributes to the macroscopic limit. Dirichlet boundary conditions
+are also considered: one end of the chain is kept fixed, while a time-varying tension
+is applied to the other end. Moreover, Neumann boundary conditions are added
+in such a way that the system produces the correct thermodynamic entropy in the
+macroscopic limit. We show that the volume stretch and momentum converge (in
+an appropriate sense) to a smooth solution of a system of parabolic conservation
+laws (isothermal Navier-Stokes equations in Lagrangian coordinates) with boundary
+conditions.
+Finally, changing the external tension allows us to define thermodynamic isothermal
+transformations between equilibrium states. We use this to deduce the first
+and the second law of Thermodynamics for our model.
+
+In this paper, we investigate the fluctuations of a unit eigenvector associated
+to an outlier in the spectrum of a spiked N  N complex Deformed Wigner
+matrix MN. MN is defined as follows: MN = WN=
+p
+N + AN where WN is an
+N  N Hermitian Wigner matrix whose entries have a law  satisfying a Poincaré
+inequality and the matrix AN is a block diagonal matrix, with an eigenvalue  of
+multiplicity one, generating an outlier in the spectrum of MN. We prove that the
+fluctuations of the norm of the projection of a unit eigenvector corresponding to
+the outlier of MN onto a unit eigenvector corresponding to  are not universal.
+Indeed, we take away a fit approximation of its limit from this norm and prove the
+convergence to zero as N goes to 1 of the Lévy–Prohorov distance between this
+rescaled quantity and the convolution of  and a centered Gaussian distribution
+(whose variance may depend depend upon N and may not converge).
+
+We investigate the simulation methods for a large family of stable random
+fields that appeared in the recent literature, known as the Karlin stable setindexed
+processes. We exploit a new representation and implement the procedure
+introduced by Asmussen and Rosinski (2001) by first decomposing the random
+fields into large-jump and small-jump parts, and simulating each part separately.
+As special cases, simulations for several manifold-indexed processes are considered,
+and adjustments are introduced accordingly in order to improve the computational
+efficiency.
+
+We show existence and uniqueness of solutions of stochastic path dependent
+differential equations driven by càdlàg martingale noise under joint local
+monotonicity and coercivity assumptions on the coefficients with a bound in terms
+of the supremum norm. In this set-up the usual proof using the ordinary Gronwall
+lemma together with the Burkholder-Davis-Gundy inequality seems impossible. In
+order to solve this problem, we prove a new and quite general stochastic Gronwall
+lemma for càdlàg martingales using Lenglart’s inequality.
+
+We analyze the geometrical structure of the passage times in the last
+passage percolation model. Viewing the passage time as a piecewise linear function
+of the weights we determine the domains of the various pieces, which are the subsets
+of the weight space that make a given path the longest one. We focus on the case
+when all weights are assumed to be positive, and as a result each domain is a pointed
+polyhedral cone. We determine the extreme rays, facets, and two-dimensional faces
+of each cone, and also review a well-known simplicial decomposition of the maximal
+cones via the so-called order cone. All geometric properties are derived using
+arguments phrased in terms of the last passage model itself. Our motivation is to
+understand path probabilities of the extremal corner paths on rectangles in Z2, but
+all of our arguments apply to general, finite partially ordered sets.
+
+We prove Moderate Deviation estimates for nodal lengths of random
+spherical harmonics both on the whole sphere and on shrinking spherical domains.
+Central Limit Theorems for the latter were recently established in Marinucci et al.
+(2020) and Todino (2020), respectively. Our proofs are based on the combination
+of a Moderate Deviation Principle by Schulte and Thäle (2016) for sequences of
+random variables living in a fixed Wiener chaos with a well-known result based on
+the concept of exponential equivalence
+
+In this paper, we prove a phase transition in the connectivity of finitary
+random interlacements FIu;T in Zd, with respect to the average stopping time T.
+For each u > 0, with probability one FIu;T has no infinite connected component
+for all sufficiently small T > 0, and a unique infinite connected component for all
+sufficiently large T < 1. This answers a question of Bowen (2019) in the special
+case of Zd.
+
+We consider a class of random loop models (including the random interchange
+process) that are parametrised by a time parameter fi  0. Intuitively,
+larger fi means more randomness. In particular, at fi = 0 we start with loops of
+length 1 and as fi crosses a critical value fic, infinite loops start to occur almost
+surely. Our random loop models admit a natural comparison to bond percolation
+with p = 1efi on the same graph to obtain a lower bound on fic. For those graphs
+of diverging vertex degree where fic and the critical parameter for percolation have
+been calculated explicitly, that inequality has been found to be an equality. In
+contrast, we show in this paper that for graphs of bounded degree the inequality is
+strict, i.e. we show existence of an interval of values of fi where there are no infinite
+loops, but infinite percolation clusters almost surely.
+
+Differentiability of semigroups is useful for many applications. Here we
+focus on stochastic differential equations whose diffusion coefficient is the square
+root of a differentiable function but not differentiable itself. For every m 2 {0, 1, 2}
+we establish an upper bound for a Cm-norm of the semigroup of such a diffusion
+in terms of the Cm-norms of the drift coefficient and of the squared diffusion coefficient.
+The constants in our upper bound are often bounded in the dimension.
+Our estimates are thus suitable for analyzing certain high-dimensional and infinitedimensional
+degenerate stochastic differential equations.
+
+We study a random graph model in continuous time. Each vertex is
+partially copied with the same rate, i.e. an existing vertex is copied and every edge
+leading to the copied vertex is copied with independent probability p. In addition,
+every edge is deleted at constant rate, a mechanism which extends previous partial
+duplication models. In this model, we obtain results on the degree distribution,
+which shows a phase transition such that either – if p is small enough – the frequency
+of isolated vertices converges to 1, or there is a positive fraction of vertices with
+unbounded degree. We derive results on the degrees of the initial vertices as well
+as on the sub-graph of non-isolated vertices. In particular, we obtain expressions
+for the number of star-like subgraphs and cliques.
+
+Excursion theory is revisited on the ground of Itô–McKean diffusions.
+There are raised questions about symmetries, knock-in processes, excursion local
+time and the non-linear version of the master formula of excursions. The questions
+are answered due to introducing the counting excursion technique. The technique is
+a synthesis of straddling at time approach, the classical, potential in spirit approach,
+and the theory of convolution algebra of locally integrable functions, generalized
+later in this work for the convolutions of –finite measures. Some examples are
+presented, including the famous problem of expressing the density of first hitting
+time of Ornstein-Uhlenbeck process in terms of elementary functions.
+
+This work aims to study the dislocation or nodal lines of 3D Berry’s
+random waves model. Their expected length is computed both in the isotropic
+and anisotropic cases, being them compared. Afterwards, in the isotropic case
+the asymptotic variance and distribution of the length are studied as the domain
+grows to the whole space. We find different orders of magnitude for the variance
+and different limit distributions for different submodels. The study includes the
+Berry’s monochromatic random waves, the Bargmann-Fock model and the Black-
+Body radiation.
+
+We consider models for count variables with a GARCH-type structure.
+Such a process consists of an integer-valued component and a volatility process. Using
+arguments for contractive Markov chains we prove that this bivariate process has
+a unique stationary regime. Furthermore, we show absolute regularity (fi-mixing)
+with geometrically decaying coefficients for the count process. These probabilistic
+results are complemented by a statistical analysis and a few simulations.
+
+We consider the discrete-time voter model on complete bipartite graphs
+and study the quasi-stationary distribution (QSD) for the model as the size of one
+of the partitions tends to infinity while the other partition remains fixed. We show
+that the QSDs converge weakly to a nontrivial limit which features a consensus with
+the exception of a random number of dissenting vertices in the “large” partition.
+Moreover, we explicitly calculate the law of the number of dissenters and show
+that it follows the heavy-tailed Sibuya distribution with parameter depending on
+the size of the “small” partition. Our results rely on a discrete-time analogue of
+the well-known duality between the continuous-time voter model and coalescing
+random walks which we develop in the paper.
+
+In this paper we consider the Glauber dynamics for the one-dimensional
+Ising model with dissipation, in a mesoscopic regime obtained by letting inverse
+temperature and volume go to infinity with a suitable scaling. In this limit the
+magnetization has a periodic behavior. Self-organized collective periodicity has
+been shown for many mean-field models but, to our knowledge, this is the first
+example with short-range interaction. This supports the view that self-organized
+periodicity is not linked with the mean-field assumption but it is a thermodynamic
+phenomenon compatible with short range interactions.
+
+This article deals with the emergence of a specific mating preference
+pattern called homogamy in a population. Individuals are characterized by their
+genotype at two haploid loci, and the population dynamics is modelled by a nonlinear
+birth-and-death process. The first locus codes for a phenotype, while the
+second locus codes for homogamy defined with respect to the first locus: two individuals
+are more (resp. less) likely to reproduce with each other if they carry the
+same (resp. a different) trait at the first locus. Initial resident individuals do not
+feature homogamy, and we are interested in the probability and time of invasion
+of a mutant presenting this characteristic under a large population assumption.
+To this aim, we study the trajectory of the birth-and-death process during three
+phases: growth of the mutant, coexistence of the two types, and extinction of the
+resident. We couple the birth-and-death process with simpler processes, like multidimensional
+branching processes or dynamical systems, and study the latter ones
+in order to control the trajectory and duration of each phase.
+
+In this article we consider transient random walks on HNN extensions
+of finitely generated groups. We prove that the rate of escape w.r.t. some generalised
+word length exists. Moreover, a central limit theorem with respect to the
+generalised word length is derived. Finally, we show that the rate of escape, which
+can be regarded as a function in the finitely many parameters which describe the
+random walk, behaves as a real-analytic function in terms of probability measures
+of constant support.
+
+It has been a puzzling question of why sexual reproduction has been so
+successful. Fisher and Muller hypothesized that reproducing by sex can speed up
+evolution; recombination could combine beneficial alleles on different chromosomes
+and speeds up the time that the beneficial alleles become fixated population. We
+consider a population of 2N chromosomes and focus on two loci on these chromosomes.
+The allele at each locus can mutate to a beneficial allele at rate N.
+Chromosomes with 0, 1, and 2 beneficial alleles die at rates 1; 1sN, and 12sN,
+respectively, and they are replaced immediately after death events. With probability
+1  rN, the replacement inherits both alleles from one parent chosen at
+random from the population at the time of replacement. With probability rN, recombination
+occurs, and the replacement receives its two alleles from two randomly
+chosen parents. Under certain assumptions on the parameters N; N; sN; and rN,
+we obtain an asymptotic approximation to the time that both beneficial alleles are
+fixated in the population. When the recombination probability is small, recombination
+does not speed up the time that the two beneficial alleles become fixated. In
+contrast, when the recombination probability is significant, recombination shorten
+this time. The result agrees with the Fisher-Muller hypothesis and confirms the
+advantage of reproducing by sex.
+
+We consider families of equivalent probability measures Q with a property
+related to concepts known in the literature under different names such as
+rectangularity or multiplicative stability. For the problems considered in this paper
+such a property yields dynamical consistency. We prove under a weak-compactness
+assumption with general filtrations and continuous processes that all semimartingales
+have an additive decomposition as the sum of a predictable non-decreasing
+process and a universal local supermartingale, by this concept we mean a process
+that is a local supermartingale with respect to each element of Q. We also
+show that processes having a supermartingale property with respect to a superadditive
+nonlinear conditional expectation associated to the family Q are always
+semimartingales under weak-compactness. These results are relevant in stochastic
+optimization problems including optimal stopping under model ambiguity.
+
+The paper has four goals. First, we want to generalize the classical
+concept of the branching property so that it becomes true for historical and genealogical
+processes, where the classical concept fails (here we use the description
+of genealogies by (V -marked) ultrametric measure spaces leading to state spaces
+U resp. UV ). In particular we want to complement the corresponding concept of
+infinite divisibility developed in Glöde et al. (2019) for this context. The processes
+we consider are always defined by well-posed martingale problems. The point of
+the generalized branching property is that the state at times t+s can at any time t
+be decomposed in a measurable function of the state at time t and an independent
+part which itself then decomposes in independent copies of the process evolving for
+time s. Secondly we want to find a corresponding characterization of the generators
+of branching processes both easy to apply and general enough to cover a wide range
+of mechanisms and state spaces, this is our first main result.
+As a third goal we want to obtain the branching property for some important
+examples as the U-valued Feller diffusion respectively UV -valued super random
+walk and the historical process on countable geographic spaces, the latter as two
+examples of a whole zoo of spatial processes we could treat. The fourth goal is to
+show the robustness of the method and to get the generalized branching property for
+genealogies marked with ancestral path, giving the line of descent moving through
+the ancestors and space, leading to path-marked ultrametric measure spaces. These
+new processes are constructed here and proved to have the generalized branching
+property, both together our second major result.
+We develop an abstract framework covering above situations and questions, leading
+to a new generator criterion. The state spaces suitable for historical and genealogical
+processes are consistent collections of topological semigroups each enriched
+with a compatible collection of maps, the truncation maps. All objects are
+defined on the state space of the process. The method allows to treat every type of
+population model formulated as solution to a well-posed martingale problem. This
+framework in particular includes processes taking values in the space of marked
+ultrametric measure spaces and hence allows to treat historical information and
+genealogies of spatial population models both at once, if genealogies are described
+this way. Another example is a multitype population, more specific with genetic
+types under mutation.
+
+We study a class of models of i.i.d. random environments in general
+dimensions d  2, where each site is equipped randomly with an environment,
+and a parameter p governs the frequency of certain environments that can act as
+a barrier. We show that many of these models (including some which are nonmonotone
+in p) exhibit a phase transition for the geometry of connected clusters as
+p varies.
+
+We prove sharp two-sided estimates on the tail probability of the first
+hitting time of bounded interval as well as its asymptotic behaviour for general
+non-symmetric processes which satisfy an integral condition
+To this end, we first prove and then apply the global scale invariant Harnack inequality.
+Results are obtained under certain conditions on the characteristic exponent.
+We provide a wide class of Lévy processes which satisfy these assumptions.
+
+We consider a doubly reflected backward stochastic differential equations
+with jumps and two completely separated optional barriers in a general filtration
+that supports a one-dimensional Brownian motion and an independent Poisson
+random measure. We suppose that the barriers have trajectories with left and right
+finite limits. We provide the existence and uniqueness result when the coefficient
+is stochastic Lipschitz by using a penalization method.
+
+In this paper, we consider U-statistics whose data is a strictly stationary
+sequence which can be expressed as a functional of an i.i.d. one. We establish a
+strong law of large numbers, a bounded law of the iterated logarithms and a central
+limit theorem under a dependence condition. The main ingredients for the proof
+are an approximation by U-statistics whose data is a functional of ` i.i.d. random
+variables and an analogue of the Hoeffding’s decomposition for U-statistics of this
+type.
+
+We prove a formula for the speed of distance–stationary random sequences
+generalizing the law of large numbers of Karlsson and Ledrappier. A particular
+case is the classical formula for the largest Lyapunov exponent of i.i.d. matrix
+products, but our result has applications in various different contexts. In many situations
+it gives a method to estimate the speed, and in others it allows to obtain
+results of dimension drop for escape measures related to random walks. We show applications
+to stationary reversible random trees with conductances, Bernoulli bond
+percolation of Cayley graphs, and random walks on cocompact Fuchsian groups.
+
+We consider a generic modified logarithmic Sobolev inequality (mLSI)
+of the form for some difference operator , and show how
+it implies two-level concentration inequalities akin to the Hanson–Wright or Bernstein
+inequality. This can be applied to the continuous (e. g. the sphere or bounded
+perturbations of product measures) as well as discrete setting (the symmetric group,
+finite measures satisfying an approximate tensorization property, . . . ).
+Moreover, we use modified logarithmic Sobolev inequalities on the symmetric
+group Sn and for slices of the hypercube to prove Talagrand’s convex distance
+inequality, and provide concentration inequalities for locally Lipschitz functions on
+Sn. Some examples of known statistics are worked out, for which we obtain the
+correct order of fluctuations, which is consistent with central limit theorems.
+
+In this note, we studied the asymptotic behaviour of the length of the
+longest common substring for run-length encoded sequences. When the original
+sequences are generated by an -mixing process with exponential decay (or  -
+mixing with polynomial decay), we proved that this length grows logarithmically
+with a coefficient depending on the Rényi entropy of the pushforward measure. For
+Bernoulli processes and Markov chains, this coefficient is computed explicitly.
+
+In this paper, we study spatial averages for the parabolic Anderson
+model in the Skorohod sense driven by rough Gaussian noise, which is colored in
+space and time. We include the case of a fractional noise with Hurst parameters H0
+in time and H1 in space, satisfying H0 2 (1=2; 1), H1 2 (0; 1=2) and H0+H1 > 3=4.
+Our main result is a functional central limit theorem for the spatial averages. As
+an important ingredient of our analysis, we present a Feynman-Kac formula that is
+new for these values of the Hurst parameters.
+
+Annealed functional CLT in the rough path topology is proved for the
+standard class of ballistic random walks in random environment. Moreover, the
+‘area anomaly’, i.e. a deterministic linear correction for the second level iterated
+integral of the rescaled path, is identified in terms of a stochastic area on a regeneration
+interval. The main theorem is formulated in more general settings, namely for
+any discrete process with uniformly bounded increments which admits a regeneration
+structure where the regeneration times have finite moments. Here the largest
+finite moment translates into the degree of regularity of the rough path topology.
+In particular, the convergence holds in the -Hölder rough path topology for all
+ < 1=2 whenever all moments are finite, which is the case for the class of ballistic
+random walks in random environment. The latter may be compared to a special
+class of random walks in Dirichlet environments for which the regularity  < 1=2 is
+bounded away from 1=2, explicitly in terms of the corresponding trap parameter.
+
+In this paper we consider the Kardar-Parisi-Zhang (KPZ) fixed point
+(ht ; t  0) (Corwin et al., 2015; Matetski et al., 2016) and prove that, for suitable
+initial conditions, ht(x)  ht(0) converges to a two-sided Brownian motion with
+zero drift and diffusion coefficient 2, as t ! 1. The heart of the proof is the
+coupling method, that allows us to compare the TASEP height function started
+from a perturbation of density 1=2 with its invariant counterpart which, under
+KPZ scaling, turns into uniform estimates for the KPZ fixed point.
+
+We consider a random walk on the hyperoctahedral group Bn generated
+by the signed permutations of the forms (i; n) and (i; n) for 1  i  n. We call
+this the flip-transpose top with random shuffle on Bn. We find the spectrum of
+the transition probability matrix for this shuffle. We prove that the mixing time
+for this shuffle is of order n log n. We also show that this shuffle exhibits the
+cutoff phenomenon. In the appendix, we show that a similar random walk on the
+demihyperoctahedral group Dn also has a cutoff at
+We fix d  2 and denote S the semi-group of d  d matrices with non
+negative entries. We consider a sequence (An;Bn)n1 of i.i.d. random variables
+with values in S  Rd
++ and study the asymptotic behavior of the Markov chain
+(Xn)n0 on Rd
++ defined by:
+8n  0; Xn+1 = An+1Xn + Bn+1;
+where X0 is a fixed random variable. We assume that the Lyapunov exponent of
+the matrices An equals 0 and prove, under quite general hypotheses, that there
+exists up to a multiplicative constant a unique Radon measure m on (R+)d which
+is invariant for the chain (Xn)n0; furthermore, this measure m is infinite. The
+existence of m relies on a recent work by T.D.C. Pham about fluctuations of the
+norm of product of random matrices (Pham, 2018). Its unicity is a consequence
+of a general property, called “local contractivity”, highlighted about 20 years ago
+by M. Babillot, Ph. Bougerol et L. Elie in the case of the one dimensional affine
+recursion (Babillot et al., 1997).
+
+We propose a new powerful family of tests of univariate normality. These tests are
+based on an initial value problem in the space of characteristic functions originating from the fixed
+point property of the normal distribution in the zero bias transform. Limit distributions of the test
+statistics are provided under the null hypothesis, as well as under contiguous and fixed alternatives.
+Using the covariance structure of the limiting Gaussian process from the null distribution, we derive
+explicit formulas for the first four cumulants of the limiting random element and apply the results
+by fitting a distribution from the Pearson system. A comparative Monte Carlo power study shows
+that the new tests are serious competitors to the strongest well established tests.
+
+In this short note, we extend the celebrated results of Tao and Vu, and Krishnapur
+on the universality of empirical spectral distributions to a wide class of inhomogeneous complex
+random matrices, by showing that a technical and hard-to-verify Fourier domination assumption
+may be replaced simply by a natural uniform anti-concentration assumption.
+Along the way, we show that inhomogeneous complex random matrices, whose expected squared
+Hilbert-Schmidt norm is quadratic in the dimension, and whose entries (after symmetrization) are
+uniformly anti-concentrated at 0 and infinity, typically have smallest singular value 
+(n1=2). The
+rate n1=2 is sharp, and closes a gap in the literature.
+Our proofs closely follow recent works of Livshyts, and Livshyts, Tikhomirov, and Vershynin on
+inhomogeneous real random matrices. The new ingredient is an anti-concentration inequality for
+sums of independent, but not necessarily identically distributed, complex random variables, which
+may also be useful in other contexts.
+
+We prove the existence of non-trivial phase transitions for the intersection of two independent
+random interlacements and the complement of the intersection. Some asymptotic results
+about the phase curves are also obtained. Moreover, we show that at least one of these two sets
+percolates in high dimensions.
+
+In this article we give a direct proof of a central limit theorem and law of large numbers
+for a functional with compact support of a diffusion. Some applications are given in order to obtain
+a parameter estimation for different models.
+
+In 2013 A.A. Borovkov and A.A. Mogulskii proved a weaker-than-standard “metric” large
+deviations principle (LDP) for trajectories of random walks in Rd whose increments have the Laplace
+transform finite in a neighbourhood of zero. We prove that general metric LDPs are preserved under
+uniformly continuous mappings. This allows us to transform the result of Borovkov and Mogulskii
+into standard LDPs. We also give an explicit integral representation of the rate function they found.
+As an application, we extend the classical Cramér theorem by proving an LPD for kernel-weighted
+sums of i.i.d. random vectors in Rd.
+
+Benatar and Maffucci (2019) established an asymptotic law for the variance of the
+nodal surface of arithmetic random waves on the 3-torus in the high-energy limit. In a subsequent
+work, Cammarota (2019) proved a universal non-Gaussian limit theorem for the nodal surface.
+In this paper, we study the nodal intersection length and the number of nodal intersection points
+associated, respectively, with two and three independent arithmetic random waves of same frequency
+on the 3-torus. For these quantities, we compute their expected value, asymptotic variance as well
+as their limiting distribution. Our results are based on Wiener-Itô expansions for the volume and
+naturally complement the findings of Cammarota (2019). At the core of our analysis lies an abstract
+cancellation phenomenon applicable to the study of level sets of arbitrary Gaussian random fields,
+that we believe has independent interest.
+
+Exchangeable coalescents with dust are studied. The rate of convergence as the sample
+size tends to infinity of the scaled block counting process to the frequency of singleton process
+is determined. This rate is expressed in terms of a certain Bernstein function. The proofs are
+based on Taylor expansions of the infinitesimal generators and semigroups and involve a particular
+concentration inequality arising in the context of Karlin’s infinite urn model. The rate of convergence
+is calculated for several examples of coalescents.
+
+In this paper we investigate the local limit theorem for additive functionals of a nonstationary
+Markov chain with finite or infinite second moment. The moment conditions are imposed
+on the individual summands and the weak dependence structure is expressed in terms of some
+uniformly mixing coefficients.
+
+In this paper, we introduce and study a convoluted version of the time fractional Poisson
+process by taking the discrete convolution with respect to space variable in the system of fractional
+differential equations that governs its state probabilities. We call the introduced process as the
+convoluted fractional Poisson process (CFPP). It has integer valued jumps of size j  1. The
+explicit expression for the Laplace transform of its state probabilities are obtained whose inversion
+yields its one-dimensional distribution. A special case of the CFPP, namely, the convoluted Poisson
+process (CPP) is studied and its time-changed subordination relationships with CFPP are discussed.
+It is shown that the CPP is a Lévy process using which the long-range dependence property of CFPP
+is established. Moreover, we show that the increments of CFPP exhibits short-range dependence
+property.
+
+In this work we introduce a theory of stochastic integration for operator-valued integrands
+with respect to some classes of cylindrical martingale-valued measures in Hilbert spaces.
+The integral is constructed via the radonification of cylindrical martingales by a Hilbert-Schmidt
+operator theorem and unifies several other theories of stochastic integration in Hilbert spaces. In
+particular, our theory covers the theory of stochastic integration with respect to a Hilbert space
+valued Lévy process with second moments, with respect to a cylindrical Lévy processes with (weak)
+second moments and with respect to a Lévy-valued random martingale measures with finite second
+moment. As an application of our theory of integration we prove existence and uniqueness
+of solutions for stochastic stochastic partial differential equations driven by multiplicative cylindrical
+martingale-valued measure noise with rather general coefficients. Existence and uniqueness of
+solutions in the presence of multiplicative Lévy noise (with no moments assumptions) is also proved.
+
+Let M be a compact Riemannian manifold with smooth boundary. We obtain the exact
+long time asymptotic behaviour of heat kernels on abelian covering spaces of M with mixed Dirichlet
+and Neumann boundary conditions. As an application, we study the long time behaviour of the
+winding number of reflected Brownian motion in M. In particular, we establish a Gaussian type
+central limit theorem showing that when rescaled appropriately, the fluctuation of the winding
+number is asymptotically Gaussian with an explicit covariance matrix.
+
+We extend the general stochastic matching model on graphs introduced in Mairesse and
+Moyal (2016), to matching models on multigraphs, that is, graphs with self-loops. The evolution of
+the model can be described by a discrete time Markov chain whose positive recurrence is investigated.
+Necessary and sufficient stability conditions are provided, together with the explicit form of the
+stationary probability in the case where the matching policy is ‘First Come, First Matched’.
+
+Distance covariance is a measure of dependence between two random variables that take
+values in two, in general different, metric spaces, see Székely et al. (2007) and Lyons (2013). It is
+known that the distance covariance, and its generalization -distance covariance, can be defined
+in several different ways that are equivalent under some moment conditions. The present paper
+considers four such definitions and find minimal moment conditions for each of them, together with
+some partial results when these conditions are not satisfied.
+Another purpose of the present paper is to improve existing results on consistency of distance
+covariance, estimated using the empirical distribution of a sample.
+The paper also studies the special case when the variables are Hilbert space valued, and shows
+under weak moment conditions that two such variables are independent if and only if their (-)
+distance covariance is 0; this extends results by Lyons (2013) and Dehling et al. (2020). The proof
+uses a new definition of distance covariance in the Hilbert space case, generalizing the definition for
+Euclidean spaces using characteristic functions by Székely et al. (2007).
+
+We propose a new definition of the interface in the context of the Bernoulli percolation
+model. We construct a coupling between two percolation configurations, one which is a standard
+percolation configuration, and one which is a percolation configuration conditioned on a disconnection
+event. We define the interface as the random set of the edges where these two configurations
+differ. We prove that, inside a cubic box , the interface between the top and the bottom of the
+box is typically localised within a distance of order (ln jj)2 of the set of the pivotal edges.
+
+Consider random d-regular graphs, i.e., random graphs such that there are exactly d
+edges from each vertex for some d  3. We study both the configuration model version of this
+graph, which has occasional multi-edges and self-loops, as well as the simple version of it, which is
+a d-regular graph chosen uniformly at random from the collection of all d-regular graphs.
+In this paper, we discuss mixing times of Glauber dynamics for the Ising model with an external
+magnetic field on a random d-regular graph, both in the quenched as well as the annealed settings.
+Let fi be the inverse temperature, fic be the critical temperature and B be the external magnetic
+field. Concerning the annealed measure, we show that for fi > fic there exists ^Bc(fi) 2 (0;1) such
+that the model is metastable (i.e., the mixing time is exponential in the graph size n) when fi > fic
+and 0  B < ^Bc(fi), whereas it exhibits the cut-off phenomenon at c?n log n with a window of order
+n when fi < fic or fi > fic and B > ^Bc(fi). Interestingly, ^Bc(fi) coincides with the critical external
+field of the Ising model on the d-ary tree (namely, above which the model has a unique Gibbs
+measure). Concerning the quenched measure, we show that there exists Bc(fi) with Bc(fi)  ^Bc(fi)
+such that for fi > fic, the mixing time is at least exponential along some subsequence (nk)k1 when
+0  B < Bc(fi), whereas it is less than or equal to Cn log n when B > ^Bc(fi). The quenched results
+also hold for the model conditioned on simplicity, for the annealed results this is unclear.
+
+We derive explicit formulas for the two first moments of the site frequency spectrum
+(SFSn;b)1bn1 of the Bolthausen-Sznitman coalescent along with some precise and efficient approximations,
+even for small sample sizes n. These results provide new L2-asymptotics for some
+values of b = o(n). We also study the length of internal branches carrying b > n=2 individuals,
+we provide their joint distribution function as well as a convergence in law for their marginal distribution.
+Our results rely on the random recursive tree construction of the Bolthausen-Sznitman
+coalescent.
+
+We consider a modified version of the biased random walk on a tree constructed from
+the set of finite self-avoiding walks on the hexagonal lattice, and use it to construct probability
+measures on infinite self-avoiding walk. Under theses probability measures, we prove that the
+infinite self-avoiding walks have the Russo-Seymour-Welsh property of the exploration curve of the
+critical Bernoulli percolation.
+
+We prove a law of large numbers for the order and size of the largest strongly connected
+component in the directed configuration model. Our result extends previous work by Cooper and
+Frieze (2004).
+
+In this paper we prove that the stationary harmonic measure of an infinite set in the
+upper planar lattice can be represented as the proper scaling limit of the classical harmonic measure
+of truncations of the infinite set.
+
+This paper analyzes the question of where one should stand when playing darts. If one
+stands at distance d > 0 and aims at a 2 Rn, then the dart (modelled by a random vector X in
+Rn) hits a random point given by a + dX. Next, given a payoff function f, one considers
+sup
+a
+Ef(a + dX)
+and asks if this is decreasing in d; i.e., whether it is better to stand closer rather than farther from
+the target. Perhaps surprisingly, this is not always the case and understanding when this does or
+does not occur is the purpose of this paper.
+We show that if X has a so-called selfdecomposable distribution, then it is always better to stand
+closer for any payoff function. This class includes all stable distributions as well as many more.
+On the other hand, if the payoff function is cos(x), then it is always better to stand closer if and
+only if the characteristic function jX(t)j is decreasing on [0;1). We will then show that if there
+are at least two point masses, then it is not always better to stand closer using cos(x). If there is a
+single point mass, one can find a different payoff function to obtain this phenomenon.
+Another large class of darts X for which there are bounded continuous payoff functions for which
+it is not always better to stand closer are distributions with compact support. This will be obtained
+by using the fact that the Fourier transform of such distributions has a zero in the complex plane.
+This argument will work whenever there is a complex zero of the Fourier transform.
+Finally, we analyze if the property of it being better to stand closer is closed under convolution
+and/or limits.
+
+We develop the complex-analytic viewpoint on the tree convolutions studied by the second
+author and Weihua Liu in Jekel and Liu (2020), which generalize the free, boolean, monotone,
+and orthogonal convolutions. In particular, for each rooted subtree T of the N-regular tree (with
+vertices labeled by alternating strings), we define the convolution T (1; : : : ; N) for arbitrary
+probability measures 1, . . . , N on R using a certain fixed-point equation for the Cauchy transforms.
+The convolution operations respect the operad structure of the tree operad from Jekel and
+Liu (2020). We prove a general limit theorem for iterated T -free convolution similar to Bercovici
+and Pata’s results in the free case Bercovici and Pata (1999), and we deduce limit theorems for
+measures in the domain of attraction of each of the classical stable laws.
+
+In this paper we consider universal nonparametric estimators for the conditional expectations
+of the output of a stationary process at carefully selected time instances (intermittent
+estimation). These estimators are based on the information provided by the random outputs at
+past times. Pointwise consistency, integrability of various suprema and asymptotic normality will
+be established for these nonparametric intermittent estimators.
+
+We give a general criterion for the Dirichlet problem at infinity (DPI) on a Cartan-
+Hadamard surface to be solvable, which we primarily use to give the best possible upper radial radial
+curvature bound for solvability of the DPI, but which is also flexible enough to accommodate flats.
+In particular, any (upper) radial curvature bound which implies transience also implies solvability of
+the DPI, which is perhaps surprising. Taking advantage of the structure provided by uniformization,
+we show that solvability of the DPI implies there is a natural continuous surjection of the Martin
+boundary onto the geometric boundary at infinity. Finally, we give matched upper and lower radial
+curvature bounds that imply the natural identification of the geometric and Martin boundaries (for
+Cartan-Hadamard surfaces) that are more generous than the bounds that are known in arbitrary
+dimension.
+
+We prove convergence of the full extremal process of the scale-inhomogeneous discrete
+Gaussian free field in dimension two in the weak correlation regime. The scale-inhomogeneous
+discrete Gaussian free field is obtained from the 2d discrete Gaussian free field by modifying the
+variance through a function I : [0; 1] ! [0; 1]. The full extremal process converges to a cluster Cox
+process. The random intensity of the Cox process depends on I0(0) through a random measure Y
+and on I0(1) through a constant fi. We show that, in law, the random measure, Y , is equal to the
+Liouville Quantum Gravity measure at sub-critical temperature  = 2(0). The cluster process,
+which only depends on I0(1), can be described as atoms of a standard 2d discrete Gaussian free
+field conditioned to be unusually high.
+
+We consider a nearest neighbour random walk on the integers with absorption at 0 and
+constant jump probabilities to the left and right of zero. The associated spectral radius is  and
+the spatial -Martin exit boundary comprises two extremal points and associated minimal excessive
+functions h1 and h+1 associated with sequences xn converging to 1 and +1 respectively. We
+construct a space-time sequence (xn; n) with xn ! 1 converging to a point in the space-time
+-Martin exit boundary whose associated space time harmonic function h(x; t) is minimal and of
+the form th+1(x) not th1(x) as might have been hoped.
