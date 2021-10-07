@@ -1,0 +1,122 @@
+Epilepsy data 
+Periodogram 
+Principal components analysis 
+Simple moving averages 
+Supervised learning
+ECME algorithm 
+Mixture model 
+Non-normal error distribution 
+Scale mixtures of skew-normal distributions
+Anderson-Darling and Cramer-von Mises tests 
+Information measures 
+Maximum likelihood estimation 
+Monte Carlo method 
+Power test 
+R software
+Bayesian inference 
+Birnbaum-Saunders distribution 
+ECM algorithm 
+Frequentist inference 
+MCMC algorithms 
+R software
+Data modeling 
+Extended distributions 
+Hazard rate 
+Maximum likelihood estimation 
+Monte Carlo simulations 
+Precipitation data
+Censored regression model 
+Influence Maximum likelihood estimation 
+Residual and influence diagnostic analysis 
+Tilted-normal distribution
+Covariance operator 
+Functional time series 
+Random measure
+Generalized normal distribution 
+Imperfect ranking 
+Perfect ranking 
+Run length 
+Skew-normal distribution
+Black-Scholes model 
+Copulas 
+GARCH models 
+Pricing
+Censoring 
+Functional data analysis 
+Nonparametric statistics 
+Relative error regression
+Error function 
+Flat likelihood 
+Generalized distributions 
+Log-linear
+regression models
+Boxplot 
+Contingency tables 
+Outlying cells 
+Residuals 
+Summary measures
+Correlated pairs 
+Likelihood ratio test 
+Multivariate samples
+Maximum likelihood estimation 
+Proportion data 
+Regression model 
+Unit-Lindley distribution 
+Unit interval
+Confidence bands 
+Functional data 
+Lindeberg condition 
+Nonparametric kernel estimate 
+Robust equivariant regression
+Bayesian approach 
+Censored data 
+Maximum likelihood method 
+Monte Carlo simulation 
+Multivariate distributions
+Bootstrapping 
+Hotelling and likelihood ratio tests 
+Types I-II errors
+Bootstrap bias correction 
+Cox-Snell bias correction 
+Maximum likelihood estimation 
+Monte Carlo simulation 
+Wind speed data
+Integer programming 
+Mathematical programming 
+Timetabling problem
+EM algorithm 
+Maximum likelihood 
+Mixture distributions
+Average run length 
+False alarm rate 
+Quality control chart 
+Parametric
+bootstrap 
+Percentile
+Friedman test 
+Exact distribution 
+Non-parametricmethods 
+R software
+Bootstrap 
+Heavy-tailed distribution 
+Light-tailed distribution 
+Statistical Process control 
+Symmetric distributions
+Competing causes 
+Frailty models Markov chain Monte Carlo 
+Negative binomial distribution 
+Power variance function
+Edge detection 
+G0I model 
+Synthetic aperture radar systems 
+Speckled data 
+Stochastic distance
+Binomial regression 
+Generalized linear models 
+Level sets 
+Link function
+Asymmetric exponential power (AEP) distribution 
+Generalized linear model 
+JAGS and R software 
+Rasch model 
+Sample-based inference
