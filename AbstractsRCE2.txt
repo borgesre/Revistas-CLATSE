@@ -1,0 +1,59 @@
+We propose a new family of distributions called exponentiated Kumaraswamy-
+G class with three extra positive parameters, which generalizes 
+Cordeiro and de Castro's family. Some special distributions in new class
+are discussed. We derive some mathematical properties ofproposed
+class including explicit expressions forquantile function, ordinary and
+incomplete moments, generating function, mean deviations, reliability, Rényi
+entropy and Shannon entropy.method of maximum likelihood is used to
+tdistributions inproposed class. Simulations are performed in order
+to assessasymptotic behavior ofmaximum likelihood estimates.
+We illustrate its potentiality with applications to two real data sets which
+show thatextended Weibull model innew class provides a better t
+than other generalized Weibull distributions.
+
+In paper,structure of semicompeting risks data, dened by Fine,
+Jiang & Chappell (2001), is studied. Two events are of interest: a nonterminal
+and a terminal event,last one, can censornon-terminal
+event, but not vice versa. Due topossible dependence betweentimes
+untiloccurrence of such events, two approaches are evaluated: modelling
+the bivariate survival function through Archimedean copulas and a shared
+frailty model. A simulation is conducted to examine its performance and
+both approaches are applied to a real data set of patients with chronic kidney
+disease (CKD).
+
+Copula functions have been extensively used in applied statistics, becom-
+ing a good alternative for modelingdependence of multivariate data.
+Each copula function has a different dependence structure. An important is-
+sue in these applications ischoice of an appropriate copula function model
+for each case where standard classical or Bayesian discrimination methods
+could be not appropriate to decide bybest copula. Considering only
+the special case of bivariate data, we propose a procedure obtained from a
+recently dependence measure introduced inliterature to select an appro-
+priate copula forstatistical data analyses.
+
+Gamma regression models are a suitable choice to model continuous vari-
+ables that take positive real values. paper presents a gamma regression
+model with mixed effects from a Bayesian approach. We useparametri-
+sation ofgamma distribution in terms ofmean andshape pa-
+rameter, both of which are modelled through regression structures that may
+involve fixed and random effects. A computational implementation via Gibbs
+sampling is provided and illustrative examples (simulated and real data) are
+presented.
+
+We review recent developments related to inference for functions defined
+at spatial locations. We  consider time series of functions defined at
+irregularly distributed spatial points or on a grid. We focus on kriging,
+estimation offunctional mean and principal components, and significance
+testing, giving special attention to testing spatio–temporal separability in 
+context of functional data. We  highlight some ideas related to extreme
+value theory for spatially indexed functional time series.
+
+This work presents a Bayesian approach for estimatinglimiting avail-
+ability of an one-unit repairable system. A Bayesian analysis is developed
+considering an informative prior and a less informative prior distribution,
+respectively. Simulations are presented to studyperformance of 
+Bayesian solutions.maximum likelihood method is  revisited. Fi-
+nally, a case study is considered,Bayesian methodology is applied to
+estimatelimiting availability of a palletizer, which is used inpack-
+aging of glass bottles. Extensions to a coherent system are  discussed.
+

@@ -1,0 +1,336 @@
+This paper introduces a method for classification of electroencephalogram (EEG)
+data combining Fourier analysis, support vector machine (SVM) and a weighting system,
+called WFF-SVM, that provides high correct classification rates (accuracy) using
+a small training data set. Basically, an SVM classifier is calculated for each frequency in
+periodogram and a proposed weighting system, based on error rate of each SVM
+classifier, is used to obtain a final decision value. Also, it is shown that principal component
+analysis can be used to identify best group of EEG channels to apply to 
+classification method, improving correct classification rate. Two applications with
+real data are presented. first application uses a public data set of epileptic patients
+and compares proposed method with other methods presented in literature.
+In this case, correct classification rate obtained was 100%. second application
+consists of EEG data collected from a subject submitted to 10 visual stimuli and the
+correct classification rate obtained was 95.31%. classifier WFF-SVM combines multiple
+existing techniques, each one of them widely used in time series and dimensionality
+reduction problems. Our paper combines standard signal processing techniques to obtain
+high classification rates of EEG data.
+
+In this paper, we propose a regression model based on assumption that error term
+follows a mixture of normal distributions. Specifically, we consider a finite scale mixture
+of skew-normal distributions, a rich family that contains skew-normal, skew-t,
+skew-slash and skew-contaminated normal distributions as members. This model allows
+us to describe data with high flexibility, simultaneously accommodating multimodality,
+skewness and heavy tails. We develop a simple EM-type algorithm to perform maximum
+likelihood inference of parameters of proposed model with closed-form expressions
+for both E- and M-steps. Furthermore, observed information matrix is derived
+analytically to account for corresponding standard errors and a bootstrap procedure
+is implemented to test number of components in mixture. practical utility
+of new model is illustrated with a real dataset and several simulation studies. 
+proposed algorithm and methods are implemented in an R package named FMsmsnReg.
+
+In this work, we propose a goodness-of-fit test based on Kullback-Leibler information
+for Birnbaum-Saunders distribution. We use Monte Carlo simulations to evaluate
+size and power of proposed test for several alternative hypotheses under di↵erent
+sample sizes. We compare powers with standard goodness-of-fit tests based as 
+Anderson-Darling and Cram´er-von Mises tests. Finally, we illustrate proposed test
+with a real data set to show its potential applications.
+
+In this paper, we introduce a new distribution for positively skewed data by combining
+Birnbaum-Saunders and centered skew-normal distributions. Several of its properties
+are developed. Our model accommodates both positively and negatively skewed
+data. Also, we show that our proposal circumvents some problems related to another
+Birnbaum-Saunders distribution based on usual skew-normal model, previously presented
+in literature. We derive both maximum likelihood and Bayesian inference,
+comparing them through a suitable simulation study. convergence of expectation
+conditional maximization (for maximum likelihood inference) and MCMC algorithms
+(for Bayesian inference) are verified and several factors of interest are compared. In
+general, as sample size increases, results indicate that Bayesian approach
+provided most accurate estimates. Our model accommodates asymmetry of 
+data more properly than usual Birnbaum-Saunders distribution, which is illustrated
+through real data analysis.
+
+We introduce a three-parameter extension of Lindley distribution, which has as
+sub-models Lindley and Marshall-Olkin Lindley distributions. proposed model
+turns out to be quite flexible: its probability density function can be decreasing or
+unimodal and its associated hazard rate may be increasing, decreasing, unimodal or
+bathtub-shaped. Since this new distribution has a survival function and a hazard rate
+that can be expressed in closed form, it can readily be simulated and used to analyze
+censored data. Computable expressions are obtained for certain statistical functions
+such as its quantile function, ordinary and incomplete moments, moment generating
+function, order statistics and reliability function. maximum likelihood method is
+utilized to obtain estimates of model parameters and a simulation study is carried
+out to assess performance of corresponding maximum likelihood estimators. Two
+illustrative examples involving hydrological data sets are presented.
+
+In this paper, we introduce an asymmetric extension to tobit model by assuming that
+error term follows a tilted-normal distribution. new model, namely tilted-normal
+tobit model, can be an useful alternative to other skewed tobit models, such as skewnormal
+and power-normal tobit models. method of maximum likelihood is used
+for estimating model parameters. We provide some simulation studies for di↵erent
+sample sizes and parameter settings. In addition, we perform residual and influence
+diagnostic analysis. Finally, we use American food consumption data to illustrate 
+better performance of model introduced.
+
+In this paper, we provide sufficient conditions ensuring that a Â–mixing property holds
+for sequence of empirical cumulative distribution functions associated with a conjugate
+process. Numerical examples are also provided to illustrate our results.
+
+In this study, we consider design and performance of control charts using neoteric
+ranked set sampling (NRSS) in monitoring industrial processes. NRSS is a recently
+proposed sampling design, based on traditional ranked set sampling (RSS). NRSS
+di↵ers from RSS by constituting, originally, a single set of k2 sample units, instead of k
+sets of size k, where k is final sample size. We evaluate NRSS control charts by average,
+median and standard deviation of run lengths, based on Monte Carlo simulation
+results. NRSS control charts perform best, compared to RSS and some of its extensions,
+in most simulated scenarios. impact of imperfect ranking and non normality
+are also evaluated. An application to concrete strength data serves as an illustration of
+proposed method.
+
+Options pricing models, which consider asset-objects following a geometric Brownian
+motion, such as derivations from traditional Black-Scholes model, assume volatility
+of asset-objects to be constant over time. In addition, normal distribution is 
+basement of joint distribution for case of bivariate options. In this work, we
+consider GARCH-in-mean models with asymmetric variance specifications to model 
+volatility of assets-objects under risk-neutral dynamics. Moreover, copula
+functions model joint distribution, with objective of capturing non-linear, linear
+and tails associations between assets. We provide a methodology to describe
+a more realistic pricing option. To illustrate methodology, we use stocks from two
+Brazilian companies. Confronting results obtained with classic model, which is
+an extension of Black-Scholes model, we note that considering constant volatility
+over time underpricing options, especially in-the-money options. Overall, contributions
+of proposed methodology are as follows. Using best copula makes 
+model more suitable. Extension to marginal models, which consider asymmetry, makes
+joint modeling more flexible and realistic. Due to adequate marginal and joint fitting,
+in addition to values obtained with classical consolidated model, there are
+arguments to believe that di↵erences obtained between best models, through
+copulas and extension of conventional method, are improvements in 
+calculation of fair value. empirical relevance of such alternatives is apparent
+given evidence of non-joint-normality in financial emerging markets. In essence, 
+entire approach may be generalized to any number of time-series of option pricing.
+
+In this paper, almost complete consistency and asymptotic normality of estimator
+of regression operator in case of a censored response given a functional
+explanatory variable are investigated under some mild conditions. latter is constructed
+from minimization of mean squared relative error. novelty of this
+work compared to works found in literature is that response variable is censored.
+A simulation study is carried out to compare finite sample performance based
+on mean square error between classical regression and relative error regression.
+Moreover, a real data study is used to illustrate our methodology.
+
+In this paper, we propose a new generator of distributions called erf-G family. Our
+proposal provides special distributions without adding complexity to parametric spaces
+of resulting models. We also furnish empirical evidence that proposed family may
+solve issues of flat or quasi-red likelihoods in some baselines. In particular, we detail
+six special models from erf-G family. We also derive a new log-linear regression
+model considering a kind of censoring. We discuss censored and uncensored maximum
+likelihood estimation methods for proposed models. In order to study asymptotic
+properties of considered estimators, we carry out a Monte Carlo simulation study. Finally,
+using applications to real data we illustrate that proposed models may outperform
+classic lifetime models.
+
+Detecting outliers in two-way contingency tables is an important and interesting statistical
+problem. There is no clear objective procedure available in literature to handle
+outliers in categorical data unlike other data types. Therefore, this study envisages a
+two-step procedure, to first indicate and then to identify outliers in two-dimensional contingency
+tables. approach deals with enhancing summary measure to indicate
+presence of possible outlying cells followed by residual approaches supplemented
+by boxplot in identifying outliers. fundamental definition of outlying cell as
+“markedly deviant” cell is clearly exploited in this two-step procedure. A simulation
+study has been carried out to examine consistency of proposed methods and
+later applied to a large collection of real datasets from various applications of social
+sciences.
+
+Many laboratory experiments in fields of biological sciences usually involve two main
+groups say healthy and infected subjects. In one of these kind of experiments, each
+specimen from each group can be divided in two portions; one portion is stimulated
+while other remains unstimulated. Consequently resulting into two main groups
+with paired measurements that are correlated. For all groups, p genes are measured
+for expression. stimulation in this case can be done by introducing a known infection
+causing micro-organism like group A streptococcus which is usually associated
+with acute rheumatic fever. An important question in such experiment would be to
+statistically test for di↵erences in di↵erences in means for healthy and infected
+groups. That is, di↵erence in means of healthy group (stimulated and
+unstimulated) is tested against di↵erence in means of infected (stimulated
+and unstimulated) group. In this paper, a likelihood ratio test statistic is developed for
+such kind of problems. developed statistics and Hotelling T2 statistic are both
+applied to data are simulated from real biological situations and their performances
+are compared. simulated data exhibit correlation structure similar to that of
+real biological data obtained from experiments involving milliplex analyst biomarker
+data sets. results indicate that proposed test statistic give same conclusions
+for hypotheses tested as those of Hotelling T2 test. However, proposed test
+is intuitively more appealing since it takes care of correlations between pairs in
+data. simulation study confirms that test statistics follow a chi-square distribution.
+This research contributes a theoretical analysis of paired correlated samples
+motivated by a practical problem for which existing statistical methods in use have
+seldomly taken into account correlation structure of data.
+
+A large number of useful distributions for data analysis are obtained by transforming
+di↵erent random variables. An example is one-parameter unit-Lindley distribution,
+obtained by transforming a random variable which has a Lindley distribution. In this paper,
+we introduce a new one-parameter unit-Lindley distribution, useful for data analysis
+in interval (0,1]. It follows some interesting properties such as having closed form
+expressions for moments, belonging to exponential family. We also analyze a
+practical application having covariates, by setting up a suitable regression and show
+that our model fits much better than both unit-Lindley and beta regressions.
+
+In this paper, we propose a family of robust nonparametric estimators for a regression
+function with unknown scale parameter based on kernel method. We establish
+asymptotic normality of estimators for functional explanatory variables when
+observations exhibit some kind of dependence (stationary ergodic process). This
+approach can be used for predicting and for building confidence regions. A simulation
+study is conducted to support our theoretical results and to exhibit good behavior
+of proposed estimator for finite samples with different rates of dependency, and
+particularly in presence of several outliers in data set. In addition, a real data
+study is provided to illustrate good behavior of our estimator.
+
+Multivariate lifetime data are common in many applications, especially in medical and
+engineering studies. In this paper, we consider a trivariate Marshall-Olkin-Weibull distribution
+to model trivariate data in presence of right censored data.Maximum likelihood
+and Bayesian methods are used to get parameter estimators of interest. An extensive
+simulation study was performed to verify e↵ectiveness of maximum likelihood
+estimators. Reliability data sets related to fiber failure strengths were considered to
+illustrate performance of proposed model under classical and Bayesian approaches.
+As a result, note that trivariate Marshall-Olkin-Weibull model could be
+considered as a good alternative to model trivariate lifetime data, especially under a
+Bayesian approach which could be of interest for reliability analysis, as observed
+with real data application in industrial engineering presented in study or any
+other area of interest.
+
+New alternative tests to Hotelling T2 and likelihood ratio tests for multivariate
+normal and non-normal population mean vector are proposed here. These new tests
+are based on ordinary and robust comedian covariance matrix estimator. new
+adapted likelihood ratio test overcomes high dimensional issue that occurs with both
+T2 and likelihood ratio tests. asymptotic and parametric bootstrap distributions
+for test statistics are used and performance of these new tests based on normal and
+non-normal distributions is evaluated through Monte Carlo simulations. Contaminated
+normal multivariate populations are also considered to evaluate effects of outliers on
+test performances. Type I error probabilities and power in all simulations are computed
+using R software. non-robust parametric bootstrap version of likelihood
+ratio test performs better and is recommended since it is easy to implement and computationally
+fast. An application of proposed new and T2 tests to a real data set is
+provided. We use an R package of our authorship to perform tests described here.
+
+Chaudhry-Ahmad distribution is a two-parameter continuous probability distribution
+obtained as a solution to a generalized Pearson system of di↵erential equation. Although
+its probability density curve resembles inverse-Gaussian, gamma, log-normal,
+Weibull and other distributions, it has been neglected in analysis of right-skewed
+data. purpose of this paper is three folded. Firstly, to reparametrize Chaudhry
+and Ahmad distribution and present some of its basic properties. Secondly to derive
+analytical bias-corrected maximum likelihood estimators applying Cox-Snell
+methodology and thirdly to study, by MC simulations, small-sample properties of
+maximum likelihood estimators and their bias-corrected versions, obtained from
+Cox-Snell formula and by parametric bootstrap technique. numerical results
+show, for both parameters, that maximum likelihood estimators are highly biased,
+especially in small samples. On other hand, both, analytical and bootstrap
+methodologies, significantly reduce biases and mean-squared errors. It is apparent
+from results that analytical bias-correction is more efficient than bootstrap
+resamples. Finally, wind speed data from six weather stations distributed in state
+of Tocantins in Brazil is used to illustrate applicability of proposed methods.
+
+purpose of this work is to present a decision support system for scheduling courses
+of statistics and data science to help educational institutions. Currently, an increasing
+demand of statisticians and data scientists around world of businesses and organizations
+is observed. By distributing resources, such as available time for teachers to
+form those human personnel, is challenging because of many dependencies that can
+exist, which must be taken into account. We describe an integer programming formulation
+to handle a real instance of a courses-to-lecturers timetabling problem based on
+a case study. proposed system is successfully applied by experimental runs using
+course offerings and classroom data from past semesters.
+
+Kumaraswamy distribution has been a very studied tool in analysis and modeling
+of limited-range continuous random variables. Several variants of this distribution
+have been studied, but they do not have possibility of lifting tails of this distribution.
+However, in many situations, scenarios where data are bounded and tail-area
+events occur at one or both tails independently. In order to model these scenarios, we
+propose trapezoidal Kumaraswamy distribution. This paper is centered on trapezoidal
+Kumaraswamy distribution, which has two intuitive additional parameters with
+respect to Kumaraswamy distribution and generalizes this. We study its probability
+density function and derive some fundamental properties, such as moments, moment
+generating function, and characteristic function. Then, trapezoidal Kumaraswamy
+distribution is rewritten conveniently as a finite mixture showing that its parameters can
+be easily estimated using expectation-maximization algorithm. We report results of
+a simulation and an application to a real data set. Comparison with several competing
+distributions indicates that trapezoidal Kumaraswamy distribution presents a better
+fit and so it can be quite useful in empirical applications.
+
+Lifetime percentile is an important indicator of product reliability. Recently, numerous
+quality control charts have been built for quantiles of diferent distributions. Because
+of positive support and flexibility, Pareto distribution is one of useful distributions 
+to model lifetime.But statistical quality control for Pareto percentiles
+has not been considered. current work aims to establish quality control charts for
+Pareto distribution percentiles.least squared error, maximum likelihood and a
+modified moment method estimators are proposed for monitoring Pareto distribution 
+percentiles.However, sampling distributions of percentile estimators are neither
+known nor bellshape. As a result,well-known Shewhart-type control chart may not
+be appropriately applied to monitor Pareto distribution percentiles. bootstrap
+procedure and normality approximations are proposed to establish control charts. An
+intensive Monte Carlo simulation study is conducted to compare performance among
+proposed bootstrap and Shewhart-type control charts. simulation study shows
+that bootstrap control chart based on maximumlikelihood estimator outperforms 
+rest control charts considered. Finally, a numerical example is utilized to
+illustrate application of bootstrap control chart based on maximum likelihood
+estimator.
+
+Exact tables for case without ties of Friedman statistic test proposed have been
+available since its inception. A modified statistic suitable for case with ties has been
+derived 30 years later, and it appears in a text book nearly after 40 years. However, exact
+tables for case of ties were never oered. Here we present for first time a reduced
+set of exact tables for such a case, thus filling a gap. If a problem allows ties, proper
+exact tables should be used thus disregarding other workarounds commonly suggested
+in literature. availability of exact tables for case of ties is relevant for applied
+research because an hypothesis test decision when ties occur may be dierent if tables
+for case without ties are used instead. We illustrate eect of using correct
+tables with both an example and a real data case study in context of geoportals
+navigation analysis.
+
+control charts are main tools used for monitoring quality characteristic. Usually
+monitored characteristic is process mean and most used control charts for
+such monitoring are Shewhart X, CUSUM and EWMA, which are based on two assumptions: independence between monitored samples and that monitored variable
+follows a normal distribution. However, deviations from any of these assumptions imply
+poor control chart performance. Considering this, present work proposes a control
+chart to monitoring mean, based on bootstrap method, for data that follows
+a distribution that belongs to symmetric class of distributions. Simulation studies
+are performed for proposed method, in order to evaluate in-control and 
+out-of-control average run length, to evaluate behavior of control limits and to
+compare proposed method with traditional Shewhart X. simulation study
+indicates that proposed approach presents better in-control average run length than
+usual Shewhart X. Regarding power of detection, proposed method presents
+good performance, being comparable to Shewhart X, but with advantage of a better
+in-control average run length. Practical use of proposed approach is illustrated with
+a real example of pH of red wines.
+
+In this paper, we propose a flexible cure rate model including a frailty term, which
+was obtained by incorporating a random eect in risk function of latent competing
+causes. number of competing causes of event of interest follows a negative binomial distribution, and frailty variable follows a power variance function distribution,
+which includes other frailty models such as gamma, positive stable, and inverse Gaussian
+frailty models as special cases. proposed model takes into account presence of
+covariates and right-censored data, which are suitable for populations with a long-term
+survivors. Besides, it allows quantification of degree of unobserved heterogeneity
+induced by unobservable risk factors, which is important to explain lifetime. Once
+posterior density function is not expressed in closed form, Markov chain Monte
+Carlo algorithms are performed for estimation procedure. Simulation studies were
+considered in order to evaluate proposed model performance, and its practical relevance was illustrated in a real medical dataset from a population-based study of incident
+cases of melanoma diagnosed in state of São Paulo, Brazil.
+
+Synthetic aperture radar is an efficient remote sensing tool by producing high spacial resolution images. But, synthetic aperture radar data suer speckle noise eect
+that dicult their processing (for example, making boundary detection). We propose
+and assess edge detectors for synthetic aperture radar imagery based on stochastic distances between models.These edge detectors stem from generalized divergences with
+good asymptotic properties. Results reveal that divergence-based detectors can outperform likelihood-based counterpart.
+
+detailed study of logit, probit and cloglog link functions is presented for 
+generalized linear model with binomial response in presence of problem of
+explanatory factors levels aggregation. Expressions are deduced for estimators of 
+parameters and their variances, in general terms, which allows for finding particular
+results for any link function chosen. impact of link function on estimates is
+illustrated, concluding that use of appropriate variance in levels aggregation
+is preferable, regardless of link function to be used.
+
+We consider a robust Bayesian approach to analysis of item response models, using
+inverse of an asymmetric exponential power cumulative distribution function as a
+link function. This provides greater flexibility with respect to classic link functions such
+as probit and logit. We conduct a simulation study to evaluate performance of
+our model. In order to draw samples from posterior distribution of parameters,
+we implement a Markov chain Monte Carlo scheme by means of JAGS software.
+We also implement a posterior predictive model-checking method to assess fit and
+relative performance of various submodels. Finally, we provide a real-data example
+to illustrate modeling approach proposed.
