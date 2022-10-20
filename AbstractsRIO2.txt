@@ -1,0 +1,978 @@
+Inoptimization of mathematical model for cancer chemotherapies,controls are given by
+drug-dosages andobjective minimizes some compromise between tumor kill and side effects.
+In simple model,dosage, concentration and effect ofdrugs are identified. Here we discuss
+role of pharmacometric model which describelinks between quantities.choice of
+mathematical representation ofobjective also has an effect onsolutions ofproblem.
+Both of aspects will be discussed.
+
+ paper deals withchoice of dynamics in spatial simulation and modelling. In economical
+context, N agents choose between two technological standards according to a local assignment rule.
+adoption dynamics is sequential ifchoices are made one afterother; it is synchronous
+or partially synchronous if all or some part ofagents choose simultanously.paper points
+out differences betweenthree dynamics, especially in evolution.
+
+Inpaper, we have envisaged an efficient generalized family of estimators for finite population
+mean ofstudy variable in simple random sampling (SRS) utilizing information on an supple-
+mentary variable. Asymptotic properties such as bias and mean square error (MSE) ofproposed
+generalized family of estimators have been determined. Further, we have shown thatproposed
+family of estimators is more efficient than reviewed estimators in literature. Insupport of 
+theoretical proposed work we have given numerical illustration.
+
+ paper providesoptimum cost-time trade-off pairs tomanager of a trading firm, D. M.
+Chemicals, who deals intrade of soap stone.problem ofmanager is to determine 
+quantity (in tons) of soap stone thatfirm should purchase from different sellers and sell to 
+different buyers such thatratio of actual cartage to standard cartage plus ratio of purchasing cost
+to profit is minimized provideddemand and supply conditions are satisfied keepingreserve
+stocks for emergency situations. Moreover,manager wishes to minimizemaximum time of
+transporting goods.problem under consideration is modeled as a fractional plus linear fractional
+capacitated transportation problem with restricted 
+ow.data is taken fromaccount keeping
+books offirm.solution so  by developed algorithm is compared with 
+existing data. Moreover,solution  is verified by a computing software Excel Solver.
+
+In information theory, Kullback-Leibler divergence measure is a commonly used difference measure
+that is used for computingdistance between two probability distributions. Inpaper, we
+apply Kullback-Leibler divergence measure between actual and approximate distribution to drive a
+loss function. We apply derived loss function on Exponential distribution to findBayes
+estimate ofparameter , and compare it withBayes estimate   square error loss
+function. Our comparisons between two estimates are based on complete, type II censoring
+and type I censoring data.
+
+Inpaper we present a new family of efficient iterative methods, in order to approximate 
+simple roots of various nonlinear equations. By some numerical examples we testaccuracy of
+our methods making a comparative study with other well known iterative methods.
+
+According toWorld Health Organization (WHO): every year, approximately 37 million people inworld suffer a
+cardiovascular event and approximately 46% of those people die from causes. It is known thatoccurrence of a
+cardiovascular event results frominteraction of different risk factors in which we include hypertension, high levels of
+blood lipids, diabetes, obesity and smoking.diagnosis of cardiovascular risk be made frompresence of any of
+these risk factors; moreover, are pocket calculators that allow estimating cardiovascular risk from a model proposed by
+Framingham, which is essentially a generalized linear model. Inpresent work, in addition to Framingham model,
+other classification model are used such as Decision Trees, logistic regression and Random Forest.objective is to choose
+best classification model based on goodness criteria such ascorrect classifications rate, relative efficiency and
+deviance.
+
+Extreme Value Theory is a discipline that develops modern techniques to describeleast common events, which in itself
+makes it a “unique” discipline.goal oftheory is to analyze observed extreme values and to estimate values for different
+return periods.discipline is of high importance forNational Meteorological Institute and especially toClime Center
+due tocharacterization ofextreme climatological variables,isreason fordevelopment of a software to
+provide services obtaining relevant information as well as an economical gain.knowledge ofprincipal climatic
+variables associated with extreme events, as well ashistorical data in series with a observational time period ofhighest
+temporal longitude is also important, for example in construction. Inline of work is required a specific safety margin to
+elaborate measures to prevent social and economic affectations as well as to maintainsafety ofpopulation. SEVECLIM
+was developed withpurpose to facilitatework and to reduce calculation errors.software allows a user to introduce
+extreme variables data.goal is to characterize through different probability distributionsdifferent extreme
+climatological variables to obtainmodel that best fitdata, to estimatereturn periods of 1%, 2 %, 5 % y 10 %, as well
+asmain statistics. It is showproposed work methodology to a better understanding insoftware utilization. With 
+model that best fitdata, it is possible to be closer to reality thus providing a better knowledge ofregime ofstudied
+variable; it will also allow us to offer services to other institutions to obtain economic gains.
+
+ paper presents an adaptation ofReinforcement Learning approach known as Q-Learning to solve a scheduling problem
+that comes from industry.problem studied inpaper is known asHybrid-Flexible Flow Shop Scheduling where a
+variety of constraints are taken into account. include precedence constraints, sequence dependent setup times (which 
+be anticipatory and non-anticipatory) along with machine lags, machine eligibility and release times.problem mixes 
+features of regular Flow Shop and parallel machine problems by considering stages with several unrelated parallel machines,
+where stage skipping might occur, i.e., not all stages must be visited by alljobs.version has been proved strongly NPhard
+andobjective is to determine a schedule that minimizesmaximum completion time (makespan or 𝐶!"#). 
+effectiveness ofproposed algorithm is empirically evaluated through several standard benchmarks problems and 
+solutions are compared against other high performing existing algorithm.results shown thatproposed algorithm is very
+
+Nowadays we deal with Big-Data commonly.users of statistics rely on having a large sample size n for statistical
+methods based on normality. Usual inference methods are typically based on consideringNormal aslimit distributions of
+sample mean for a large n. With large enough sample sizes (> 30 or 40),violation ofnormality assumption should not
+cause major problems.fact implies that we use parametric procedures even whendata are not normally distributed.
+Al least a goodness-of-fit test must be performed for accepting whether normality is valid or not.
+Monte Carlo (MC) techniques are used for selecting independent random samples of populations of means of three variables of
+importance in web network management. Different tests are performed to establishacceptance ofnormality. We did not
+find reliable results even for samples of size 10 000.
+
+Background:syndrome of professional burnout, defined as such in70s, is a state of complete physical, emotional
+and mental fatigue, affecting three areas: emotional exhaustion, depersonalization and low personal fulfillment. Objective: to
+implement prevention strategies to reduceexhaustion caused by overwork innurses ofhealth home. Methods:
+A field, descriptive, correlational, and bibliographical study was carried out,components ofinvestigation being
+attitude and knowledge ofnursing staff ofBurnout Syndrome, survey and interview asmain
+instruments, withobjective of diagnosingcurrent situation and its relationship withvariables under study.
+Results: It was evidenced thatpresence ofsyndrome of professional burnout exists but in a minimum percentage, but
+it is possible to observe important percentages of tendency to suffersyndrome, that acting in time we prevent it.
+Conclusions: Withimplementation of preventive strategies for safe occupational health a significant change was achieved,
+both inconceptualization of what isBurnout Syndrome, as well as inawareness of occupational health.
+
+interrelationship between Artificial Intelligence and Law aims to analyze, to structure orderly and logically, to deduce and
+interpretlegal dogmatic throughuse ofNew Technologies of Information and Communication (NICT), or a successful
+treatment, management, recovery, access and control, whose achievements are predetermined to support legal decision-making. That
+is whyobjective ofarticle is to analyzetaxed todecision-making process of legal operators  Expert Systems and
+neutrosophics evaluations.
+
+Infield of service management plays a decisive rolelocation offacilities to improvequality of services. 
+maximal covering location problem allows locating a known number of facilities in order to maximizedemand covered.
+An important aspect to take into account isvarying of demand ofnodes with respect totime (multi-period model).
+In addition, each facility could be of different types. A model that takes into accountexistence of different types of
+facilities in order to coverdemand in multi-period environments has not been found inliterature. Inpaper we
+propose a new generalization ofdynamic maximal covering location problem where different types of facilities (with
+different radius of coverage) could be open in each location. Inwork we usedmodel on case study withobjective
+to locatepolice patrol.
+
+Instudy we analyzeperformance of three free and open source optimization solvers: lpSolve,
+GLPK and Cbc. We use 4 datasets with instances corresponding to 4 configurations of a container
+yard located in Villa Clara, Cuba. It is analyzed ifStorage Space Allocation Problem for import
+containers in be solved, in a acceptable computational time foroperations of a real container
+yard,  an exact optimization method. We base our evaluation on three metrics achieving an
+optimal solution on import containers: Computational time, number of iterations, and number of
+nodes. Moreover, we present a feasibility study onimpact ofexact method inoperations
+of container yard in Villa Clara.
+
+Inpaper, we introduce a new continuous distribution called asexponentiated new Weibull-Pareto (ENWP) distribution.
+Several properties ofENWP distribution are derived such as Rényi entropy, reliability and hazard rate functions, and 
+moments.maximum likelihood estimators ofunknown parameters are derived.shape ofdistribution is
+illustrated and some simulations are computed for different values ofdistribution parameters.
+
+Inwork we develop statistical inference procedures, based on bootstrap and permutation tests, forEuropean Customer Satisfaction Index (ECSI).main objective is to fill an existent gap, tobest of our knowledge, in statistical methods for confidence interval estimation of one ECSI, for hypothesis testing comparing two or more ECSIs, and for ranking a set of ECSIs.procedures proposed is applied to a study of higher education students’ satisfaction conducted in Veracruz University (México).results indicate thatprocedures of statistical inference are feasible and straightforward to implement with R.
+
+Adolescence as one ofmost important stages in human life, is characterized by an accelerated rhythm of growth and risks[1].
+In Mexico, are a vulnerable population with high rates of overweight, obesity, physical hypoactivity[2] and high
+consumption of harmful substances[3]. Several studies have indicated thatsupport network has a significant impact on health,
+considering social support as mitigatingeffect of social stressors, where absence act as a stressor [6].
+majority of youth-related research insocial sciences has a deep qualitative analysis, where techniques fromBig Data
+have been short used.research aims to analyzerelationships between social support, lifestyles and perception, through a
+segmentation tree based onTAID[10], an algorithm with great advantages over CHAID[11] but which has been very little
+applied in practice.
+Amongresults were nine profiles, to create strategies wheremost important variables to consider should be 
+functionality offamily, consumption of harmful substances, satisfaction with life and withfigure.
+
+In survey sampling a very dominating problem is to obtainbetter ratio estimators ofpopulation mean and population
+variance. A very striking question, in every researcher’s mind, is that if are outliers indata how to estimate 
+population mean and variance, as outliers misleadresults. So keepingabove problem under consideration, we propose
+some new modified ratio estimators  robust regression, which are robust againstoutliers and give accurate results even
+inpresence ofoutliers; alsoproperties are studied. It has been shown thatproposed class of estimators is more
+efficient thanexisting classes of estimators. An empirical study has been carried out to examinemerits ofproposed
+class of estimators over others.
+
+analysis is based on previous research and found advances in"determination of factors that coverexpectations of a
+student to support knowledge throughuse of technological tools so that be competent infield of work."
+analysis we use ismixed approach (qualitative and quantitative), working with technological applications, presenting 
+scope of virtual learning environments (EVEA) in University Center UAEM Valle de México, analyzingcontexts in a
+descriptive way. Inf elements that allow to visualize fields of action onfuture ofoptions of EVEA in Mexico or
+promotelearning of people who for different reasons (time, cost and closeness among others), who do not have access to a
+professional preparation, as well aslearning of support to face-to-face.
+ project also allows to integrate, register and monitor indicators of technological applications that allow a professional
+preparation at a distance and to be competent inlabor field to carry outproject. Three phases are proposed: 1) Scheme of
+labor competency of a student in a program in EaD; 2) Interactive platform. and 3) Integrate, register and monitor indicators of
+robot technology applications.
+Up tomoment, phases 2 and 3 have been implemented, in whichrevisions ofdidactic materials ofsubject of
+digital systems have been carried out. Considering,structural part of a good curriculum online education virtual
+learning teaching environments, whether for professional training or as support tools, is to offer an application ofin order to
+generate instudentscompetences that allow to be successful inlabor field.
+
+present investigation was oriented toeconomic-financial analysis to determineviability ofproduction and
+commercialization of fruits native toAmazon in syrup incity of Puyo. To basework,operation ofplant where
+place of production was established was analyzed; being a comfortable, cozy place with a storage room forraw material
+andelaborated product. In addition, an economic analysis was conducted where reliable accounting data was  to
+determineeconomic feasibility ofinvestment; Also,income and expenses ofproduction of fruits in syrup
+projected to five years were determined. Incash flow,operational movements were made known daily and finally 
+financial statements were projected. Onceaccounting and budgetary data was ,financial analysis was carried
+out, whereeconomic feasibility ofinvestment was  taking into accountvalue ofmoney over time. For
+,net present value was 23,186.73 and an internal rate was calculated. of return of 27%.showed thatinvestment
+is acceptable, andcapital recovery will be within three years and eight months approximately. Afteranalysis, it was
+concluded thatresearch project has economic feasibility forimplementation ofbusiness, which would imply being 
+pioneers inlaunch ofproduct indomestic market. Neutrosophic numbers was used to represent indeterminacy.
+
+In recent years, in Mexico and inworld, surveys on victimization and perception of violence (ENVIPE, 2016) have
+become very important.information is collected through a national sample collected byInstituto Nacional de
+Geografía Estadística e Informática (INEGI, 2017), withpurpose of providing governments, andauthorities
+responsible for functions related to security and justice, information relevant on different aspects ofphenomenon, with 
+objective that decision making is made based on objective information. Unfortunately, most of studies remain at 
+descriptive level and leave asidemultiple relationships that occur between variables or sets of variables, whose
+understanding would give greater clarity aboutphenomenon, by identifying factors, similarities or dissimilarities,
+dependency relationships or association, adjust model and make forecasts for intervention purposes. In order to identify some
+of multiple relationships, a set of supervised methods of data mining, such as classification trees, regression trees and
+rule-based methods, are applied toENVIPE 2016 database (INEGI, 2016); in addition to some unsupervised methods such
+as Clustering.procedures are executed insoftware called WEKA,model are adjusted  a training set,
+statistically significant attributes are identified andmodel are adjusted.selection ofmodel is done based on 
+criteria of goodness defined for and later predictions are made incases in which it applies.variables associated
+with victimization and perceptions of violence are identified, according toassociation criterion, and predictions are made,
+inprobabilistic sense, about phenomena.
+
+In present, entrepreneurship is a good alternative to face unemployment and to try to achieve economic stability. However
+there are inherent factors to each type of activity and its environment, which influencedevelopment of. That is why it
+is very important to identifyfactors that influencesuccess of activities. Methodologically a descriptive study was
+carried out underqualitative –quantitative modality, throughanalysis of data found inliterature,criterion of
+entrepreneurs, he application of surveys, and neutrosophic AHP, which have allowed to establish a set of factors that influence
+development toartisan enterprises of San Antonio de Ibarra.
+
+manufacturing industry representsmost important economic sector in Mexico, with an average contribution of 17% of
+national GDP and a significant generation of formal employment. Duringlast years has been a negative trend of 
+growth of labor productivity insector, which reflects obsolescence inproductive apparatus, so it is necessary to
+implement innovation processes as a fundamental element to face diminishing returns.purpose ofresearch is to
+establishrelationship between innovation and labor productivity in Mexico's manufacturing industry. As a hypothesis, 
+existence of a positive correlation between innovation and labor productivity is considered.existence of a relative but not
+determinant influence ofinnovation inlabor productivity of Mexican manufacturing industry was found, since 
+gross formation of fixed capital contributes more to it, and thatdecreasing tendency of its levels of labor productivity is a
+reflection of structural failures and obsolescence inproductive apparatus, so that innovation represents a change in 
+technological trajectory for Mexican manufacturing activities, providing higher levels of labor productivity and competitiveness.
+
+In order to improvequality ofinclusive education, a theoretical revision is made ondevelopment of
+pedagogical and didactic competences that teachers must have beforeeducational attention of school children
+with special educational needs. Afterwards, a study is presented, counting onconjoint participation of both
+officials members ofZone 5 ofMinistry of Education of Ecuador and researchers of Basic Education of 
+State University of Milagro, withaim to identifycurrent state ofpreparation ofteachers and
+implications, conformed in current moment, normative, strategic and tactical operational, by means of a mixed
+investigation based on a descriptive statistic. We employopinion non-probabilistic sampling method.
+
+A trend of offering discounts on selling price is very casual nowadays. It is consider as promotional tools to boostdemand.
+Retailer dealing with non-instantaneous deteriorating items offers different price discounts to his customers, before and after
+deterioration starts. Inarticle, a policy is presented for non-instantaneous deteriorating items with price sensitive ramp type
+demand pattern. Pre deterioration discount is considered to be smaller thanpost deterioration discount as per trend.
+Mathematical formulation is supported with a numerical examples and sensitivity with respect to different parameters is
+discussed.
+
+Inpaper, a general method of estimation has been proposed to estimatecombined effect of measurement error and
+non-response inestimation of population mean  auxiliary information in simple random sampling.expressions of
+mean square errors ofproposed estimators have been derived under large sampling approximation. Mean squared errors of
+proposed class of estimators have been compared withexisting corresponding estimators based onmeasurement
+error and non-response, and are found to be more efficient. It is also shown thatestimators envisaged by others are a
+particular member ofproposed class of estimators. Inend, a simulation study has been carried out to verify 
+superiority ofproposed estimators. Both theoretical and empirical findings are encouraging and supportsoundness of
+present study.
+
+banana cultivation is especially important foreconomy of Ecuador. Black Sigatoka in bananas is a disease caused by a
+fungus, which attacksfoliate system. When Black Sigatoka is not adequately controlled,plants could suffer serious
+damages forselves and growth. To analyzecost necessary to Black Sigatoka control, we gathered information
+aboutbanana production andnumber of times that fungicides were applied. Inpresent paper we studyefficiency
+ofbanana production, once were fumigated after an infection byfungus. Here it is considered that more efficient is
+banana production, when bigger isfruit production, smaller isquantity of resources used and smaller areunwanted
+consequences. To calculate such efficiency and shadow prices we applied a mathematical method designed by R. Färe and based
+on a distance and Linear Programming.
+
+present work had some challenges such as to design and construct an electronic system for monitoringvalues of
+a select group of physical variables in a prototype of a green panel,selected variables were temperature, relative
+humidity, soil humidity, mechanic and telluric vibrations and quantity of light, study behaviors of variables
+mentioned before. To getsystem ready for data acquisition and savingdata, it became necessaryconstruction of
+an electronically arrangement that understands; Open Source code, diverse types of electronic sensors and a free hardware
+device named “Arduino Uno board”.prototype of a green panel in which we installedelectronic system with sensors
+that recordedchanges in an automatic way, were sent to a computer connected tosystem with an USB wire
+for capturing data in Microsoft Excel, with an interval defined by Open Source Code, constructing a database, after 44 days
+of monitoring, for processingdata we occupiedsoftware “R studio” of Open Source for continuingstudy with a
+statistical analysis givingcentral tendency measures, graphs, histograms, density curves and provingcorrelation
+between variables with correlation coefficient (R)  by “Pearson” methodology.study of time series and for
+developing linear and non-linear equations were done withleast squares’ methodology and GARCH method, running a
+simple regression, that included: logarithmic terms, quadratic terms, first differences, “dummies” and constants, incase
+statistical suites of choice were primarily E views, secondarily Minitab, SPSS, SAS and STATA. Atend of 
+regression,results were in favor forimplementation of green panels in buildings, because bring several
+benefits toenvironment.conclusion was thatexperiment generated atmospheric conditions that reduced in 8 °C
+of atmospheric temperature andrelative humidity in air is augmented in 15% and reduces carbon dioxide and carbon
+monoxide anddiminution of“Urban Heat Island” effect in weather for a determined green area.
+
+A Multi-Level Programming Problem (MLPP) is a hierarchical optimization problem whereconstraint region of 
+first level is implicitly determined byother optimization problems. Inpaper, an integer multi-level programming
+problem is considered. At each level, are multiple objective functions which are linear fractional andfeasible
+region is assumed to be a convex polyhedron. Here,variables are bounded. An algorithm is developed for ranking and
+scanningset of feasible solutions. ranked solutions are used to findefficient solution of Multi- Level Linear
+Fractional Programming Problem (MLLFPP). An example is illustrated and solved  LINGO 17.
+
+Inpaper a mathematical investigation has been made oneffect of misclassification due to measurement error on
+power ofcontrol chart for zero truncated binomial distribution (ZTBD):.Analytical formulas are  for
+calculating probabilities of errors of misclassification due to measurement error.connection between apparent
+fraction defective (AFD) and true fraction defective (TFD) has been used to studypower of control chart.
+Expressions of average run length (ARL) and OC curve are also .
+
+ paper is a production integrated inventory model between manufacturer and retailer with quadratic demand and time
+dependent deterioration. Paper also considers effect of inflation on total cost. Manufacturer offers lot size dependent ordering
+cost to boost higher orders as well as it decreases manufacturer’s inventory holding cost significantly. Total cost of model is
+  both classical optimization technique and genetic algorithm. Results clearly show that GA has succeeded in
+obtaining global minimum whereas classical method has stuck with local minimum. For  classical optimization technique
+we have used Maple 18 whereas for genetic algorithm we have used MATLAB R2013a.optimal solution ofmodel is
+illustrated  numerical example. Sensitivity for inflation and other parameters of demand has been carried out to analyse
+their effect on total cost.paper will encourage researchers involve in inventory and supply chain management to optimize
+complex problems  different evolutionary search algorithm in order to reach to global optimum.
+
+ paper is devoted toanalysis ofestimation ofproportion of a sensitive variable.use of a randomized
+response (rr) procedure gives confidence tointerviewed that his privacy is protected. We consider that a simple random
+sampling with replacement design is used for selecting a sample.behavior ofrr procedure, when ranked set sampling is
+design used, is developed under three different ranking criteria.usual gain in accuracy associated withuse of ranked
+set sampling is exhibited only by one ofdesigns.behavior ofmodel is illustrated  data provided by a study of
+samples of persons infected with AIDS.
+
+Multihead weighing processes are considered an important strategy in packaging companies. Multihead weighers are used for
+dosing a wide range of products, from granules to large products.packaging process consists of choosing a subset of
+hoppers inmultihead weigher to form a product package.paper proposes a set of filling strategies of hoppers to
+reducevariability inweight ofproduced packages.strategies are evaluated through a bi-objective optimization
+approach which aims to minimizeabsolute difference betweentarget weight andactual weight ofpackages,
+while trying to maximizeselection of those hoppers with more time inpackaging system. Inbi-objective approach,
+considered objectives are dynamically adjusted and managed in each packaging operation. In addition,mathematical
+model andpacking algorithm are developed and presented.results ofprocess performance parameters are
+ and analyzed to showeffectiveness ofproposed strategies. Also, conditions of minimum variability are
+identified and those be used bypackaging industry where multihead weighers are used.
+
+Inpaper,problem of estimatingpopulation total of a sensitive quantitative variable has been considered. Odumade
+and Singh (2009) have given a RR model to estimatepopulation total of sensitive quantitative variable. We have given a
+modified RR model. It is noticed thatRR model envisaged by Odumade and Singh (2009) suffers with a difficulty that 
+optimum value ofconstant involved in RR model depends onvalue of unknown parameter ofstudy variable,
+which lacksutility of RR model. To overcome such a difficulty Odumade and Singh (2009) have also suggested another
+estimator ofpopulation total which depends on two RR model based on two independent random samples s1 and s2
+frompopulation  sampling design   p s1 and   p s2 respectively; and also on a relation betweentwo
+constants involved intwo RR model. We should add here that drawingtwo independent samples from a population
+constructing two RR model resultantly obtaining an estimator for a population total Y increasecost ofsurvey. Keeping
+ in view we have suggested a RR model and developed an estimator for population total based on a single sample. 
+proposed RR model is free fromdifficulty involved in Odumade and Singh (2009) model. We have shown theoretically that
+proposed randomized response model is more efficient than Bar-Lev et al (2004) and Odumade and Singh (2009) RR
+model.fact has also been supported through numerical illustration.
+
+Spatial autocorrelation (SA) techniques were applied to analyzedeaths caused by three types of cancer in Ecuador. One of
+aims of methods is to describescale over which spatial patterns of mortalities occur, which may provide
+suggestions concerningagents bringing aboutpatterns.analysis was carried out  data from23 provinces of
+country. Applying global spatial autocorrelation techniques as well as local ones (Global Moran’s I and Anselin’s local I
+statistics), it was found that in certain regions ofcountry is an unusual pattern ofgeographical distribution of cancer
+mortality indicating that a similar geographic structure could be associated with some risk factor.data used forstudy
+correspond to deaths due totypes of cancer studied foryears 2012 to 2015 and are available fromStatistics Institute
+of Ecuador.results should stimulate further research onpossible causes underlying clusters and associations.
+
+CUR decomposition is one ofmatrix decomposition techniques proposed inliterature forselection of rows and/or
+columns of a data matrix. Dynamic CUR is proposed as an alternative toselection criteria ofCUR decomposition based
+on probabilistic criteria.alternative tries to fitmost adequate theoretical probability distribution toempirical
+distribution ofleverages  fromstart and based on it, automatically determines not onlyindividuals and/or
+variables that need to be selected, but also numbers. Inway, Dynamic CUR sets itself apart from CUR in 
+information selection criteria, dynamizingcalculation ofapproximation error starting from an optimal initial selection of
+parameters based onmost adequate probability distribution. Lastly, withpurpose of facilitatinguse ofnew
+method in any practical context,Dynamic CUR algorithm has been developed in C#.NET and R languages.
+
+At present, international companies have a 3PL and 4PL logistics system, where thanks to systems have been able to
+positionselves very well inmarket. Logistics is a very important tool for organizations because throughdistribution
+ofsupply chain control,movements, times, preserves, storage and delivery ofproduct tocustomer. 
+reason for conductingchapter is to have an alternative logistic model fromshortest route through network optimization
+as support in organizations, to reduce costs and waiting time forproduct or service to its customers. Inanalysis you 
+find a synthesis ofhistorical development ofmain concepts of logistics, as well as similarities and main differences
+of3PL and 4PL systems, making a review ofproposal from points of view of a location to several destinations in 
+same state and looking forshortest route in a feasible and efficient way.
+To implant inorganizations ofstate with 1PL and 2PL logistic stratum. Where increase logistics level
+to 3PL or later to 4PL,  a shorter route model with Dijkstra's algorithm in supply chain.
+
+Purposes: 1) To establish a new methodology for evaluating efficacy and toxicity in chemotherapy (CTX) followingsame probabilistic
+principles that have been used inradiation oncology therapies (ROTs) intumor control/normal tissue complication probability
+(TCP/NTCP). In CTX,sickness control probability (SCP) and a NTCP1 (NTCP for CTX) function of a dose of reference are
+proposed; 2) To establish a new methodology of dosage in CTX  optimal values of proposed indices; 3) To provide SMp
+model forstochastic processes (SPs) involved intoCTX; and 4) To develop simple computer tools  TCP, NTCP, SCP and
+NTCP1.
+following results were : 1) Two Excel calculation sheets that determineTCP and NTCP forROT SMp
+model; and evaluating until three organs at risk, as well as indices for a real CTX treatment,SCP and NTCP1; and 2) SMp model for
+SPs involved in CTX.
+
+applications of a computer andway to program have evolved in a very fast way inworld and consequently in
+Ecuador, advances that impact ineducational field.teaching of algorithms is a basic subject of engineering careers in
+Systems and Software, requires students to develop logical reasoning, so thatinitial dropout inarea is high. Students
+think that programming a computer is a trial-and-error process in a programming language. To avoid , we must have
+specific elements and an appropriate methodology that motivatestudents to visualize in a concrete wayresults of 
+programs written by. A diagnosis is presented ondevelopment ofprogramming logic ofstudents 
+systems and software careers offace-to-face and blended modalities ofextension ofAutonomous Regional
+University ofAndes (UNIANDES) in Santo Domingo,learning habits ofstudents, teaching methods and techniques
+ofteacher. Toend, a survey was applied to all students of Systems and Software careers, teachers were interviewed, a
+pilot survey of students fromCatholic University in Santo Domingo and participatory observation. Obtaining results that
+demonstrateneed to improveteaching-learning strategy of algorithms to achieve a better development of programming
+logic, as a basis for a student of systems engineering and software.
+
+Inpaper, we assesefficiency of Brazilian airports, based on Data Envelopment Analysis (DEA). Although previous
+studies applied DEA to Brazilian airports, herein we consider DEA´s homogeneity assumption, according to which units are
+assumed to operate in similar environments. As airport environment differs significantly throughoutcountry, we limit our
+analysis to six central airports. Still, our results are valuable nationwide, because airports handle half of all flights
+departing from Brazil. As classic DEA is not recommended for small data sets, we use Multiple Criteria DEA, which has more
+discriminatory power. In our study, we found that only two airports inState of São Paulo are efficient, whereasother
+central airports are under-utilized, with an efficiency score of less than 50%. Results found instudy could serve as an
+important tool for public politics, as well as for private decisions inairport sector.
+
+Inpaper an inventory model for decaying goods with time and selling price induced quadratic demand is considered to
+determine optimal cycle time, optimal purchase quantity and minimum total cost ofinventory system.model is
+developed and solved analytically by considering four stage conditional deliveries associated with different credit periods and
+discounting. Numerical illustrations and sensitivity analysis are provided to deduce managerial insights. Findings suggest that
+inventory manager be more benefited by makingvalues of holding cost, selling price and cash discount relatively
+higher that will reducetotal cost ofinventory system.
+
+multicriteria methods are used inpresent article, for an analysis ofpedagogical scenarios inmathematics subject.
+study of pedagogical practices contributes to improvement. practices have tried to be permeated by theories and
+reforms that, supposedly, promotechange inway of acting of teachers, however,reality is not that.analysis of
+pedagogical scenarios insubject of mathematics is a problem faced by teachers, students and parents and in particular
+when students faceprocess of teaching and learning mathematics anddifficulties have in throughout his student life
+to apply mathematical knowledge insolution of situations of problems in his environment. Forreason,objective
+pursued inarticle is to analyzepedagogical scenarios inmathematics subject.
+
+Agriculture isdynamic axis ofproductive matrix ofEcuadorian economy. From studies ontransformation of 
+raw material indifferent productive processes inagricultural sector shortcomings have been detected, that lead to
+problems such assearch for ways to increaseadded value inproduction of tropical fruits to guaranteeproductive
+processes byproducers of Canton Quevedo.fore,aim ofresearch is to carry out a study to design a strategy for
+generation of added value inproduction of tropical fruits of Canton Quevedo.study was carried out based on surveys
+applied toproducers and partners of APROBANEC, and citizens of canton. A representative random sample was
+selected to applysurvey. Other statistical methods were also used, such ascontingency table.result ofstudy
+showed thatsituation is negative, thus measures are proposed to reversesituation.
+
+Every investment is accompanied by yields, which be measured by  appropriate tools forpurpose,best known
+being"Net Present Value" (NPV) and "Internal Rate of Return" (IRR).main reason for evaluatingprofitability
+of an investment, be it private or social, must be determined in advance if it will generate profits for investors atend of a
+certain predefined horizon of time. Both tools are reliable but inevent of a doubt,VAN will be chosen.paper aims
+to evaluateprofitability ofproduction of cocoa paste inprovince of Guayas, Canton Naranjito, parish "Roberto
+Astudillo" inRepublic of Ecuador, according toinitial investment introduced inproduction. are small
+companies, many of familiar and of cultural and social importance. To achieveobjective,NPV andIRR of
+these companies will be calculated andfuture financial behavior will be forecast.
+
+Since 2014,Spanish legislation on insurance establishesobligation to informinsured on life insurance operations’
+expected return hire. Consequently,paper develops a financial-actuarial methodology to calculate it by defining 
+probability distribution of a random variable that we call "current value ofproduct benefit" for a simple insurance operation
+wherepayment ofbenefit tobeneficiaries takes place only inevent thatinsured dies within a certain period.
+probability distribution ofoperation’s "annual interest rate" random variable allows us to obtain a risk index which
+measuresmaximum return suitable to be  and under what conditions it would be possible.paper will also
+analyze, both theoretically and practically,effects of consideringexpenses applied bycompany to obtain 
+commercial premium (management expenses) on both maximum return and expected return, as well aseffects of taxes on
+capital  by beneficiaries withoperation.
+
+Over time, organizations have adapted and considered necessary to establish a solid financial plan that contributes to 
+fulfillment of maximizing shareholder wealth and,fore, focuses on improvingfinancial health of an entity. After
+carrying outcorresponding diagnosis inpresent investigation, it was determinedrequirement to establish a working
+capital budget forcompany Transcomerinter Cía. Ltda., That improveslevels of liquidity andfore contributes to its
+growth and development.paper aims to study and evaluatestate ofworking capital forcompany
+Transcomerinter Cía. Ltda. To achieve , a group of financial indicators is chosen and a joint result ofstate of working
+capital is reached withhelp ofCertainty Factor taken from MYCIN,well-known Expert System for medical
+diagnoses.allows proposing measures to reverseunfavorable situation.
+
+We introduceconcept of a social choice functional and provide two axiomatic characterizations ofutilitarian social
+choice functional. Subsequently we consider Harsanyi’s weighted utilitarianism and establish two more propositions concerning
+same. Whilefirst is an axiomatic characterization of Harsanyi’s weighted utilitarianism,second provides a sufficient
+condition for exact Harsanyi’s weighted utilitarianism.
+
+research was conducted duringperiod 2016 to 2018 inIbarra Canton of Ecuador.quantitative method implemented
+indevelopment ofresearch wasanalysis of simple and multiple linear regression withapplication ofSPSS
+software tool (version 19.0) withmain objective of analyzingtourism supply and demand to help generate practical
+recommendations fordecision makers. Withapplication ofquantitative method of analysis ofsimple and multiple
+linear regression it is shown that is a linear and positive relationship betweennumber of tourists, infrastructure and
+gastronomy.results  provide reliable information tostakeholders involved in decision-making regardingneed to
+adequately manageinfrastructure and gastronomy services of Canton Ibarra tourist offer.
+
+Small and Medium Enterprises (SMEs) are important sources of social and economic development inLatin American region.
+ paper aims: (1) To studystate ofprocess of industrialization of cocoa, produced and marketed by PyMES located in
+province of Los Ríos, Ecuador, (2) To testeffectiveness of some proposed strategies to overcomedeficiencies found
+inprocess. To achieve goals, statistical methods were applied to a group of ten SMEs inregion. It was concluded
+that exist deficiencies inprocess and thatproposed strategies are effective.
+
+ paper shows up a work developed incounty of Benguela, Republic of Angola. As case matter, it was considering 
+Statistical Applied discipline that it is imparting in ISCED of Benguela. To determinepresent state of empiric teachinglearning
+process (interviews, pedagogic tests) and statistical methods used.paper pretend to show how to carry out 
+quantitative study, applying statistical tools one variable and multivariate asAnalysis of Main Components for Categorical
+Data, which allowed to verifyindicators (variables) that more weight had invaluations emitted bystudents in 
+instruments.
+
+Poverty is a very serious problem and often faced bycountries inworld, especially developing
+countries.percentage of poor people in Indonesia reached 11.47 percent in 2013.seven provinces
+withhighest poverty in Indonesia are Papua, West Papua, East Nusa Tenggara, Maluku, Gorontalo,
+Bengkulu and Aceh.problem is modeled  mixed nonparametric regression of Kernel and Fourier
+Series.response variable ofmodel is percentage of poor people (y),predictor variables that follow
+Kernel regression curve are Mean of Years Schooling or MYS (v1) and Literacy Rate or LR (v2), whereas 
+predictor variable that followFourier Series regression curve are Unemployment Rate or UR (t1). 
+modeling produces R2 = 62.78%.
+
+ research is based onDerivative/Integration ofPower Spectrum forreduction of noise in a periodic signal. 
+performed procedure, joined to a convolution process, results indetection oforiginal values of amplitude, phase and
+frequency ofspectral components ofperiodic signal. Inpaper, second-order statistics foundations are presented and
+validation ofproposed algorithm is exposed in both theoretical and practical sense.
+
+Inpaper, we have taken under considerations two auxiliary variables used as stratification variables and single study
+variable. For obtainingoptimum strata boundaries, we have solvednon linear equations  dynamic programming that
+resulted in more efficient results rather than  on  single study variable and single auxiliary variable.proposed
+method is illustrated by  different distributions followed by stratification variables.
+
+phenomenon of learning and has been implemented in several distinct disciplines such as environmental protection
+techniques, manufacturing processes as well as business transactions. As a matter of fact, learning effect is a phenomenon which
+occurs almost every where and enablesemployees to perform new tasks with better performance after fluent repititons over a
+course of time.learning effect acts as a considerable function for cost reduction. It consists of perfect and imperfect quality
+item’s severance fromlot and instantly selling at different prices.paper is an adjunct ofcommendable work by
+Jaggi et al.(2013) which considers learning in holding costs and percentage of defective items, followslearning curve effects
+underfuzzy environment and in addition focuses on provingconcreteness offact, thatpercentage of defective
+items together withholding costs followlearning effect. In obedience witheconomic order quantity (EOQ) model,
+ordered lot has 100% perfect items, butis only suppositional. On contemplation and practical analysis, we have arrived
+to learn that some lots possess defective items because of process retrogression and other such factors. research paper
+refineseconomic order quantity model incontext that are defective items present in each ordered lot confirmed
+after initial inspection and shortages are allowed under trade credit financingin accordance withlearning effect. 
+defective items are separated fromconsidered lot through vigilant inspection and are sold again at a fixed decisive cost price.
+Conclusively, we de-fuzzifytotal profit functions triangular method, and for verification ofsame, numerical
+examples and sensitive analysis have been presented inpaper for a clear understanding.
+
+Ratio type estimators are extensively used in sampling theory in order to get precise estimates ofpopulation parameters by takingadvantage of positive (high) correlation between study and auxiliary variable than usual sample mean estimator. Instudy we encountered withproblem of presence of outliers indata and  of traditional methods usually decreasesefficiency in estimatingpopulation parameters as methods are sensitive to outliers. So inpresent study we adaptvarious robust regression techniques such as LTS, LMS, LAD, Huber M, Hampel M, Tukey M and Huber MM estimation toratio estimators which were suggested by Abid et al. (2016) by incorporated ancillary information  OLS method and also adapt Huber M-estimation to above estimators. Theoretically, we obtainmean square error (MSE) for estimators. We compared MSE values ofproposed estimators with MSE values based on Huber M which was proposed by Kadilar et al. (2007) and OLS methods. Fromcomparison we observe that our proposed estimators give more efficient results than both Huber M and OLS approach. theoretical results are supported withaid of a numerical example.
+
+Inpaper, it is presented a study to justifyuse of nonparametric regression for obtaining evidence oflinear model to be considered inapplication of logistic regression with a single independent variable. By a simulation study, three scenarios were considered, each showing different relationships betweenindependent variable andprobability , whendependent variable takesvalue 1, assuming a Bernoulli probability distribution.results , withapplication ofnonparametric regression, showedpossibility of selectingmost appropriate model. Finally, it is presented an application in a steatosis study.
+
+Inpaper,performance of an inventory model is explored with deteriorating items under imprecision environment where
+demand follows a three-parameter Weibull distribution. Deterioration and holding cost is considered as a linear function of
+time. Fuzziness has been allowed to deal with imprecision. Mathematical observations of both crisp and fuzzy model have been
+illustrated to determineoptimal cycle time and optimal inventory cost.demand distribution, deterioration rate and all
+costs of model are expressed as triangular, trapezoidal and pentagonal fuzzy numbers. Graded mean integration method is used
+for defuzzification. Numerical illustrations are provided to validateapplications ofmodel. Sensitivity analysis with useful
+graphs and tables are performed to analyzevariability inoptimal solution with respect to change in various system
+parameters.
+
+Assessment Center becomes an interesting method to measuredegree of development ofcompetences acquired bystudents of superior level, through a set of predefined situations.technique allows to find a better adaptation offuture graduates tolabor profile, from a competence perspective. Forreason,objective ofpaper is to analyze from a descriptive theoretical approach ofAssessment Center as a technique for evaluatingcompetencies of students in university training process.
+
+purpose ofsystem is to satisfyexpectations and requirements ofcustomers of computer assembly, which is a procedure that consists on correctly placing allparts of a computer in order such that everything works efficiently. it will be able to installoperating system and other programs according touser’s needs, thus a computer selection is based on information on compatibility and assembly of computers.information has been compiled from books, scientific papers, and based on research tools such as: surveys, interviews, forcollection of information.development ofsystem serves as a tool that infuture may bring some comfort to users with little knowledge of hardware to make purchases according toneeds and customer's economy, which is an important aspect in people's daily lives.Expert System of requirements and compatibility in assembly of computers realizes what an expert engineer in assembly of computers do, butsystem does it in a fast way and it is always available.
+
+fundamental axis foreconomy of countries aroundworld, is given byperseverance and development of activities that provide microenterprises, generating income and job, however, trends predominate despite having major problems with respect tocustomer satisfaction and competitiveness.purpose ofpaper is to studysatisfaction of passengers andcompetitiveness of intraprovincial transport operators. Forend, Key Performance Indicator (KPI) is used; it is a useful tool to measureperformance of a company that ensuresquality of service and customer satisfaction.Key Performance Indicator selected wasConditional Value at Risk (CVaR), which is a statistical indicator oflosses or profits of a company with respect to an investment portfolio, which indirectly measures competitiveness and customer satisfaction.results ofstudy were that exist loss incompany and necessary measures could be taken to improveperformance.
+
+ paper reviewsconcept of "relationship quality" as a theoretical category of marketing. Forpurpose,search ofconcept inScopus database is carried out, selecting 808 research papers, corresponding to three research areas: Business, Management and Accounting; Social Sciences and Econometric, Economic and Finance that incorporateconcept. Two important analysis were carried out  contemporary methods of bibliographic cartography through VOSviewer software: co-citation analysis of 122 journals and co-occurrence analysis of 12638 terms used in titles and abstracts of documents with textual mining methodology.results show a growing interest inconcept, through 7 clear lines of research, andneed for future research that relatesconcept to other complementary constructs.
+
+Proper management of projects has become an element of vital importance forsolution to problems of society. Incontext, are two main objectives to be solved:construction of project plans which may comply withconstraints ofproblem andoptimization in terms of cost and time of those plans. Toend, all activities of project must be organized in such way thatconstraints related toprecedence among andavailability of renewable and non-renewable resources at each instant of time are met.aim ofpaper is to present an Estimation of Distribution Algorithm (EDA), which incorporateshandling ofconstraints inprobabilistic model, forconstruction of optimal or quasi-optimal project plans. Forvalidation ofalgorithm, authors used bothPSPLib database repository fordevelopment ofscheduling research anddatabases of projects ofRepository for Research in Project Management, University of Infomatic Sciences.
+
+paper advocatesproblem of estimating population mean oncurrent (second) occasion  auxiliary information in successive sampling over two-occasions. A class of estimators based on transformed auxiliary variable is derived.bias and mean square error ofproposed estimator have been .suggested estimator has been compared with simple mean estimator when is no matching andoptimum estimator, which is a combination ofmeans ofmatched and un-matched portion ofsample atsecond occasion. Optimum replacement policy andefficiency ofsuggested estimator have been discussed. Numerical Illustration is given in support ofpresent study.
+
+present research mainly aims to studytourist potential ofcommunity Palacio Real, in Santiago de Calpi, Ecuador. Forend a poll was applied for both,inhabitants ofarea andtourists that visitplace.data resulting fromsurvey were used to applySWOT methodology, which consists instudy ofStrengths, Weaknesses, Opportunities, and Threats that we found intourist sector.is a very popular methodology to propose strategies that improvesituation ofcompany oreconomic sector. studies will guaranteetourist development ofcommunity in an efficient and effective way.
+
+Max-Mixture (MM) processes are defined as Z = maxfaX; (1  a)Y g with X an asymptotic depen-
+dent (AD) process, Y an asymptotic independent (AI) process and a 2 [0; 1]. So that,mixture
+parameter a controlslevel ofAD part present inMM process Z. Here we focus on two
+statistical tests formixing parameter a which are based on censored pairwise likelihood estimates.
+We compare performance through an extensive simulation study. Monte Carlo simulation are
+a fundamental tool for asymptotic variance calculations. We apply our tests to daily precipitations
+fromEast of Australia. Limitations and possible developments ofapproach are discussed.
+
+ paper providesoptimum cost-time trade-off pairs tomanager of a trading firm, D. M.
+Chemicals, who deals intrade of soap stone.problem ofmanager is to determine 
+quantity (in tons) of soap stone thatfirm should purchase from different sellers and sell to 
+different buyers such thatratio of actual cartage to standard cartage plus ratio of purchasing cost
+to profit is minimized provideddemand and supply conditions are satisfied keepingreserve
+stocks for emergency situations. Moreover,manager wishes to minimizemaximum time of
+transporting goods.problem under consideration is modeled as a fractional plus linear fractional
+capacitated transportation problem with restricted 
+ow.data is taken fromaccount keeping
+books offirm.solution so  by developed algorithm is compared with 
+existing data. Moreover,solution  is verified by a computing software Excel Solver.
+
+Inpaperexistence of a periodic solution tostochastic equation of prey-predator model
+underconditions giving possibility to a period of passive life is proved (as hibernation). 
+proof is based onparticular construction of a Khas'minskii function.
+
+Inpaper,cubic spline collocation method is implemented to findnumerical solution ofnonlinear
+partial differential equations PDEs of a plug flow reactor model.method is proposed in order to be used
+foroperation of numerical simulations. We usehorizontal method of lines to discretizetemporal
+variable andspatial variable by means of a Crank-Nicolson, and a cubic spline collocation method on meshes,
+respectively.method is shown to be unconditionally stable and second order accurate with respect to both 
+variables. Numerical results are presented and compared with other collocation methods given inliterature.
+
+Scheduling food services in health centres is a complex issue involving several factors. Inwork
+we present an integer programming model for planning a weekly menu of meals for a hospital in
+Argentina. Lunches and dinners must be planned, and each meal involves a starter, a main course,
+a side dish, and a dessert.goal is to propose a weekly menu that minimizestotal cost
+while fulfilling requirements of healthy food habits, variety, and local gastronomy. Our results show
+improvements in costs between 21% and 25% compared to existing manually-designed plans.
+
+Inarticle, we have suggested general class of estimators offinite population mean  an
+auxiliary variable that is correlated withvariable of interest  ranked set sampling (RSS)
+method. We also biases and mean squared errors (MSEs) of various suggested estima-
+tors. We have compared newly suggested generalised ratio-cum-product type estimators to others
+existing estimators and shows that our suggested estimators are better than other existing estima-
+tors.paper also providescorrect expressions of MSE ofestimators due to Mehta and
+Mandowara (2012, 2016) and Mandowara and Mehta (2013).
+
+In order to propose a statistical methodology that allows to model asymmetric data Levy
+distribution, a simulation study is presented under nine different scenarios to evaluateestimation
+ofparameters ofdistribution intwo approaches of statistics (Classical and Bayesian).
+probability distributions Log-Normal, Levy and Levy Standard were considered to model 
+behavior of two real data sets with positive asymmetry, finding thatLevy distribution fitted well
+toproposed data set,foreLevy distribution be considered as a candidate to adjust
+asymmetric data withpresence of extreme values.
+
+ paper presents application results of soft computing techniques in project´s evaluation.authors analyze different project
+management´s guides regarding decision making techniques inside its. Inpaperauthors combine traditional techniques for
+project´s evaluation with soft computing techniques.authors propose an algorithm that combinefollowing techniques: traditional
+indicators from project management guides, fuzzy inference systems, machine learning algorithms and linguistic data summarization
+methods. In section number 3,paper presentscomparisons of algorithms Anfis, Hyfis, FS.HGD, based on neural networks with
+algorithms GFS LS RS, GFS THRIFT based on evolutionary algorithms. In experiments, we applied cross validation techniques
+combined with Friendman test and Wilcoxon test Afterwards,authors present an algorithm that build linguistic summaries to detect
+causes of project management failures. Finally, we present a comparison ofresults andconclusions.
+
+stress-strain state of an ideally elastic hollow ball underaction of arbitrary time-dependent loads is investigated  the
+defining relations ofmechanics of continuous media. Approximate analytical solutions are  fordisplacement
+field inelastic region.dependences of elastic displacements on time and type of load are constructed.
+
+Inmanuscript, we have proposed improved estimators for estimatingfinite population mean under stratified random sampling in three different situations: At first we consideredproperties ofestimators under non-response, innext case we studiedestimators for measurement error and inlast case we examinedestimators inpresence of both measurement error and non-response simultaneously. Expressions for mean squared errors are  for suggested estimators. Empirical study has been carried out to verifyresults for which we have considered two real datasets.
+
+Inpaper, a transmuted new Weibull Pareto distribution (NWPD) is suggested as a generalization ofnew Weibull Pareto
+distribution. Some mathematical properties oftransmuted NWP distribution are derived, namely;moments, failure rate
+and mean residual life functions, order statistics. Also,maximum likelihood estimators fortransmuted NWP distribution
+parameters are provided and its Renyi entropy is proved.
+
+Higher education plays a crucial role ingrowth and nation development in social, economic, cultural, scientific and political respects. Education empowers people to transform from a human being to having human resources. In present context of globalization, quality higher education is needed to uplift creativity, talent, adaptability and research mindset. In order to fully utilizeoutcomes of education, it is important to ensure that education is meetingminimal prescribed standards to fulfill ever-changing requirements worldwide. Accreditation, a powerful tool of quality assurance, is used to assessnational system of higher education. Accreditation is considered as a quality stamp, which ensures that an accredited institution/programme has undergone a rigorous process of external peer evaluation based on predefined standards/principles and complies withminimum requirements.paper focuses onoutcomes of accreditation to enhance excellence in higher education institutions (HEIs) based on a literature review and empirical research. Previous studies in various national contexts are reviewed here, based on which,question of whether accreditation really enhanceexcellence of HEIs is answered and factors behind it are explored.
+
+ research work discusses an inventory model in which a supplier provides toretailer different credit periods associated withorder quantity. Ininventory model, it is considered thatproduct’s deterioration rate is non-instantaneous in nature. Additionally, an advertisement and price sensitive demand is modelled;kind of demand is appropriate forproducts for whichdemand is influenced byadvertising and price.main aim ofresearch works is to determineoptimal ordering policy which maximizesretailer’s profit. In order to illustrateproposed inventory model, some numerical examples are solved and a sensitivity analysis is presented.
+
+Inenergy sector of Russia, is a growing demand for electricity. An advantageous way to provide communication and power services isconstruction of overhead lines and power lines. is a connection of new consumers to existing lines. Atintersection of communication lines and power lines, a “tangle” of wires is formed, making it difficult to carry out installation and repair work. When carrying out any work related toinstallation, repair or maintenance of supports with such “tangles”,risk of electric shock andrisk of workers falling from a height increase significantly. To reducecomplexity of maintenance and increase safety at key intersections, a constructive solution has been proposed inform of a traverse.proposed traverse will allow to arrangeplacement of wires of communication lines and power lines atnodes of intersection, that is, it will allow optimization ofmutual placement of wires in space. Optimization ofmutual placement of wires in space meetsconditions for increasingsafety of work on supports andconvenience of servicing communication lines and power lines. In addition,placement of wires proposed crosshead significantly improvesappearance ofsupportsselves andsurrounding areas, since no “tangles” of wires are formed. To justifyfeasibility of introducingdeveloped design, an assessment was carried out ofprofessional risk of injury to electricians performing maintenance work on power lines,  and without a prototype traverse.trial operation oftraverse was carried out at 17 work sites, each of which employed 15 electricians.experiment showed that when  a traverse,likelihood of safe work at work sites increased. Thus,calculations showed thatproposed design improvesafety of electricians.
+
+supply chain management is outlined as amalgamation of business processes aligned to operational management and marketing problems like information sharing, supply chain coordination and inventory control. In recent decades, researchers have effectively worked on seeking optimal policies under supply chain management for obtaining practical and powerful outcomes.outcome has ensued a generous body of work intended to contribute distantly  game theory to exemplifynature of problems surfaced to basic and complex supply chains. Inpaper,a new concept is attempted like game theoretic approach with learning effect under supply chain model andmodel is developed to supportdealing betweenperformers (players) ofsupply chain, supplier and purchaser, presented by non-cooperative game approach. Defective items are considered inmodel and afterinspection process items are sold at discounted price. It is also assumed that demand is sensitive to promotion expenses cost and buyer’s price without trade credit. Results are determined bynon-cooperative Stackelberg game theoretical approach. Finding suggest that buyer’s income is more due tolearning effect than seller inmodel. Bothplayers get benefitted in case of leadership position. Inlast, numerical visuals with sensitivity scrutiny are presented to supporttheory ofpaper.
+
+present work studiesreliability measures of a standby system  coverage factor.considered system is a combination of main unit and two standby units. Provision of standbys has been taken for smooth functioning ofsystem. On failure of main unit standby units takeload of main unit and if both standby units failed, system goes to in completely failed state.failures and repairs of each unit follow exponential and general distribution respectively.whole system has been analysed under imperfect coverage and human failure. Markov model has been developed to obtainstate transient probabilities. Various reliability measures like availability, MTTF, cost and sensitivity analysis have been evaluated withhelp of supplementary variable technique and Laplace transformation. Some graphical illustrations have been taken for better understanding ofmodel.
+
+Sharing of data in a distributed environment such as grid leads to various design issues such. One ofeffective measures for accessingdistributed data is réplication.paper addresses réplica management issues such as availability, placement and consistency. Proper management of réplicas in a distributed grid environment improvesaccessibility of updated réplica. A strategy namely, Réplica Creation, Placement and Consistency of data (RCPC) is proposed. RCPC dynamically creates an optimal number of réplicas and places on nodes having minimum placement cost. An agent-based adaptive threshold approach is used efficiently for maintaining consistency amongréplicated data. RCPC is simulated  Optorsim simulator andresults are evaluated in terms of job execution time,effectiveness of network usage, hit ratio, transfer rate, storage utilization and computing usage.
+
+Amongvarious social media sites, YouTube has emerged as a forerunner inrace of online video sharing sites. Being a free uploading and viewing site, YouTube’s andvideo uploader’s main source of revenue areadvertisements run before and duringvideo. Thus, to better optimizeprofits, modelingview-counts of a particular video is very essential. It is a known fact thatview-count on a video increases with time butview-count growth rate (viewership rate) is not always increasing. It increases rapidly duringtime period whenvideo becomes viral and it again slows down oncevirality phase is over.behaviour of viewership rate changes multiple times throughoutvideo life-cycle and leads to altered lifespan ofvideos. Incurrent proposal we have predictednumber of view counts onbasis of changing viewership rate.change however, might occur several times during video lifecycle,fore,ideology has been incorporated in proposed methodical work. A set of model have been discussed which have been ranked  “VIKOR”- multi criterion decision making (MCDM) technique YouTube video data sets.
+
+A mobile ad-hoc network (MANET) is a collection of mobile devices having routing capabilities to reach todestination. Co-operation of allnodes innetwork is essential for efficient performance ofnetwork. But cooperation of allnodes cannot be assumed in such a dynamic network in which nodes are joining and leaving very frequently and topology changes randomly. Some ofnodes be compromised that adversely affectsperformance ofnetwork. Different types of attacks be performed at various layers ofprotocol suite An Intrusion detection system is required to accurately detect attacks and isolates compromised nodes innetwork. Inwork black hole attack has been introduced  Ad-hoc On Demand Distance Vector (AODV) as Routing MANET protocol andsystem is trained and tested  Support Vector Machine (SVM) to detectmalicious nodes innetwork.simulation was done in NS-2 to carry out black hole attack and trace file  is used as dataset for training and testing purpose  R.
+
+Research is being carried out for machines to be able to better decipher an ambiguous word.majority of work done in Punjabi, a regional language of India and one among10 most spoken languages ofworld, is limited to knowledge-based techniques.implementation of Case Based Model to help decipherPunjabi ambiguous word is new and henceresults determined be beneficial exemplar in Punjabi Word Sense Disambiguation research. Vectorization ofsentence is done to use minimal features to help findright context ofgiven ambiguous word. Four different measuring functions are used to measurenearness ofgiven sample with respect to store sample,by concept of case-based reasoning.collected sample is subjected to four different classifiers, namely Naïve Bayes, k-Nearest Neighbor, Decision Tree and Artificial Neural Network to findclosest context.experimentation showsvariation in results subject tosize ofvector.
+
+ article summarizesmost important results out of an investigation whose general objective was defined as “ Integer Linear Programming (ILP) to resolve two-dimensional (2D) material cutting of rectangular pieces”. It presents an alternative approach of material cutting different thanclassic methods, addressingproblem by  “cutting of substitution variants” (e.g. larger pieces are considered as though were raw material too). substitution-variants are later defined as new unknowns inmathematical modeling ofsituation being studied, to generally reducenumber of variables inmodel. A Software was designed and implemented with an algorithm forgeneration of 2D cutting variants, which executesmathematical processing frommodel and interpretsresults  in a practical way. Also as an example,article showsresults on comparinguse ofproposed solution versusheuristic route when solving 2D cutting problems.Software was deployed in a polygraphic company whose production process involvescutting of rectangular pieces of cardboard, with satisfactory results incontrol ofproduction and a significant reduction in raw material waste.
+
+Inglobalized world are different challenges that become experts in being competitive. It is an organization or company at a national or international level. To count on quality as something inherent in a good or a service forbetter performance in its operation and durability, complying withdiversity ofrules andnecessary rules forneeds ofanswers.
+ project arises thanks toidea of designing and improvingway of carrying outprocesses withindepartment of statistical and computer planning ofSanitary Jurisdiction Atizapán de Zaragoza, allchanges and analyzes will aim to standardize and integrate allinformation withindepartment and inmedical units that are attached tojurisdiction throughdevelopment of a strategic logistics model wheremain goal isreduction of time and service kpi's,design and development ofmodel will be carried out.
+Department of Planning, Statistics and Informatics is responsible for improvingprocess of basic information, giving advice on procedures. Indepartment all information related to medical units belonging tohealth jurisdiction of Atizapán de Zaragoza is centralized and sent to a system where information is consulted by all who have interest to know of any situation belonging to medical units, also serve as a support forknowledge ofmovements that are made within it.
+
+Insupply chain, international, national and local companies currently have specified in
+their logistics operation.research provides discussion and analysis ondifferent
+formal techniques on sequencing, batching, routing and optimization in 3PL systems. 
+paper identifies analysis strategies and trends that describedifferent approaches in order
+preparation, analysis approach and solution methods.picking problem is considered,
+through a literary and comparative review to identify a logistics strategy, withpurpose
+of consideringdesign that best fitscontext.
+purpose ofproposal is to analyzeformal techniques that allow obtaining a
+logistics strategy to establish various operating scenarios that simulate processes for
+cost minimization, on-time deliveries and quality assurance, through formal techniques
+(algorithms) that define solvingorder preparation problem, by optimizingpicking
+problem inCEDIS.
+
+In recent years, has been increased interest in  statistical model for analysis of single dengue outbreaks based onreported cumulative cases.three parameter logistic (3P logistic) andRichards model have been used to estimate primary epidemiological parameters in single dengue outbreak. A topic that could be of interest to epidemiologists iscomparison of two single dengue outbreaks based on estimates of key epidemiological parameters:turning point,final size andbasic reproductive number R0. In order to compare two single dengue outbreaks we create a model that takes into account both outbreaks simultaneously. Inpaper, we describe different methodologies based on Frequentist and Bayesian approaches that takes into accountmodel uncertainty incomparison of two single dengue outbreaks.Frequentist approach consists of comparing outbreak doing an extension of 3P logistic and Richards model anduse of model averaging for taking into account model uncertainty. InBayesian approach, we use a Bayesian hierarchical model and we use Bayesian model averaging applying Gibbs variable selection.proposed methods are applied to dengue outbreaks that occurred in La Lisa municipality, Havana City, Cuba during 2006 and 2007 outbreaks.
+
+Inpaper we pretend to draw a panoramic view ofbasic elements of ratio estimation. In it are presented approaches for extendingclassic estimator, generalizing and determining classes of ratio type estimators
+
+ work is based on an already developed electronic system, comprised by inertial sensors, without magnetometer.is unable to provide an orientation measure that allows obtaining gait parameters, sincesignals to gather from it are: angular velocity and linear acceleration. To addfunctionality tosystem, several algorithms developed inliterature were analyzed and implemented. A comparison betweenprevious implementations is made from experimental signals. signals are registered from rotations with different values of angle with respect to3 coordinate axes. Amongalgorithms consulted arestraight integration ofgyroscope signal andfusion of sensors. Incontext, some problems were found related toway to obtainangles fromoutput signals ofaccelerometer andgyroscope.fore, inwork it is proposed an implementation, based onKalman filter, to obtainorientation without  a magnetometer and that minimizingdeviation produced byintegration ofgyroscope signal.algorithm was applied to dynamic equilibrium tests that are carried out inhealth institution.
+
+goal ofpaper wasdevelopment and use of indicators to evaluatesustainability of banana production farms in Babahoyo atProvince of Los Ríos, Ecuador. 84 farms, dedicated to commercial production for exportation, were analyzed. Indicators were built to assess compliance with economic, environmental and social purposes.indicators were normalized and weighted according to importance.use of indicators allowed observing clear trends in general sustainability and economic, ecological and sociocultural aspects. A certain level of dependence was observed amongthree dimensions of sustainability.fulfillment of environmental purposes was restricted by economic aspects.crop is planted in monoculture with a high dependence on agricultural pesticides, as well as a high rate of ignorance ofsoil aptitude in whichbanana is grown. It is concluded thatvalues achieved inthree types of farms forenvironmental dimension make unsustainable. Integrated pest management could be improved by reducingintensive use of agricultural pesticides substances and  agro-ecological alternatives to increase crop diversity and control pests. Additionally, it is necessary to knowaptitude ofsoils ofbanana farm;will promote an adequate use for profitable production of banana, which would contribute tosustainability of production systems.
+
+prediction of future observations tell us at an early stage of testing how costlytesting is and whether actions should be taken to redesigntest.paper deals withBayes interval prediction offuture ordered observations in a multiply type-II censored sample from an exponential distribution.analysis will depend mainly on assumption thatsample size n is fixed as well as random variable.Binomial and Poisson distributions are used for describingrandom variable n. Numerical example is cited to illustrateprocedure and simulation study is carried out to studyperformance ofprocess.
+
+Eggs are most fundamental and important foodstuff in everyday life for all developed and developing countries. It is not sufficient only to produce and transport eggs at a reasonable cost but arrangements must be made to ensure thateggs reachconsumers well in time.In betweentwo extremes of minimization of eggs shipping cost and minimization of eggs shipping time, exist a number of situations where an eggs transportation system decision maker would like a partial trade-off on shipping cost to attain a certain degree of shipping time advantages.From laying tofinal destination, more eggs are broken during shipping than in any other step;fore, losses due to eggshell breakage are greatest during shipping. Inpaper, an algorithm and its underlying theory is developed to solve eggshell breakage restricted bi-criteria eggs transportation problem.paper discusses a more realistic and general assumption thateggs shipping time of bi-criteria eggs transportation problem depends onquantity ofeggs transported and is an increasing piecewise constant function.algorithm is also supported by a real life eggs shipping problem of Tamil Nadu, India.
+
+Inpaper, some new functional forms of ratio and product estimators of population mean, namely, logarithmic ratio and product estimators have been introduced.expressions of biases and mean square errors (MSEs) of estimators have been  up to order . Further,proposed estimators have been compared withmean per unit, usual ratio and product estimators, and it has been found thatformer are more efficient thanlatter under a certain set of conditions. Also, under some practical situations, biases of proposed estimators are less thancorresponding biases of exponential ratio and product type estimators. Moreover, to improveefficiency of proposed estimators,transformation have been considered by shiftingorigin of auxiliary variable andoptimum transformations have also been found forproposed estimators for which MSEs of estimators become minimum.
+
+Today quality is not only a requirement for big companies, it is rather a primary requirement in organizations, since customers are increasingly demanding andfore require thatservice orproducts acquire or pay are of high quality. Sinceconcept of quality of service constitutesadjustment ofservice delivered to consumers with expectations.definition determinesdecision to spend or invest if it iscase. Service companies, onother hand, must be sure ofcapacity have to offerrequired attention, thus it is of fundamental importance to establish and measurerequirements ofproducts and services offered to customers.aim ofpaper is to present a statistical evaluation ofquality in CREA, a real estate company located incity of Puyo, province of Pastaza, based on a survey of twenty costumers.
+
+Inarticle Warner (1965) randomized response model is used to determineallocation of sample sizes in stratified sampling design.problem is formulated as Nonlinear Programming Problem (NLPP) with non linear cost function.formulated problem is solved  Branch and Bound method andresults are  through LINGO.
+
+In survey sampling,errors which are mostly studied during estimation are sampling errors. However,properties of estimators are more influenced by non-sampling errors than sampling errors.paper addressesproblem of estimatingfinite population mean ofstudy variable y  auxiliary information in sample surveys inpresence of non-response. We have proposed an estimator for estimatingpopulation mean of study variable whenparameter of auxiliary variable x is known.bias and mean squared error (MSE) ofproposed estimator are  tofirst degree of approximation.minimum mean square error ofproposed estimator is also . A Simulation study has been carried out to supporttheoretical results.comparison ofproposed estimator with other estimators is made to show that our proposed estimator is more efficient thanother estimators in terms of percent relative efficiency (PRE).
+
+Inpresent investigation, a methodology has been developed for obtaining Approximately Optimum Strata Boundaries
+(AOSB), appropriate for surveys involving single study variable (Y), onbasis of two auxiliary variables (X and Z)
+closely related tostudy variable. For theoretical development, regression model has been considered as Y = C (X, Z) +
+e , where C (X, Z) is a function of X & Z and ‘e’ is error term. Minimal equations have been , under certain
+assumptions, by minimizingvariance ofestimation variable. Due to implicit nature of equations, a Cum
+3  
+D1 x, z rule has been proposed for finding out AOSB. Comparisons have been made empirically,  certain
+density functions, with cube root method due to Singh and Sukhatme (1969) for single auxiliary variable. It showed
+remarkable gain in efficiency in case two auxiliary variables are used asbasis of stratification.
+
+computed tomography images data posse an intrinsic hierarchical structure; that is, when images (lower-level or micro-level units) are nested within individuals (higher-level or macro-level units).problem with two-level data, where it is expected that a dependent variable measured onindividuals is influenced by variables measured onimages isfocus ofarticle. Methodology foranalysis oftype of scenario, known as micro-macro situation, has been little investigated. Inarticle, a latent variable modeling approach is proposed, where morphometric information of multiple images and characteristics ofpatients, such as age and sex, are combined in a single logit model. Multilevel Factor Analysis is used to obtain latent variables atmacro level, which be interpreted as synthetic indicators of morphometric differences in images between individuals. To illustratemethodology, real data of patients with cerebral hemorrhage were used.results are compared with those  by an alternative approach.empirical study revealed a comparable performance betweentwo methodologies, althoughnew approach suggests a relative superiority in terms of predictive capacity.
+
+Student satisfaction is a result ofquality of academic services.objective ofstudy was to validate a model to measurelevel of satisfaction of students of a public university in Mexico through three one-dimensional measures: Teaching, Tutoring and Educational Infrastructure, and a multidimensional measure: Institutional services (social service, scholarships and job bank); From a population of 7,403 university students, 365 non-probabilistic students were selected, of which 197 (54%) were women (M age = 22.81, SD = 2.82 years) and 168 (46%) men (M age = 22.98, DE = 2.25 years): Measuring scales inLikert type format present acceptable indexes of a confirmatory factor analysis throughspss-amos program.results indicate thatlevel of satisfaction with teaching turned out to behighest of all (M = 4.17, DS = .92) and as areas of opportunitysatisfaction witheducational infrastructure (M = 3.10, SD = 1.12), institutional services (M = 3.48, DS = .89) and Tutoring (M = 3.86, DS = 1.33): It is concluded thatproposed model is empirically sustainable to measure satisfaction in undergraduate university students.
+
+Inpaper, we discussproblem of assigning teachers tolearning units.approach takes into accountprofessional profile of teachers,experience and interest to assign a learning unit. From a mathematical point of view,objective is to find a complete assignment of teachers to learning units, which maximizes a function of weighted aggregation. Foroptimization process,variant ofAnt colony system (ACS) ofMetaheuristic optimization based on Ant colony (ACO) is used. As a case study, we used a real scenario ofTechnical University ofState of Quevedo with 18 teachers and 54 subjects of Systems Engineering.results showed thatproposal has a high degree of convergence and low standard deviation values;is summarized in high quality solutions in most executions.
+
+Withdeployment of new devices, protocols and applications, network traffic is changing to adapt to trends.fore, it is necessary to analyzeimpact over services and resources in data networks. Traffic classification of network is an important requirement to optimize traffic engineering and adequately provision quality of service. Inpaper, we analizevariable packet size oftraffic in an university campus heterogenuos network (wired and wireless) throughtcollected data  a novel sniffer that ensuresuser data privacy. We separatecollected data in each scenario, by type of traffic, protocols and applications in order to comparebehavior of packet length. Finally, we estimatetraffic model that representstraffic by means of probability distribution and compute its associated numerical parameters.
+
+Inwork we presentnumerical resolution of an initial and boundary value problem associated to one non-homogeneous parabolic EDP over a 2D domain with an isosceles triangle shape, explicit finite difference method (FDM) on an uniform mesh.proposed numerical scheme combines a nine points stencil to approximatesolution innodes not adjacent toboundary represented byhypotenuse, and another one of eight points to approximatesolution in those that are adjacent to such boundary. By a standard analysis of FDM's it is demonstrated thatnumerical scheme is stable, andresult is corroborated with numerical experiments.
+
+Inpaper, we present a qualitative study ofsolutions of a mathematical model that is formulated to analyzedynamical behavior ofexothermic and reversible chemical reaction , in a catalytic fixed bed reactor, adiabatically operated, and in presence of vanadium pentoxide .model is a Cauchy problem for two coupled non-linear ordinary differential equations. equations are coupled throughsulfur dioxide conversion,temperature ofsystem (chemical reaction and chemical reactor) and its characteristic physicochemical parameters. We prove thatCauchy problem has a unique solution (system orbits) for every initial condition that belongs todomain fordirectional field ofproblem. We also show thatsystem orbits tend asymptotically to some stationary state located on an attracting manifold, embedded onphase plane, whentime is large enough. theoretical results allow us to describedynamic of a case given inliterature, in which it is reportedvalue ofphysicochemical parameters, temperature ranges, andreachable conversion levels inindustry.dynamical behavior is as expected onphase plane, and numerical results show that temperature changes ofsystem cause significantly changes inconversion from to sulfur trioxide , when time evolves.
+
+ paper is about a methodology to calculate allcomponents ofinfluence matrices ofcurved boundary elements of three nodes in plane elasticity problems,  a semi-analytical formulae and coordinate transformations, with which it is possible to savings of CPU time ofnumerical integration used in cases (Gauss-Legendre), maintaining its accuracy. To makecomparison of CPU times and precision ofresults  by both techniques, numerical and semi-analytical subroutines were created  MAPLE symbolic-manipulation software. Amongresults achieved isreduction of computation times by 76%, 61% and 35% compared toGaussian numerical integration with four, six and eight integration points, respectively. Thattechnique successfully was used byauthors inintegration of matrices inFinite Element Method (FEM).
+
+Engineers and managers of firms are involved in“numeric revolution”, which is identified withso-called BIG DATA problem. When dealing with Big Data is needed to use particular methods of low computational complexity .
+aims ofpaper are related with promotinginterest of taking into accountproblems posed by dealing with Big Data, when developing social science studies.use of quantitative methods is discussed consideringuse of clustering techniques . An illustration is presented by analyzing a real case.
+
+Different deep learning model have recently emerged as a popular method to apply machine learning
+in a variety of domains including remote sensing, where several approaches forclassification of
+land cover and use have been proposed. However, acquiring a suitably large data set with labelled
+samples for training such model is often a significant challenge to tackle, that leads to suboptimal
+model not being able to generalize well over different types of land cover. Inpaper, we present
+an approach to perform land cover classification on a small dataset of high-resolution imagery from
+an area inAndes of Ecuador  deep convolutional neural networks and techniques such as
+transfer learning, data augmentation, and some fine-tuning considerations. Results demonstrated
+thatmethod achieve good classification accuracies if it is backed with good strategies to
+increasenumber of samples in an imbalanced dataset.
+
+ document presents a proposal to implement a cluster method that best matcheseducational
+data.use of probabilistic graphic model infield of education has been considered for 
+research. Butproblem with general learning procedures comes frompresence of a high
+number of variables that measure different aspects ofsame concept. Incase, we have that all
+variables have some degree of dependence between, without a true causal structure.fore,
+a new procedure is presented that makes a hierarchical grouping ofdata while learning a joint
+probability distribution. We try to make a test for each case whereprobability is measured in
+each model  propagation algorithms. probability logarithm is applied to each case
+andresults are added in each model to determinebest fit forproposed one.method
+is applied toanalysis of a data set of educational data: evaluation of students ofQuevedo
+State Technical University (Ecuador)
+
+Multiple Sequence Alignment (MSA) is one ofmain topics inin bioinformatics domain, consists finding an optimal alignment for three or more biological sequences withnumber maximum of conserved zones or totally aligned columns. Different scores to assessquality ofalignments have been proposed, soproblem be formulated and resolved as a Multi-Objective Optimization Problem (MOP). Forreason, inpaper we present a Multi-Objective approach applied to MSA. We have considered state-of-the-art optimization algorithms aimed at solving different formulations ofMSA: NSGAII, NSGA-III, SPEA2, MOCell, SMS-EMOA, MOEA/D and GWASF-GA. Furthermore we have considered some popular metrics as objectives to be optimized:weighted Sum-Of-Pairs with a ne gap penalties (wSOP),Totally Aligned Columns (TC), STRIKE and BaliScore. Finally we have describedmain features of our software jMetalMSA, a Multi-Objective optimization software tool applied to MSA problem and illustrated a working example for experimentations purposes.
+
+RSA is a cryptographic system which is widely used to protectconfidentiality of information
+transmitted overInternet or other insecure networks. However, RSA is a probabilistic encryption
+algorithm, which has random components.increasesprobability that an attacker will find a
+technique for calculatinggenerated keys. To solveproblem,study aims to increase 
+security ofRSA encrypted message by investing a minimal amount of extra time over-encryption
+and over-decryption. To achieve , some variants have been introduced tobaseline method.
+OnceRSA encrypted message is , a conversion ofdecimal number system to a base b
+is performed.results in a value of lesser length.value n is generated randomly. To produce
+a mixture ofcharacters ofRSA message changed to base b, a matrix is used andindexes
+ofrows of that matrix are randomly generated. Incase, each cod element is an ASCII
+character whose value isposition it occupies within its respective row. In practicematrix
+has m rows per b columns where m 2 Z=1 < m < b!. All rows represent strings randomly mixed.
+results oftests performed demonstrates an increase of 3.4 per thousand of time with respect
+todecrypted-encryption RSA. Nevertheless,algorithm greatly increases network security.
+
+Neutrophic offsets are neutrosophic sets whose truth-values lie outsideinterval [0, 1].Uninorms are aggregation operators defined in fuzzy logic to generalize t-norms and t-conorms. satisfyaxioms of symmetry, associativity, monotony andexistence of a neutral element. Fuzzy uninorms have been generalized to intuitionistic fuzzy sets, neutrosophic sets, and neutrosophic offsets, which are called offuninorms inlatter case.paper aims to demonstrate that offsets and offuninorms be used in digital image processing, especially for image segmentation and edge detection, moreover algorithms and examples are also provided.
+
+Humanistic training in legal professionals is essential forgood performance offuture specialist inprofession.training should begin fromstudent´s phase.present paper aims to studysituation ofcompetences onhumanistic subjects instudents oflegal career ofAutonomous Regional University ofAndes, extension Santo Domingo, additionally to select alternatives to increasequality inaspect. To do , a survey applied to students was statistically evaluated and a group of experts assessed and ordered, according to importance, possible alternatives to improve humanistic education. decided to usetechnique called Neutrosophic TOPSIS.method is used inframework of neutrosophy, which incorporatesuncertainty and imprecision toMulticriteria Decision, inform of three membership functions, one of truthfulness, another of indeterminacy andthird one of falsity.
+
+State’s extra-contractual responsibility isguarantee ofrights, either for lack or deficient provision of public services or for actions or omissions inexercise of public powers,public servant responds for breakinglaws, as well as for excess or defect inperformance of its activity. Inpaper,factors that influenceextra-contractual responsibility ofEcuadorian State are studied aided by a mathematical method.chosen method is neutrosophic DEMATEL, which consists instudy ofcause effect in complex situations, as it iscase.incorporation of Neutrosophy, which isbranch of philosophy that studies all related to neutralities, allows us taking into accountindeterminacy, which is typical when exists lack of information or contradictory, inconsistent or paradoxical information.method permits usevaluation by  linguistic terms, which is a natural way for human beings’ assessment.
+
+databases ofMinistry of Public Health of Ecuador in2013-2017 period contain valuable information that be used to determinestrengths, weaknesses, potential problems, among others, that affectpublic health ofcountry.knowledge serve to draw better public health policies.paper aims to propose a methodology that allows us to extract knowledge from databases and atsame time to obtain association rules based oncombination of algorithms such as FP-growth and k-means. In summary,methodology consists offollowing steps: first,dataset is stored in 5 files inSPSS (Statistical Package forSocial Sciences) format, and disease-related attributes are grouped and encoded, according tocode ICD-10, forpurpose it is proposed to applyWEKA software. Finally,FP-Growth algorithm is used to extract association rules from frequent items withsupport of RAPIDMINER, which hasadvantage of allowing ususe of WEKA algorithms.methodology is illustrated with an example that shows how to use it and its usefulness to extract association rules in real-life situations from medical databases. With representations ofinformation, morbidity and incidence behavior analysis ofregistered groups and diseases be made.
+
+social reinsertion of ex inmates is a complex process, of whichwhole society is part. Many actors intervene inprocess; among we enumeratelegal workers,employers andcitizens. Inpaper, an assessment is carried out aboutsocial insertion of ex inmates in Canton Santo Domingo, Ecuador. Forend, we decided to use 2-tuples neutrosophic numbers sets, which consist in an evaluation based on a linguistic scale as a kind of Computing with Words.approach ismost adequate, because it permits to evaluate and to output results in form of linguistic terms, which is a natural and easy way to understand ideas by both decision makers and users. Neutrosophic sets allow us to includeindeterminacy that is consequence oflack of information, or due to contradictory and inconsistent information, which usually be found inproblems of every-day life.
+
+International Center for Settlement of Investment Disputes (ICSID) is an organization based in Washington, United States belonging toWorld Bank, whose objective issupport to resolve conflicts between States. Three South American countries, Bolivia, Ecuador and Venezuela, at certain times have decided to leaveorganism.paper aims to determinebest strategy to follow for countries to makemost convenient decision about to leave or notorganization.solution ofproblem is done by applying neutrosophic games. Game Theory is used to solve conflict situations among different parties. Inpaper, neutrosophic games are non-cooperative, in normal form, two players and zero sum games. In addition, evaluations are carried out with linguistic terms associated with neutrosophic sets, where indeterminacy is part ofcalculations andisreason for including neutrosophic sets in modelingproblem. Obviously, in a dispute is uncertainty and also lack of information, contradictions amongparties, inconsistencies, and other phenomena which justifyuse of neutrosophy.
+
+Inworkplace,worker is consideredweakest part ofemployment relationship. Untimely dismissal is a social problem in Ecuador.paper aims to evaluatesituation of untimely dismissal incountry, throughopinion of experts ontopic. Forstudy,method known as Fuzzy Cognitive Map has been used, which are directed graphs to represent relationships between concepts. Each vertex ofgraph represents a concept and each edgecausal relationship between. Each edge is associated with a value in [-1, 1] that representsdegree of causality betweenconcepts. Whenvalue is negative it means that while one variable increasesother decreases and vice versa, whenvalue is positive either, both variables increase or both decrease simultaneously.first phase classifies each studied variable according to its influence onothers in terms of transmitter (it does not depend on another one and others depend on it), receiver (it depends on others and none depends on it), ordinary (it is both dependent on others as others depend on it). Insecond phase,Neutrosophic AHP technique is applied to assesssituation in Ecuador inregard. Neutrosophic AHP consists of assigning a score to alternatives through expert evaluation of criteria and subcriteria, where a pair-wise comparison is made ofimportance of one criterion over another.use of neutrosophic sets hasadvantage of including indeterminacy and calculation with linguistic terms. Neutrosophic AHP provides weights to each criterion to evaluatetotal situation of untimely dismissal, which are used to obtain a final value onceevaluations are carried out byexperts.results confirm thatsituation is punctuated as 4.7 in a scale of 1-10.
+
+Council of Citizen Participation and Social Control in Ecuador needs of young members to carry outdefense ofcitizens’ interests. Unfortunately, atpresent dayyouth is increasingly skeptical of joining types of activities.paper aims to studysocial network of young people who are part ofprovince of Santo Domingo de Tsáchilas, and to identify young people who are natural leaders withinprovince. Forend,social networks techniques based on Small World are applied, which are modeled by non-directed graphs, where each vertex represents a person withinsocial network and each edgerelationship between.article also includesdegree ofconnection andpresence of indeterminacy ininformation. That is whygraphs that modelnetwork are replaced by neutrosophic graphs, where may be indeterminacy ofconnection between at least two vertices.adjacency matrix of graphs contains neutrosophic numbers. 17 possible community leaders were identified as a first step in determining whether could become leaders ofCitizen Participation Council.
+
+Legal norms regulatesituation of migrants. However, atinternational level are primarily responsible for establishing fundamental human rights, butnormative development of bothUnited Nations andILO focuses primarily on analyzingsituation of migrant workers on a regular basis, leaving asidesituation of irregular migrant workers.paper aims to determineaspects that most influence to dignifyirregular migrants’ lives in Ecuador. Forend,Cognitive Neutrosophic Maps will be applied, which are fuzzy cognitive maps where indeterminacy is included. Cognitive maps are basically directed graphs wherevertices represent concepts andedges represent connections between concepts, in addition a weight that indicates if exists a relationship amongconcepts are included, and also if those relationships are direct or inverse. Incase of neutrosophic cognitive maps,possibility of representing indeterminate relationships is also incorporated.study is based oninterview and survey of 60 irregular migrants throughoutcountry, whose data were analyzed by three experts.
+
+internal control is a kind of audit, which contributes to improve enterprise situation on more fundamental aspects.paper aims to determine if EPMAPA-T,municipal public enterprise of potable water and sewer system, in Tulcán, Ecuador, has overcamedeficiencies indicated in an internal control carried out during a previous period. Forend,so-called Neutrosophic AHP technique was used.is a variation ofcrisp AHP designed by Saaty, so that whenneutrosophic sets are incorporated, it is taking into accountuncertainty proper of decision making, as well ascomputing with linguistic terms andinclusion of an indeterminate element.technique shall be applied to choose between two alternatives, eitherenterprise improved its performance or not, specifically infinancial area.is not a simple task; it needs for a mathematical tool ofkind formany aspects that must be assessed.
+
+ research took place atAmbulatory Care Center ofEcuadorian Social Security Institute inprovince of Guayas.investigation was motivated by some irregularities observed inbehavior ofadministrative and operative personnel, with respect toservice provided topatients who arrived athealth care center thatSocial Security of Ecuador provides toentire population ofmentioned province and provinces adjacent as Manabí, Esmeraldas, Pichincha, Los Ríos and Cotopaxí. Specifically, attention is paid tolevel of stress shown by such staff. For ,main indicators that revealexistence of risk factors that promote work stress are established, such as: low self-esteem, low assertiveness,inappropriate personality type of workers, as well as a work environment that fosters stress. Similarly, causal relationships between are evaluated, based on expert opinion.is accomplished throughuse of Neutrosophic Decision Maps, which generalizeFuzzy Decision Maps, whererelationships amongcriteria are represented by causal relationships that include neutroscopic numbers. An advantage ofmethod, which as far asauthors know isfirst time it is applied in Cognitive Neutrosophic Maps, ispossibility of modelingindeterminacy, produced bylack of information, its incompleteness,contradictory or inconsistent information throughdynamic analysis of relationships. weights allowed for a total assessment ofsituation, where it was detected thatwork environment iscause that most affects stress andfactors related topersonality ofworkers do not significantly affectproblem. Onother hand, it was possible to carry outstudy, because were some undetermined causal relationships amongfour variables, so it could not have been modelled withFuzzy Cognitive Maps.
+
+climatic change inplanet has directly impacted in agricultural results. Conversely,changes that humanity has carried out to produce agricultural products has impacted inclimatic changes, e.g.,deforestation. That is why exist complex causal relationships betweenclimate andagriculture. A mathematical tool, which has proved its efficacy to study causal relationships among different variables, iscognitive map, where such relationships are straightforwardly represented in form of directed graphs.idea was generalized when fuzzy cognitive maps were introduced, it is considered that those relationships be partial.neutrosophic cognitive maps generalize even moretechnique, in such a way that possibility of indeterminacy amongvariables, due to ignorance, contradiction, inconsistency or other causes, is considered.paper aims to study causal relationships amongclimatic vulnerability variables inagricultural sector. Forend, we applied neutrosophic cognitive maps.
+
+Usually,organizations confrontdifficultyto make best decision aboutway to invest recourses in different project alternatives.organization acquires competitive advantages when software development projects are well evaluatedand correctly selected. Selecting projects inInformation Technology field presents a challenge in many senses; some of are, to assessintangible benefits is difficult, projectsare interdependent andorganizations imposeself-constraints. In addition,framework to makedecision is generally uncertainwith many unknown factors. paper aims to propose a model which integrates methods, techniques,and tools such asBalanced Scorecard Model,Neutrosophic Analytic Hierarchy Process andZero-one linear programming.proposed model is designed to selectbest portfolio of Information Technology projects.It overcomeschallenges previously pointed out and be coherently incorporated instrategic planprocessoforganization. In addition, it easescourse of experts’ decision making, because it is based on Neutrosophy and hence incorporatesindeterminacy term.
+
+Internal Control System guaranteesefficiency ineconomic and financial management of companies. Knowingfinancial statement allows you to determine profitability inbusiness operations subsystem. However, from analyzes carried out at Manolo's shopping center, it was possible to identify thatfinancial information is incomplete,comparative analysis of its financial statements andapplication of financial reasoning are not performed, which directly affectsinternal procedures to determine profitabilityevaluation ofInternal Control be expressed through indicators in a direct relationship of compliance or denial ofwith a spectrum of neutrality representing a domain of neutrosophical values.purpose ofresearch is to develop a multi-criteria model with Single Value Neutrosophical Data (SVN) forevaluation ofInternal Control System infinancial statement forManolo’s shopping center.
+
+Maintainingsupply chain of cattle introduces a challenge inproduction destined for consumption, representing meat a food highly demanded by people. Measuring product quality is an essential element to ensure user satisfaction. Quality be modeled frombehavior of a set of evaluative indicators through a multicriteria approach.degree of compliance of an indicator is expressed through a direct relationship of performance or denial ofwith a spectrum of neutrality representing a domain of neutrosophic values.implementation of Soft Computing techniques has been used to represent uncertainty in decision-making processes ofnature.present investigation describes a solution toproblem posed by developing a model that uses multicriteria method with Single-Valued Neutrosophic Number (SVNN) forevaluation ofquality ofbeef.
+
+Today, cloud computing services are an attractive alternative to use. Various organizations are looking to hire such services. However, are many services available incloud and numerous criteria that must be considered inselection process.fore,process of selecting cloud services be considered as a multi-stakeholder type of multi-criteria decision analysis problems.present research proposes a model forselection of services incloud taking into accountconsensus anduse of single value neutrosophic numbers forrepresentation of indetermination.proposed model consists of five activities, includes automatic search mechanisms for areas of conflict and recommendations to experts to bring preferences closer. Finally, an illustrative example that corroboratesapplicability ofmodel is presented.
+
+Neutrosophic sets and application in support of decision-making have become a topic of paramount importance. Indocument, a new model for decision-making is presented forselection of projects based on single-value neutrosophic numbers (SVN numbers) andanalytical hierarchical process (AHP).proposed framework consists of five activities: reference framework, criteria weighting, information gathering, classification of alternatives and project selection.project alternatives are classified according toaggregation operator andclassification ofalternatives is based onscoring and precision functions.AHP method that allows a correct weighting ofdifferent criteria involved is included. In addition,common decision resolution scheme is used to help decision makers reach a reliable decision by providing methodological support. A case study is developed showingapplicability ofproposal forselection of information technology projects. Further works will focus on extendingproposal for group decision making and developing a software tool.
+
+Frequently making a fair decision about a crime becomes an arduous task forjurists who are part ofprocess.is becausedecision is subjective, where exists partial clarity offact that is judged, may be a lack of information, contradictory opinions, among other characteristics that may leave doubts aboutfairness ofdecision to be made.present investigation proposesdesign of an Expert System that supports and does not replacefinal decision ofjurists on a criminal act. Forend,method of Artificial Intelligence known as Case-Based Reasoning (CBR) is proposed, which mimicsability of human beings to solve new problems that arise from similar some ones previously resolved. Inpresent investigation,Neutrosophic AHP technique is applied to determineimportance of each ofevaluation criteria, if a particular case should to be quantitatively evaluated. will be a Case Base to comparenew case with previous ones andprobability of winning it. Measurement scales will be used in form of linguistic terms.
+
+growth of project management as international discipline was encouraged byincreasing of projects complexity all overworld. Despite ofeffort made byprincipal standards of project management,number of failed and renegotiated projects still very high. Decision making process is one ofroot causes of projects failure. During project development, decisions are made according toevaluations performed in projects cut. In each cut, experts make, sequentially, diagnosis, decision, and prediction processes.paper aims at creating a new model that integratediagnosis, decision, and prediction processes in one platform for decision making during projects development.new model is based on Neutrosophic Cognitive Maps (NCMs) with a triangular neutrosophic number in map’s connections.suggested model deals efficiently withuncertainty and vagueness, since it considerstruth, indeterminacy, and falsity degrees. Finally,proposed model has been compared, in terms of efficacy, with a traditional FCM-based model for decision making in projects.
+
+One ofrisks during pregnancy, with high negative impact on both pregnant and fetus is cardiovascular disease suffering. Early diagnosis and appropriate treatment ofpathology significantly reducerisk for pregnant.treatment of pregnant women with heart diseases is characterized byinsufficient availability of experts with knowledge of medical specialties involved, and bypresence of situations of indeterminacy, uncertainty, vagueness, and incomplete data. Henceneed to create novel computational techniques for supporting clinical decision making duringtreatment of diseases. Inpaper, we suggest a new model based on Neutrosophic Cognitive Map that integrates diagnosis, treatment, and prognosis processes for supporting clinical decision making duringtreatment of pregnant women with cardiovascular diseases.model introduces a new approach to representmap’s connections, by  Triangular Neutrosophic Numbers, making it possible to quantifytruth, indeterminacy, and falsity degrees of experts’ preferences.new model aims to improveaccuracy of diagnosis and treatment of heart diseases during pregnancy; and to mitigatelack of expertise inarea. In validation process, a data base with 1019 cases provided by Cardiovascular and Pregnancy National Service / Gynecology and Obstetrics Hospital Ramón Gonzales Coros is used, and model’s results are evaluated by experts to demonstrateefficiency ofproposed model for treating diseases during pregnancy.
+
+Nowadays, world’s focus is onreduction of carbon footprints to mitigateglobal warming. To overcome , various countries have introducedtrend of offering carbon credits toindustries. Chemical industry is one ofindustries which harmenvironment significantly by its carbon emission. Alsodemand inchemical industries is very dynamic as new research and new development force to produce different products at different time. Inarticle, our goal is to investigatechemical industries’ optimal ordering policies under trended demand. In such industries, cash on delivery is hardly followed. Most ofindustries do business on credit.credit boostsdemand ofindustries. Illustrations with numerical data are presented to validate results. It is seen that profit of inventory system is maximized with minimum carbon emission.
+
+Inpaper, authors consider optimal replenishing strategies for constant demand in various financial scenarios by considering non-instantaneous deteriorating item underprogressive trade credit policy.aim ofwork is to develop a cost function for various situations depending ontrade credit period in economic environment. An algorithm is established to obtainaverage cost,replenishment time andoptimal order quantity. A thorough sensitivity analysis was carried out to assessimportance ofmodel.
+
+Vendor managed inventory (VMI) is a concept of supply chain in which a vendor (supplier or manufacturer) hascharge for optimizinginventory held by a buyer (or retailer). In traditional VMI modelling, it is often assumed thatvendor offers cash on delivery payment terms tobuyer. But in real worldvendors usually offer different types of payment policies to promote commodities and influencebuyers ordering policies. Some ofcommon payment policies are cash on delivery, cash before delivery (advance payment), delayed payment (trade credit) etc. Inpresent paper mathematical model is developed for VMI system by comparing two payment policies between vendor and buyer. In policy (I) buyer pays for an items as soon as he receives it fromvendor, i.e. CASH ON DELIVERY and in policy (II) buyer pays for an item attime of placing an order, i.e. CASH BEFORE DELIVERY. Discounted cash flow (DCF) approach has been used for proper recognition of cash flows. Numerical illustrations and sensitivity analysis are performed between two payment policies and it is shown that VMI system is beneficial for both vendor and buyer under both payment policies and policy II is better than policy I for both VMI system and non VMI system.
+
+In conventional EOQ model, it is anticipated that allproducts arrived are unspoiled inquality. But it is notcase in practice. Inarticle, an EOQ model with two different situations is presented. Infirst one,buyer receives imperfect items which need to be inspected.incurs inspection cost tobuyer. While in second situation buyer gets no imperfect items. But forhe has to pay some more amount.concept is elaborated here.price and time sensitive demand is incorporated in analysis to studyeffect of imperfect quality.model is confirmed through numerical example and sensitivity analysis is figured out to deducemanagerial insights.
+
+Now-a-days, learning’s awareness is increasing in various disciplines because impact of learning has a direct impact on profit
+or loss, and it is a promotional deemed effective tool for inventory management.supplier wants an appreciable
+coordination withbuyers and analyzes with full detail aboutconcerned cost anddemand parameters as to how
+much suitabledemand andrespective costs should be forbuyer.fuzzy analysis is a good tool for examining 
+performance as welloutput of imprecise parameters involved inbusiness dealing’s procedure.selling price,
+demand rate and ordering cost per unit has been assumed imprecise in nature. In addition, entities are also called fuzzy
+triangular numbers. As per considerations, a mathematical model has been developed with learning concept and credit
+financing under fuzzy environment. After computation, minimum annual cost is  owing tolearning phenomenon
+ininventory carrying cost and a suitable range of unit selling price, demand rate and ordering cost due tofuzzy
+properties.optimal cost in fuzzy environment is de-fuzzified withhelp ofcentroid process. Lastly, some numerical
+examples as well as sensitivity analysis have been illustrated to verifypresent model.
+
+ article addressesproblem of inventory control in a service facility system in which ordering level is controlled by MDP. A discrete time service facility system is studied in which demand process follows a Bernoulli process. If a customer finds a free server, he/ she enterserver immediately, otherwise joinwaiting space with finite capacity say N. Inventory pool with maximum level S is maintained at service station to satisfycustomers.(s, S) type policy is adopted toinventorylead times and service times are assumed to follow a geometric distribution. Average cost criteria based MDP is implemented to fixoptimal policy to be implemented.results are illustrated numerically.
+
+With ever changing market demands, software organizations in today’s scenario have to improve regularly by coming up with new functionality and gain over rival counterpart. For software developers, fault detection and fault correction are important activities makingsoftware qualitative. Inpresent framework, we have used convolution theory for analysis of fault detection and correction processes. Different types of distributions have been inculcated inmodeling.proposed reliability growth model for software are validated on real life software data set. Further, we have also discussed normalized criteria distance method, to rank and choose superlative release from between four releases based on a set of criteria.
+
+ case study develops a multi-objective production planning for a lock industry.specific lock industry,i.e. Mezia lock
+industry produces various types of locks duringproduction run.main objective offirm is to minimizeproduction
+cost as well as profit maximization with consideration ofrealistic constraints.type of model formulated by considering
+input information collected fromdecision-maker. However, in many cases, it has been seen thatinput information
+provided bymanufacturer is not precisely known. Formulation ofmodel has been solved byLingo 16.0 under a
+certain limitation, which be further explored.
+
+Bayesian estimation inmixture model under Type – I censored samples have been done by several authors. InpaperBayesian estimation ofparameters ofmixture of power function distribution under Type – II censoring is considered.estimation is carried out  uniform priors and Jeffrey’s priors forparameters ofmodel under K – loss function and Precautionary loss function.posterior risk androot mean square error ofestimators are also  and to studyperformance of estimators a simulation study is conducted.
+
+sampling technique plays a vital role inperformance of control charts.study leads todevelopment of a new Shewhart-type mean control chart to monitorprocess by employing cost-effective MiniMax ranked set sampling (MMRSS) technique.competes with known mean control charts based on simple random sampling (SRS) and some ofexisting ranked set sampling techniques.average run length (ARL) is utilized as performance measures to assessefficiency of MMRSS mean control chart and other considered SRS, ranked set sampling (RSS) and extreme ranked set sampling (ERSS) charts by  Monte Carlo simulations.simulation results ofMMRSS control chart are in some cases better thanresults   SRS, RSS and ERSS control charts.procedure is demonstrated with a case study  a real dataset that supportedfindings ofsimulation study.
+
+An algorithm, focused on determiningterms comprised inexpression for computing n-th order cumulants, is proposed.work presents some considerations aboutused algorithms, as well asresults  by means of algorithm’s implementation. Atend,results  fromcomputation of8-th order cumulant terms, for a telecommunication application, are shown.
+
+ paper aims at proposing a Constraint-based Learning Estimation of Distribution Algorithm (EDA) to solveMulti-Mode Resource Constrained Project Scheduling Problem (MMRCPSP).problem is considered a combinatorial optimization problem and consists of a set of tasks to be carried out in an ordered way, limited availability of resources, and an execution mode for each task. Generally, traditional EDAs handleconstraints ofproblem  strategies such as penalty, Pareto dominance, or others, without taking into account constraints duringlearning process. traditional approaches usually causegeneration of infeasible solutions in each iteration. Inpaper, an approach based onconstraints handling duringlearning process ofprobabilistic model is proposed. To validateperformance ofalgorithms,new approach in two scenarios is compared. First, insolution of a set of classical optimization problems, where different EDAs are compared in terms of efficiency and efficacy.second group of experiments is performed on a set of instances ofPSPLIB database. Incase,proposed algorithm is compared with a traditional EDA and with other results reported inbibliography.experimental results demonstrate thatproposal outperforms bothresults of traditional EDA and other EDA reported inliterature.
+
+ paper presents a generalized class of mean estimators under simple random sampling  auxiliary variable.observations on bothstudy variable andauxiliary variable are supposed to be recorded with measurement error.mean square error ofproposed class of estimators is derived and studied under measurement errors. Several commonly known estimators are shown as special cases ofproposed class of estimators. Simulation and numerical studies are carried out to evaluateperformance ofestimators.
+
+In order to obtain a competition advantages,proffer of delay payment is of great consequence tool to attract new customers. As a result, inarticle, we develop an inventory model forretailer in which supplier allows a certain fixed period to settleamount. Duringcredit period ifretailer paysoutstanding amount bygrace period i.e. first credit period supplier does not charge any interest. Ifamount paid after first credit period, supplier chargeinterest with some interest rate on unpaid balance. Ifretailer pays after second permissible credit period, retailer have to pay interest with extra rate which is more thanfirst interest rate. Moreover, retailer can earn interest onrevenue duringcredit period. An attempt has been made to maximizetotal profit ininventory model under permissible delay in payments. A numerical example is demonstratedapplicability ofmodel and sensitivity analysis showsinfluence of key parameters.
+
+We propose to use a superpopulation simple regression model.regression coefficient is predicted byresearcher.missing values ofvariable of interest are predicted model.behavior ofproposed predictor is evaluated by determining itsdesign expectations ofmodel bias and variance. A numerical study is developed  real life data.
+
+Inpaper, we are modelingconcentration of PM10 pollutants Generalized Space-Time Autoregressive Moving Average (GSTARMA) model.GSTARMA model is a development ofGSTAR model by remodelingtime effect onGSTAR residual model.purpose ofresearch is to compareperformance ofGSTARMA andGSTAR model.two model are applied to modelconcentration of PM10 pollutants located at three Air Monitoring Stations (AMS) incity of Surabaya – Indonesia.estimation methods employed are OLS and SUR.results ofstudy show thatGSTARMA model produces better accuracy thanGSTAR model in modelingPM10 data in Surabaya. Moreover,GSTARMA model can predict well fortwo days ahead.
+
+Inpaperproblem of estimatingfinite population mean  predictive approach has been deliberated when information on auxiliary attribute is available. Singh et al. (2007): ratio and product type exponential estimators are used as a predictor of mean of unobserved elements ofpopulation to propose product and ratio type exponential estimators.bias and mean square error (MSE): of projected estimators have been acquired up tofirst order of approximation and shown thatproposed estimators are less biased and more effective thanstanding estimators. A practical analysis is conceded to sustenancetheoretical outcomes.
+
+Inpaper, a new Cellular Estimation Bayesian Algorithm for discrete optimization problems is presented.class of stochastic optimization algorithm with learning fromstructure and parameters of local populations are based on independence test and decentralized populations scheme, which reducenumber of function evaluations solving for discrete optimization problems.experimental results showed thatproposal reducesnumber of evaluations insearch ofoptimal for a benchmark discrete function with respect to other approaches ofliterature. Also, it achieved better performance than.
+
+ paper proposes a multi-criteria assignment approach to solvestorage location assignment problem (SLAP), in class-based storage (CBS) policy, to improvewarehouse operations, as well as inventory management.model considersELECTRE III method, a well-known multi-criteria decision aiding (MCDA) method, to construct a medium-sized valued outranking relation, and a multi-objective evolutionary algorithm (MOEA) to exploitoutranking relation to derive a recommendation.model comparesclasses to define allocation inwarehouse, and it finds a SLAP solution that be used for inventory management, balancingoperational and tactical factors, allowing considering warehouse manager preferences, client requirements and stock keeping unit (SKU) characteristics simultaneously.results ofsimulated case showedrobustness ofproposed model for improvingorder picking system performance.
+
+Early estimation and prediction ofturning point and final size of any epidemic and in particular for dengue outbreaks be useful for health authorities in order to explorecontrol measures and to planresponse tooutbreak.Richards model is often been used to estimate epidemiological parameters for infectious diseases based onreported cumulative cases. However, other nonlinear growth model also fitdata well. Recently, we proposeduse of several nonlinear model for estimation and real time-prediction of epidemiological parameters viamethod of model averaging. In order to implementmethod, an R package was created.DengueRT package usesincidence data from a single dengue outbreak and gives estimates forfinal size,turning point ofepidemic and conduct a real-time prediction for parameters  several nonlinear model via model averaging taking into account model uncertainty.package also includes graphical tools for a visualization ofresults. Inpaper, we describeDengueRT package and illustrate its use for a single dengue outbreak that occurred in two health areas ofPlaya municipality in Havana City, Cuba during2001/2002 outbreak.
+
+present paper deals withefficiency improvement ofestimators for finite population variance under complete and incomplete information emerging due to non-response. information of auxiliary character, improved regression cum exponential estimators are proposed for two different cases.bias and mean square error (𝑀𝑆𝐸) ofproposed estimators are derived and theoretical conditions are  to makesuggested estimators more efficient thanunbiased, ratio, regression, generalized and more over classes of estimators used in practice. Theoretical as well as empirical studies are carried out to illustrateefficiency ofproposed estimators.
+
+In production inventory system, are situations, in which it is not possible to have single rate of production throughoutproduction period. Items are produced at different rates during sub periods so as to meet various constraints that arise due to change in demand pattern, market fluctuations, etc., Inpaper, a production inventory model with deteriorative items in which multi-rates (one, two and three) of production are considered and it is possible that production started at one rate and after some time it may be switched over to another rate. Such a situation is desirable insense that by starting at a low rate of production, a large quantum stock of manufacturing items atinitial stage is avoided, leading to reduction inholding cost. A suitable mathematical model is developed andoptimal production lot size which minimizestotal cost is derived.global optimal solution is derived and an illustrative example is provided and numerically verified.validation of result inmodel was coded in Microsoft Visual Basic 6.0
+
+Demand plays a crucial role in supply chain system. Proper knowledge on behaviour of demand improveseffectiveness ofdecision making process in supply chain system. Demand of some products may not always be linear or quadratic or exponential but ramp type. For newly launched fashionable goods, garments, automobiles, etc. demand rises initially but it becomes stagnant after a certain period of time. Ramp type function rigorously depicts such type of demand pattern. Moreover, price discount which is a way of alluringcustomers inmarket has become a strategy for promotingbusiness. Further, it becomes difficult to assessparameters involved in supply chain due to its increasing complexity. That is why it is essential to effectively deal with such type of uncertainty which occurs in business process.present study endeavours to develop a ramp type inventory model under imprecision and price discount where deterioration follows weibull distribution.model is exemplified through numerical illustration. Sensitivity analysis is conducted to discerneffect of various system parameters on optimality.outcomes ofpaper provide inspiring and instrumental insights aboutuncertainty vis-à-vis price discount.
+
+A Production Inventory model is an inventory control model that determinesamount of product to be produced on a
+single facility so as to meet a deterministic demand over an infinite planning horizon. In all inventory model a general
+assumption is that products generated have indefinitely long lives. In general, almost all items deteriorate over time. In
+production inventory model,demand rate is constant and it does not change overperiod. But in real life,demand
+rate is fluctuating overperiod. Atend ofparticular period,demand rate will get changed. So,continuous
+compound demand rate is analyzed inmodel 1 and integrated continuous compound demand with growth of demand is
+introduced inmodel 2. To our knowledge, no researchers have considered both time dependent demands in a single
+model.rate of Growth inproduction period is and inconsumption period is . 
+research considers inventory systems for production inventory model whereobjective is to findoptimal cycle time,
+which minimizetotal cost and optimal amount of shortage if it is allowed.relevant model is built, solved and
+closed formulas are . Necessary and sufficient conditions are derived. An illustrative example is provided and
+numerically verified.validation of result inmodel was coded in Microsoft Visual Basic 6.0
+
+At present, a growing interest inemotional state that employees present in customer service within organizations and companies is a fundamental point that helps guidingbehavior and thought processes in order to achieve good contact with those who request services.study, which has mainly a qualitative characteristic, was carried out withstaff working inadministrative area ofEducational Unit “Santa Maria Goretti”, Ecuador. Withinframework of job performance,study aims to recognizestate of excitement ofemployee.captured image was processed giving rise torecognition of emotions through facial features  a 4-layer convolutional network.result ofsampling is subsequently presented, obtaining emotions inrange from which it presents greater percentage weighting tolowest. Throughtraining process it was allowed to capture physical features in real time DeepLens face detection application, we worked with faces at different angles,application emphasizes three main modules, are namely, 1) face detection, 2) removal of features, and 3) classification of expressions. Before performingtask of emotion recognition,facial recognition software detectedface and a series of key points as eyes, lips, eyebrows. and cheeks, resulting incapture of employee’s excitement, andpercentages of seven emotions, disgust, surprise, fear, angriness, happiness, sadness, and neutral.
+
+Inpaper, we extendParabolic DEA frontier to deal with integer values. Thus, we propose a hybrid approach that combinesParabolic DEA frontier withSequential Algorithm to Resource Allocation in DEA.is a two-phase approach, in whichnon-integer reallocation  byparabolic DEA frontier is transformed into an integer reallocation byuse ofSequential Algorithm, while maintaininghighest DMUs’ efficiencies. We usehybrid approach to redistribute employees among 79 railway stations in Rio de Janeiro. By approach, allemployees were redistributed respectinginteger values, andsystem’s average efficiency has increased from 52% to 96% through input redistribution.
+
+supply chain is a network that integrates logistics and supply activities in service providers or companies that offer tangible goods. Forreason, it is necessary to controlresources thatcompany conserves for subsequent use inmanufacturing process, or to satisfyfinal demand. Stock management is a key operation to produce competitive advantages. Instudy a comparative analysis is carried out between various inventory model for a company inCartagena manufacturing cluster. Mathematical programming techniques are used in order to guarantee a continuous operational flow. Results indicate thatsolutions provided bydynamic programming model produce an inventory management policy with an optimal cost level.
+
+ paper studies retailer’s optimal policies which include optimal replenishment, pricing and promotional cost for a two-phase inventory system with a constant rate of deterioration.first phase is advance booking period in whichproduct is offered at a discounted price and delivery ofproduct is given as soon asreplenishment arrives.second phase is spot sales period in whichproduct is sold at a normal price. Products are considered to be deteriorated at a constant rate. Demand ofproduct is influenced by promotion ofproduct as well as byselling price ofproduct.objective is to maximizetotal profit ofretailer with respect to cycle time, selling price and promotional cost through advertisement.
+
+ study focuses on proposinggeneralized exponential ratio-product estimator for population variance in simple
+random sampling by combination of some existing members with scalars. Mean square error and bias expressions
+with optimality conditions has been derived and atoptimal conditions proposed generalized class is a suitable
+alternative to linear regression estimator. Both analytical and numerical comparison with some existing estimators shows
+better performances frommembers ofproposed class.
+
+ letter presents an overview on some remarkable basics on kernels as well asformulation of a clustering approach based on least-squares support vector machines. Specifically,method known as kernel spectral clustering (KSC) is of interest. We explorelinks between KSC and a weighted version of kernel principal component analysis (WKPCA). Also, we studysolution ofKSC problem by means of a primal-dual scheme. All mathematical developments are carried out following an entirely matrix formulation. As a result, in addition toelegant KSC formulation, important insights and hints aboutuse and design of kernel-based approaches for clustering are provided.
+
+Inpaper we introduce a multivariate mixed fractional Brownian motion model forstudy
+of financial data. We studyproblem of replication of multivariate European derivatives under
+ model. We also show thatmodel be used to generate some scale-dependent correlation
+structures, and in particular, it reproduces a well known empirical fact present in financial data
+known asEpps effect.
+
+Planingsequence and operations in machining processes in Flexible Manufacturing Systems envi-
+ronments implieschallenge of findingbest machining strategy. To do that, is a number
+of CAD/CAM tools to easehand-made heuristical evaluation of alternatives strategies. Besides,
+several mathematical optimization model have been introduced that definebest operation se-
+quence on a part, but limited by already defined operations and times. Inwork we propose a
+Integer Programming Model that includes possible variations of operations subject toplanned
+sequence, based on alternative strategies.model was applied todevelopment of experimen-
+tal blade holders of urban wind-power generators.model returned two results: machining-time
+reduction of 7% andsequence-time definition was reduced in 62%.
+
+ review paper systematizes a detailed, didactical and own construction ofsingular value
+decomposition (SVD).theory is complemented with relevant applications to image processing.
+Also,algorithms of those applications and numerical examples are shown.way how 
+document is organized allows it to be useful for students and researchers with interest inSVD
+and its applications to image processing.
+
+We assumeFoster-Greer-Thorbecke (FGT) poverty index as a centered and normalized empirical
+process indexed by a particular Donsker class or collection of functions and definepoverty index
+as a bootstrapped empirical process, to show thatweak convergence ofFGT empirical
+process centered and normalized is a necessary and sufficient condition forweak convergence of
+FGT bootstrap empirical process centered and normalized. Thus,result re
+ects that under
+certain conditions,consistency in weak convergence ofFGT empirical process considered
+as a classical estimator of poverty (statistics) andconsistency in weak convergence ofFGT
+bootstrap empirical process considered as a bootstrap estimator of poverty (bootstrap statistics) are
+asymptotically equivalents for random samples of incomes statistically large and representative of a
+statistical universe of households.
+
+Particle Swarm Optimization PSO is one ofappropriate methods for solving NP-hard problems.
+So, improving PSO has sense.permutation 
+ow shop scheduling is one of problems. In 
+paper,permutation 
+ow shop scheduling problems is solved by  improved particle swarm
+optimization named IPSO.improvement is done by replacinggenerated initial swarm by
+another one near to optimal solution by implementingIndividual improvement scheme IIS. 
+performance of IPSO is evaluated by several evaluation criteria and several problems generated ran-
+domly from uniform distribution and compered with PSO.result shows that IPSO is outperform
+PSO.
+
+large number of plastic products produced today requiresreuse and recycling of products. In Antofagasta, currently are few enterprises related torecycling or reuse of plastic, incomposition ofgarbage collected in homes it is found that more than 60% corresponds to plastics and cardboard.existing plants, of treatment and recovery ofplastic, use a high volume of said material, which is almost impossible to achieve without an automated collection, separation and classification system. CurrentlyDepartment of Industrial Engineering, with a micro recycling plant, which was funded by CORFO, throughaward ofGreen Plastic project, which allowed to obtain, as a prototype, from an open design  fromPrecius Plastic platform, four machines: Chopper, Injector, Extruder and Oven or compressor. Oncemachines were put into operation, presented various operating problems, which is whyresearch project was born, whose objective is to establishbest operating conditions for a micro plastic treatment plant.fore, it is sought to determinequality of plastic to be  throughplastic recycling process.
+
+Intransportation business, different types of materials/items including breakable items such as units made of glass,
+ceramics, plastics, mud, etc. are transported from various sources to different destinations. Inpaper, a multiple
+objective fractional transportation problem for breakable commodity is formulated and a multiple objective fractional dual
+is developed. An algorithm is generated to determine an initial efficient basic solution by solvingrelated lexicographic
+minimum fractional transportation problem for breakable commodity.algorithm is supported by a real life example of
+Ashi India Glass Limited, India for minimizingmultiple cost for transporting glass-wrap of flat glass.
+
+ paper deals with approximate solutions of an optimization problem with interval-valued objective
+function. Four types of approximate solution concepts ofproblem are proposed by considering
+partial ordering LU onset of all closed and bounded intervals. We show that
+these solutions exist under very weak conditions. Under suitable constraint qualifications, we derive
+Karush{Kuhn{Tucker necessary and sufficient optimality conditions for convex interval-valued
+optimization problems.
+
+Inpaper we propose a method for computingcontour of an object in an image  a snake
+represented as a subdivision curve.evolution ofsnake is driven by its control points which are
+computed minimizing an energy that pushessnake towardsboundary ofinterest region.
+Our method profits fromhierarchical nature of subdivision curves, sinceunknowns of 
+optimization process arefew control points ofsubdivision curve incoarse representation
+and, atsame time, good approximations ofenergies and derivatives are  from
+fine representation. We developtheory assuming thatsubdivision scheme generating 
+snake is linear stationary and uniform. To illustrateperformance of our method we develop a
+computational tool called SubdivisionSnake, which computessnakes associated with two classical
+subdivision schemes:four point scheme andcubic B-spline. Our experiments  synthetic
+and real images with SubdivisionSnake confirm thatproposed method is fast and successful.
+
+Inpaper, we studyoscillatory character of a generalized di-fferential equation of order ff
+with ff 2 (0; 1]. Generalized criteria are , of type Kamenev, which are extensions of several
+known inliterature both integer and fractional.
+
+present paper advocatesimproved estimation of population mean through a new class
+of estimators known informations on an auxiliary variable underSimple Random
+Sampling Scheme.existing estimators of population mean have been shown asmembers
+ofproposed class.Bias and Mean Squared Error (MSE) ofsuggested class are derived
+uptofirst order of approximation.values of Bias andminimum MSE are  by
+optimizingchracterizing scalar.MSE ofsuggested estimator has also been compared
+withMSEs ofexisting estimators forcomparison of estimators. Some ofnew
+members ofsuggested family are also presented inpaper which are more efficient than 
+existing ones emperically which has been shown  a natural population.
+
+development and/or launch of new products is an essential activity forsurvival and competitiveness of organizations, especially for small and medium-sized enterprises (SMEs), since it is a process oriented togeneration of new products or modification of existing ones. Inpresent work, a study is carried out to estimatedemand that a dairy company obtain by incorporating a new line of yogurts with probiotics.study is carried out by means ofhistorical sales information provided byfirm, regardingdifferent products framed withinso-called fermented milks and considering two possible market scenarios. First,percentages ofmarket thatcompany capture indifferent regions ofcountry (Argentina) are determined and sales volumes in each region are estimated. In conclusion, it be said thatcompany benefits, since it is introduced in a new business segment, it improves its position and image of current affairs and modernity. In addition, economic expectations, withnew product line, will increase as new marketing regions are incorporated.
+
+objective ofanalysis is to identifyfactors that affectdifferent types (opportunity and necessity) of female entrepreneurship in Spain, according toeconomic situation ofcountry.data that will be used will bedata ofweb "Global Entrepreneurship Monitor" (GEM) fromperiod 2001-2015 atglobal individual level for Spain and consideringdifferent periods inyears 2001-2015, which are, pre-crisis, crisis and post-crisis.most relevant factors that influence a woman to become an entrepreneur will be analyzed.main reason to identifymain variables that affect female entrepreneurship in Spain by opportunity or necessity is focused onpossibility that be used by governments to take measures against female unemployment, incase of entrepreneurship by necessity or that incase of entrepreneurship by opportunity, enhanceinclusion of women inentrepreneurial ecosystem.
+
+job market is changing wildly, and university programs find it virtually impossible to keep up withsame speed.goal ofwork is to analyzeSTEM (Science, Technology, Engineering and Mathematics) approach in teaching, its relationship with school performance andimpact of technological change in Universities. For , an empirical framework is developed by analogy to previous studies.school performance of 32 students ofmeeting course ofFaculty of Accounting and Finance ofUniversity of Havana is analyzed, insubject Information Systems forAccountant. Descriptive statistics supportresults, school performance improved when a STEM approach was applied,implication ofSTEM approach indevelopment ofworkforce and university teaching frameworks was evidenced.
+
+Missing data is a common problem present in almost every data collection. It is particularly important in sample survey research.existence of missing observations (non-response ) is solved in many sample surveys  some technique of imputation. permit replacingmissing data. Several imputation techniques have been developed inspecialized literature.capacity of for predictingmean or a total istoken for evaluation.paper presents an imputation rule withmain goal of predicting individual values. An auxiliary variable X is known for allunits and a product type predictor is developed for predictingvalue of variable of interest in each non-respondent.unbiasedness ofpredictions is derived andMean Squared Errors (MSE`s). Some conclusions are pointed out.
+
+Statistical modeling has been widely used in several applications articulating theoretical, methodological and computational aspects of statistical model.research was carried out in Cementos Cienfuegos SA (CCSA), in Cienfuegos province, Cuba, withpurpose of get more precise calculation equations in order to predictpercentages ofclínker mineral phases produced in kiln 3 of said industry. Inindustry modified Bogue’s equations are used to calculatepercentages ofclínker mineral phases frommain oxides inraw material, those that overestimate or underestimatereal percentage ofmineral phases inclínker. Predictive equations are  throughMultiple Linear Regression Analysis, after an exploratory data analysis. Was usedStatgraphics Centurion XV statistical package.model  improvepercentage of adjustment  previously and were statistically validated to makepredictions ofmineral phases ofclínker with greater precision and reliability, contributing tofulfillment of objectives 8, 9 and 11 of2030 Agenda and decision making inconstruction sector, one ofstrategically prioritized in Cuba.
+
+A deep disciplinary knowledge onpart ofhigher education teachers is essential for having good quality inteaching of classes in higher education.teacher must master tosmallest detail on how to teach his/her subject. Onother hand, pedagogical knowledge allows teachers to educate students with disciplinary knowledge inmost effective and efficient way.paper aims to analyzerelationship that exists betweenincrease of disciplinary and pedagogical knowledge as a result ofmanagement accompaniment of remote work, that is,supervision of managers ofteaching and learning work through information and communication technologies. Because it deals with concepts whose relationships are complex,problem is modeled by dynamic fuzzy cognitive maps (FCM).takesresults  fromexperience of specialists insubject fromapplication ofDelphi method.
+
+ paper aims to studymanagement of sustainable development in public and private educational institutions inPillco Marca Huánuco District of Perú. For , a survey based on Bronfenbrenner's ecological model is designed. According totheory each person is significantly affected byinteractions of a series of overlapping systems.is part of contextual dialectical theories that explainchange of behavior ofindividual throughinfluence ofenvironment. Forrepresentation and processing ofdataNeutrosophic Likert scale is used.classic Likert scale is widely used in psychological and sociological surveys, however, it restrictspossible answers to a fixed number and only one of must be chosen.neutrosophic Likert scale allowsrespondent to determiningdegree he/she prefers among possible responses, inwayrespondent's opinions are captured more accurately, includingpossible degree of indeterminacy between opinions. Neutrosophic sets generalize fuzzy and intuitionistic fuzzy sets, so that todegree of membership and non-membership of an element toset, it is added a degree of indeterminacy, without any restriction among. Onother hand, “Triple Refined Indeterminate Neutrosophic Sets” (TRINS) are used inNeutrosophic Likert scale.novelty ofarticle is that forfirst time Sustainable Development Management is studied withhelp ofNeutrosophic Likert scale, in a survey based onBronfenbrenner’s ecological model.
+
+One ofmost used tools for project control isEarned Value Management (EVM) method. Establishingplanned value curve (PV), asbaseline of periodic investments in relation to which progress in construction projects is controlled, it is very common to definecurve intuitively; what causes in many occasions thatcontractors fall in breaches duringphase of execution.
+ research suggests thatprogress in construction projects follows typical trends related tonature ofprojects, which be transformed into a standard S curve, elaborated from mathematical model, increasingprobabilities of success of a project, in contrast to if an intuitively developed S curve is used.
+From a sample of potable water, sewerage and roads projects, whose construction had already been completed, logistic model were developed for project planning in those sectors, based onestimated budget and deadline for execution. Subsequently,model  were applied to projects in execution, showing differences betweenplanned progress curves with respect tocurve ofproposed model.
+
+ paper presentsresults ofapplication of soft-computing techniques inevaluation of software projects that be used to secure income in software development environments. It is proposed a method for income assurance in project-oriented organizations that combines project management techniques with soft-computing techniques. Amongproject management techniques used are: risk management techniques, techniques associated with time planning, cost planning, scope management and procurement management. Betweensoft-computing techniques are: automatic learning techniques and word computing; In addition,article analyzesmain project management standards andshortcomings associated withintroduction of innovative decision-making techniques forevaluation of projects; finally,conclusions are presented.
+
+Based oninformation collected from different generations and underown experience of students providing social service atCentro Universitario Valle de México ofUniversidad Autónoma del Estado de México (UAEM),absence of elements that determine, withinEngineering Measurement Laboratory,reliability ofexternal range micrometers, in terms of calibration, is perceived, so it affectsmeasurements  throughoutexperimentation and practice that each student ofIndustrial Engineering program performs. It is identified thatabsence of a system that managescalibration process has a direct impact as a competitive disadvantage inprofessional training of students. It is proposed to implement a Quality Management System, inEngineering Measurement Laboratory ofUAEM University Centre, which is capable of controllingcalibration process, supported byuse of quality tools and methodologies; used both in companies and in laboratories of higher education institutions (IES).
+
+ paper analyzesSolvency Capital Requirement (SCR) for equity risk underguidelines ofcurrent insurance
+regulation in Mexico (equivalent to Solvency II): It is assumed that Mexican Stock Index (IPC/BMV) is a representative
+sample ofbehavior ofshares listed inMexican stock market. A GARCH methodology is proposed with innovations
+t−student forcalculation ofVaR (99.5 %) required as equivalence tostandard formula ofCircular Única de
+Seguros y Fianzas (CUSF): Bymeans,aim is to demonstrate an underestimation ofequity risk when  
+standard model ofComisión Nacional de Seguros y Fianzas (CNSF):contemplated time series runs from April 1990 to
+December 2018 on a daily basis.
+It was found thatRS(2)-GARCH (1, 1) model with t-student innovations, efficiently estimatesbehavior ofCPI
+growth rate, and presents a greater statistical significance when compared withasymmetric E-GARCH model, T-GARCH
+andmodel with normal distribution. Consequently,RS-GARCH model represents an additional methodology for 
+measurement of equity risk, and that be translated into a tool for insurance companies to estimate solvency.
+
+In Mexico,State is responsible for national economic planning fordevelopment and well-being ofpopulation, especially those facing problems of poverty and social backwardness. For , it has strategic planning as a methodological analysis tool.objective ofresearch is to draw up a strategic plan forlocal development of communities in poverty, taking as a reference a type locality. Hypothesis. If a strategic plan for local development focused on rural communities in poverty were applied, determining and conditioning factors ofproblem would be identified,appropriate means to deal with it would be established, andestablished public policies would be efficiently targeted. Method. Social research with a descriptive and transversal quantitative approach, applied in a community in a situation of poverty. From a population universe of 500 families, and by simple random sampling with a 95% confidence interval and a 5% margin of error, a sample of 90 households was determined. A structured questionnaire was applied based on previous research. Results.determinants of poverty were identified as well as strengths and weaknesses, with which a prototype strategic plan for local development was prepared.
+
+ paper presents a teaching system for Higher Education Institutions in careers such as logistics, supply chain, internal logistics and related fields, throughunderstanding of mathematical procedures oriented to simulation.
+Presenting a case study of material requirements planning (MRP) that provides a production and supply schedule, according tosales forecasts of a Distribution Centre (CEDIS):production standards and delivery times ofsuppliers, which respond toWhat, how much and When to supply. (Velasco Flores, 2017):
+MRP is a set of techniques that uses bill of materials data, inventory data andmaster production plan to calculate material requirements. It suggests releasing material replenishment orders and rescheduling open orders, based ontime lag. (APICS, 2019):
+MRP I mathematical procedure presented inresearch is based on two fundamental aspects:
+1. It refers to finished products.
+2.system is carried out according toneeds of each item (independent demands and product structure):
+MRP I is based oncalculation ofnet needs ofarticles and components, introducing a factor not considered intraditional methods of stock management, which ultimately leads to modulatetime, with due planning with respect to its use, to subsequently simulate it in a software.

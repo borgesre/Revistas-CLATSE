@@ -1,0 +1,206 @@
+optimal control cancer chemotherapy pharmacometrics of drugs linear L1 and
+quadratic L2 objectives
+standard adoption sequential dynamics synchronous dynamics partial parallelism
+Markov chain
+Bias Mean Square Error MSE Auxiliary/Supplementary Variable Percentage
+Relative Effciency PRE
+capacitated transportation problem trade-off restricted 
+ow related transportation problem
+Bayesian Estimation Exponential distribution Kullback-Leibler Divergence Measure Complete Data Type II Censored Data Type I Censored Data Maximum Likelihood Estimation
+Steffensen type method Homeier type method Iterative methods
+Classifiers Statistical classification Regression Tree Logistic regression
+Extreme Value probability distributions return periods
+Hybrid-flexible flow-shop makespan optimization scheduling q-learning
+Big-Data normality tests asymptotic normality of means
+Burnout syndrome occupational health preventive strategies
+Legal information Support for Decision Making Expert systems New Information and Communication
+Technologies
+multi-coverage dynamic maximal covering location problem police patrol
+Container stacking problem free optimization solvers storage space allocation
+problem
+New Weibull-Pareto distribution Maximum likelihood estimator Renyi entropy Moments Exponentiated
+distribution
+Aggregate Customer Satisfaction Index Structural Equations Model Partial Least Squares Students’ Satisfaction
+Youth Life Habits Social Support TAID
+Quartiles nonConventional location parameters Median M-Estimation Bias Mean Square Error Efficiency
+control and monitoring of variables virtual learning environments education online
+Investment study net present value internal rate of return neutrosophic number
+Victimization Data Mining Decision Tree Clustering
+Entrepreneurship SWOT Neutrosophy AHP
+Innovation Labor productivity Manufacturing industry Declining returns Gross fixed capital formation
+Educational inclusion special educational needs descriptive statistics nonprobabilistic sampling
+noninstantaneous Deterioration Discounts on Selling Price Price dependent ramp type demand
+Measurement errors nonresponse study variable auxiliary variable bias mean square error
+Banana cultivation Black Sigatoka Shadow prices Linear programming
+Open Source Code Arduino Green Panels Monitoring
+Linear fractional programming problem integer programming multi-level programming efficient
+solution bounded variables multi-objective programming
+Measurement error misclassification zero-truncated binomial distribution power average run length 
+ARL  OC curve
+Integrated inventory time dependent deterioration genetic algorithm lot size dependent ordering cost time
+dependent quadratic demand inflation
+Order statistics ranked set sampling randomized response
+Bi-objective optimization Multihead weighing process Setting of hoppers Reduction of variability
+Randomized response model Unequal probability sampling scheme Simple random sampling without
+replacement schemeSimple random sampling with replacement
+Cancer Death Mortality Rate Spatial Autocorrelation Spatial Pattern Spatial Analysis
+Multivariate analysis Principal component analysis CUR decomposition Correlation Singular Value
+Decomposition
+logistics shortest route Dijkstra algorithm optimization transport distribution
+TCP NTCP efficacy toxicity body surface area
+Teaching programming programming logic programming language Systems engineering algorithms
+Airport efficiency central airports Brazilian air transport Multiple Criteria Data Envelopment Analysis
+Replenishment Decaying goods Inventory Conditional delivery
+Pedagogical practices teachers performance pedagogical scenarios learning multicriteria methods
+value chain strategies productivity contingency table
+Net Present Value Internal Rate of Return forecasting interpolation extrapolation
+Expected return maximun return capital at the end of the insured’s year of death product’s benefit current
+value random variable annual interest rate random variable
+Working capital Budget liquidity fuzzy logic decision making
+social choice functional evaluation function utilitarian weighted utilitarian
+Tourism supply and demand quantitative method simple and multiple linear regression
+Industrialization SMEs Statistical Tests
+Applied statistic variable in study Analysis of Main Components for Categorical Data CATPCA
+Fourier Series Kernel Mixed Nonparametric Regression Percentage of Poor People
+Second-Order Statistics Noise Cancellation Power Spectrum Convolution
+Concomitant Variables Dynamic Programming Multistage Decision Problem
+Inventory Learning effectImperfect items Shortages Trade credit financing Fuzzy system
+ratio type estimators robust regression methods ancillary information simple random sampling efficiency
+Logistic regression Nonparametric regression Scatterplot Smoothing Splines
+Weibull Demand Triangular Fuzzy Number Trapezoidal Fuzzy Number Pentagonal Fuzzy Number Graded
+Mean Integration
+Assessment Center Skills knowledge qualification skills
+Assembly compatibility expert system
+Key Performance Indicator customer satisfaction competitiveness CVaR
+relationship quality bibliographic cartography
+Scheduling Estimation of Distribution Algorithms Optimization Constraints Handling
+Auxiliary variable study variable successive sampling mean square error
+Strategic plan community development statistical analysis SWOT methodology
+Composite likelihood max-stable process max-mixture models pairwise likelihood Monte Carlo simulation
+capacitated transportation problem trade-o restricted 
+ow related transportation problem
+analytical solution equations of motion Hookes law
+stochastic equation of prey-predator model periodic solution hibernation
+Khasminskii function
+Partial differential equations Distributed parameter systems Plug flow reactors Cubic Spline
+collocation method
+weekly menu nutritional requirements integer programming
+Bias Minimum Mean Squared Error Estimators Ranked Set Sampling Ratio-Cum-Product Type Estimator Simple Random Sampling
+Asymmetry Levy Distribution Classical Statistics Bayesian Statistics Extreme
+Values
+Soft Computing Decision Making Project Management
+Auxiliary variable stratified random sampling measurement error and nonresponse
+New Weibull Pareto Distribution Transformed Distribution Order Statistics Reliability Renyi Entropy
+Accreditation Higher Education Institutions Impact Studies Quality Assurance
+EOQ noninstantaneous deterioration advertisement and price sensitive demand order quantity dependent trade credit
+pillar communication lines power lines traverse safety
+Supply chain Learning curve Imperfect quality items noncooperative games Game theory
+Imperfect coverage Redundancy Human failure Cost benefit Markov process
+Data Réplication Réplica Creation Réplica Placement Réplica Consistency
+Changing Viewership Rate View-count VIKOR and YouTube
+MANET SVM Blackhole Attack Intrusion Detection System
+Natural Language Processing Word Sense Disambiguation Punjabi language Case Based Reasoning Classifiers Similarity Function
+mathematical modeling material cutting material cutting software
+Model Strategic Logistics Critical Path Method CPM
+logistics order preparation formal techniques
+Dengue outbreak parameter estimate model averaging Bayesian hierarchical model Gibbs variable selection
+ratio extensions of classic ratio estimator generalized ratio estimators classes of ratio type estimators
+IMU Kalman filter complementary filter orientation estimate
+Sustainability farm banana
+Future failures Gamma prior Non informative prior Survival function Confidence interval
+Eggs Transportation Problem Bi-criteria Trade-off Eggshell Breakage
+Efficiency Ratio Estimation Simple Random Sampling Transformation
+Quality service nonparametric statistical test
+Stratification Optimum allocation Randomized response technique Nonresponse Branch and Bound method NLPP
+Study variable Auxiliary Variable Bias Mean squared error nonresponse Simulation
+Optimum Stratification Minimal Equations Strata Boundaries
+Computed tomography imaging Image analysis Multilevel Factor Analysis Micro-macro analysis Prognostic procedure
+Resource allocation problems Optimization model Ants System Higher Education
+packet size sniffer traffic classification traffic modeling
+Finite differences stability numerical experiments
+Cauchy problem chemical reaction dynamical behavior
+Boundary Element Method BEM plane elasticity
+Data Mining Big data Clúster Data Analysis Social Sciences
+Remote sensing Transfer learning Data augmentation
+Bayesian Networks K2 PC EM Hierarchical Clustering Academic Performance
+Student Evaluation
+Multiple Sequence Alignment MultiObjective Optimization Metaheuristics Bioinformatics
+RSA Security Encryption Over-encryption Implementation
+neutrosophic set neutrosophic offset uninorm offuninorm digital image processing
+humanistic formation teaching of law Neutrosophic TOPSIS multi-criteria decision making statistical inference
+extra-contractual responsibility public charges neutrosophy neutrosophic DEMATEL
+Data mining Artificial Intelligence in medicine unsupervised learning associating rule clustering
+social reinsertion labor opportunity Computing with Words 2-tuple linguistic neutrosophic numbers set
+neutrosophic game neutrosophic set noncooperative game zero-sum game game in normal form
+untimely dismissal labor conflict Neutrosophic AHP Fuzzy Cognitive Map
+social network leader Small-World neutrosophic number neutrosophic graph
+irregular migrant neutrosophic cognitive map neutrosophic number dynamic system
+audit internal control decision making Neutrosophic AHP
+labor stress Fuzzy Decision Map fuzzy number Neutrosophic Decision Map
+agriculture climatic change alimentary security neutrosophic cognitive map neutrosophic number
+Technology Project Balanced Scorecard Model Neutrosophic Analytical Hierarchy Process Zero-one linear programming
+Internal Control System multicriteria methods SVN
+Multicriteria method neutrosophic numbers classification beef
+Cloud Computing Analysis of Decisions Consensus Neutrosophic numbers
+Decision Analysis SVN Numbers analytic hierarchy process project selection
+Expert System Case-Based Reasoning Neutrosophic Set Neutrosophic AHP
+Decision Making Projects Management Neutrosophic Cognitive Maps Triangular Neutrosophic Number
+Clinical Decision Support Model Neutrosophic Cognitive Maps Triangular Neutrosophic Numbers Heart Diseases in Pregnancy
+Trended Demand Carbon Footprints Cap and Trade System Carbon Cap Carbon Credits
+Inventory Theory nonInstantaneous Deterioration Progressive Trade Credit Different Financial Scenario EOQ
+Vendor managed inventory VMI Discounted cash flow DCF approach payment policies Cash on delivery COD Cash before delivery CBD
+EOQ Model Imperfect Quality Inspection Price-sensitive Quadratic Demand
+Learning effect Inventory EOQ Trade credit financing Fuzzy environment Centroid method
+Discrete time service facility system discrete inventory system s S ordering policy Markov Decision Processes MDP
+Distribution function Fault detection process FDP Fault correction process FCP Multi Release Normalized criteria distance method NCDM Software reliability growth models SRGMs
+Production Planning Problem Multi-objective Optimization Case study
+K – loss function Precautionary loss function Uniform prior Jeffrey’s prior power function distribution type – II censoring
+Average run length Extreme ranked set sampling Median ranked set sampling Minimax ranked set sampling Monte Carlo simulation Shewhart control chart
+Algorithm Cumulant Mathematical Expression
+Constraints handling Estimation of Distribution Algorithms Metaheuristic Scheduling
+Measurement error percentage relative efficiency mean square error simulation
+Stock-dependent price-sensitive demand Trade-credit optimization
+superpopulation imputation predictor missing data assertiveness Covid19 Body Index Mass
+GSTARMA GSTAR OLS SUR PM10
+Predictive approach Study variable Attribute Exponential estimators Point bi-serial correlation Bias Mean square error Efficiency
+Cellular EDAs Bayesian networks learning evolutionary algorithm
+Warehouse management Picker-to-parts systems Multi-objective evolutionary algorithms Multi-criteria decision analysis ELECTRE III method
+Dengue outbreak R package model averaging parameter estimation real-time prediction
+Variance Bias Mean square error Auxiliary character nonresponse
+Production cycle time demand one rate two rates three rates of production and optimality
+Weibull distribution price discount fuzzy defuzzification
+Economic Production Quantity EPQ Deteriorative items Cycle time Optimality Integration Growth of
+Demand Continuous compound Demand CCD and Production
+Emotional Recognition Emotional Intelligence Artificial Intelligence Convolutional Neural Network Facial Expression
+Parabolic DEA Parametric DEA Resources Redistribution Integer Resources Fixed-sum Inputs
+Inventory Management Manufacturing Cluster Dynamic Programming Mixed Integer Programming Stochastic Programming
+Inventory model Marketing Advance booking Deterioration Selling price
+Exponential ratio-product estimator Bias MSE optimality conditions Efficiency
+Support vector machine SVM Clustering Kernel spectral clustering KSC kernel principal component analysis
+fractional Brownian motion payo replication Epps eect
+numerical control manufactures process planning
+SVD singular values image processing Linear Algebra
+Foster-Greer-Thorbecke poverty index Convergence of empirical processes Donsker
+classes Bootstrap empirical processes
+Particle swarm optimization Flow shop scheduling problems Individual improvement scheme
+recycling plastic operation conditions experiment design
+Multiple Objective Fractional Programming Transportation Lexicographic Breakable commodity
+Interval-valued optimization Approximate solutions Existence theorems KKT
+optimality conditions
+subdivision snakes object segmentation
+Generalized ordinary dierential operator oscillation
+Study Variable Auxiliary Variables Simple Random Sampling Constants MSE
+PRE
+Study Demand Dairy Product
+Female entrepreneurship factors Spain
+Academic performance of teachers STEM approach in teaching University Information Systems for the Accountant technological change
+Missing data imputation product type predictor unbiasedness Mean Squared Errors
+soft-computing making decisions project management
+statistical modeling clínker prediction equations
+Fuzzy cognitive map disciplinary knowledge pedagogical knowledge Higher Education
+Neutrosophic Likert scale neutrosophy Triple Refined Indeterminate Neutrosophic Sets Bronfenbrenner´s ecological model
+Earned Value Management EVM planning construction project control
+Calibration Micrometer Quality
+Equity Risk Volatility Solvency II GARCH models
+Strategic planning Development Local development Poverty Strategic plan
+teaching system material requirements planning MRP simulation
